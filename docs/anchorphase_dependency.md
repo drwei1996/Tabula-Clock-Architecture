@@ -23,8 +23,8 @@ It is **not** used for Figures 1–5 static analyses or Figure 7 six-arm scores.
   
 ## Input/output contract
 
-- Input: raw UMI pseudobulk counts for the 17 anchor genes + whole-transcriptome library sizes (size-factor offset uses ALL genes).
-- Output consumed here: per-cell `phase_mean_h` (0–24 h), `posterior_R`; aggregated to pseudobulk units with eligibility posterior R ≥ 0.3 and ≥2 detected anchored genes.
+- Input: raw single-cell UMI counts for the 17 anchor genes, together with total UMI counts across all genes for each cell. The sequencing-depth offset is calculated using the total UMI count.
+- Output consumed here: per-cell `phase_mean_h` (0–24 h) and `posterior_R`. Downstream analyses retain cells with posterior R ≥ 0.3 and at least two detected anchor genes. Eligible cells are then aggregated when required for downstream analyses.
 - Example rebuild call (after installing AnchorPhase):
 
 ```bash

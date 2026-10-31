@@ -13,13 +13,14 @@ It is **not** used for Figures 1–5 static analyses or Figure 7 six-arm scores.
 
 | Field | Value |
 |---|---|
-| Software | AnchorPhase, release `1.0.0` (this submission's companion release) |
+| Software | AnchorPhase, planned release `v1.0.0` |
 | Frozen model | KATv2-B0 corrected offset (task 10A), frozen 2026-10-07 |
 | Anchor priors | 17 genes, fixed phi_g; SHA-256 of prior source recorded in the AnchorPhase release (`configs/ACROPHASE_PRIOR_FREEZE.json`) |
 | Engine seed | 20261007 (deterministic EM/L-BFGS) |
-| Repository | `https://github.com/PLACEHOLDER-ORG/AnchorPhase` (fill at upload; archive DOI `ZENODO-DOI-PLACEHOLDER`) |
-| Git pin | `GITHUB-COMMIT-OR-TAG-PLACEHOLDER` — pin the exact commit after the repository is created, before journal submission |
-
+| Repository | https://github.com/drwei1996/AnchorPhase |
+| Git pin | `6c1ec50498d05e6d9321d9770813dc7804024f81` |
+| Archive DOI | Pending Zenodo archival of the GitHub v1.0.0 release |
+  
 ## Input/output contract
 
 - Input: raw UMI pseudobulk counts for the 17 anchor genes + whole-transcriptome library sizes (size-factor offset uses ALL genes).

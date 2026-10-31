@@ -19,7 +19,7 @@ It is **not** used for Figures 1–5 static analyses or Figure 7 six-arm scores.
 | Engine seed | 20261007 (deterministic EM/L-BFGS) |
 | Repository | https://github.com/drwei1996/AnchorPhase |
 | Git pin | `6c1ec50498d05e6d9321d9770813dc7804024f81` |
-| Archive DOI | Pending Zenodo archival of the GitHub v1.0.0 release |
+| Archive DOI | 10.5281/zenodo.23833194 |
   
 ## Input/output contract
 

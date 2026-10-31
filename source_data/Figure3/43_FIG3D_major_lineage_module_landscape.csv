@@ -1,0 +1,15 @@
+v3_primary_module_id,major_lineage,median_beta,n_families,n_formal_hits,n_unique_pathways,lineage_label,module_label
+M01_CYTOKINE_TNF_NFKB_INNATE_IMMUNE,b_cell,0.4906173803541852,5,5,5,B cell,Cytokine/TNF/NF-κB/innate immune
+M02_MAPK_RTK_GROWTH_FACTOR,b_cell,0.5360227733767579,3,5,5,B cell,MAPK/RTK/growth factor
+M02_MAPK_RTK_GROWTH_FACTOR,fibroblast,0.699824865008083,2,2,2,Fibroblast,MAPK/RTK/growth factor
+M02_MAPK_RTK_GROWTH_FACTOR,t_cell,0.662764063172818,1,1,1,T cell,MAPK/RTK/growth factor
+M03_TGFB_SMAD,b_cell,0.5619667147774015,2,2,2,B cell,TGF-β/SMAD
+M04_CELL_DEATH_APOPTOSIS,b_cell,0.45832041127185463,2,2,2,B cell,Cell death/apoptosis
+M04_CELL_DEATH_APOPTOSIS,fibroblast,0.7284883254480706,1,1,1,Fibroblast,Cell death/apoptosis
+M05_RHO_CYTOSKELETON_ADHESION_REMODELING,fibroblast,0.5074567906860173,1,1,1,Fibroblast,Rho/cytoskeleton/adhesion/remodeling
+M08_TRANSCRIPTION_CHROMATIN_DIFFERENTIATION,b_cell,0.5953930563061317,1,1,1,B cell,Transcription/chromatin/differentiation
+M08_TRANSCRIPTION_CHROMATIN_DIFFERENTIATION,fibroblast,0.6306851249617871,2,4,4,Fibroblast,Transcription/chromatin/differentiation
+M11_OTHER_SIGNALING_SPECIALIZED,b_cell,0.5339019553532816,1,1,1,B cell,Other specialized signaling
+M11_OTHER_SIGNALING_SPECIALIZED,fibroblast,0.6185647974674195,1,1,1,Fibroblast,Other specialized signaling
+M99_OTHER_UNCLASSIFIED,b_cell,0.5142657839592562,1,1,1,B cell,Other/unclassified
+M99_OTHER_UNCLASSIFIED,endothelial,0.5722081460706729,1,1,1,Endothelial,Other/unclassified

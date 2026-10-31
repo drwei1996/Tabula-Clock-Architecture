@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Lineage-associated organization of clock gene expression across human tissues — analysis code and source data"
+type: software
+authors:
+  - name: "Tabula Clock Architecture authors"
+version: 1.0.0
+date-released: "2026-10-30"
+license: MIT
+repository-code: "https://github.com/PLACEHOLDER-ORG/Tabula-Clock-Architecture"
+keywords:
+  - circadian clock
+  - Tabula Sapiens
+  - single-cell atlas
+  - tissue architecture
+  - ulcerative colitis

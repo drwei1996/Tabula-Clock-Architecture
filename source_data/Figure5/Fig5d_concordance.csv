@@ -1,0 +1,3 @@
+﻿comparison,prototype_matrix_pearson_r,exact_lineage_permutation_p_upper,n_exact_permutations
+Tabula_vs_HCL,0.8484746539678263,0.008333333333333333,120
+Tabula_vs_AHCA,0.789882246053515,0.008333333333333333,120

@@ -1,0 +1,148 @@
+{
+  "narrative": "Frozen B0 inferred phase, not observed real sampling ZT",
+  "method": "B full atlas; C V2.1 post-screened; D adjusted V3 and optional unadjusted lineage curves; E held-tissue donor-disjoint CV",
+  "inputs": {
+    "02_M012_MAIN_RESULTS.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_IDENTITY_VS_CLOCK_HALLMARK_REACTOME_V1/02_M012_MAIN_RESULTS.csv",
+    "04_FIXED_NULL_AND_STATE_RESULTS.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_STRICT_VALIDATION_V2_1/04_FIXED_NULL_AND_STATE_RESULTS.csv",
+    "04_PHASE_ROTATION_RESULTS.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_STRICT_VALIDATION_V2_1/04_PHASE_ROTATION_RESULTS.csv",
+    "02_CONDITIONAL_M2_RESULTS.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_M2_CONDITIONAL_NULL_CV_V3/02_CONDITIONAL_M2_RESULTS.csv",
+    "04_TISSUE_DONOR_DISJOINT_WITHIN_BLOCK_CV.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_IDENTITY_VS_CLOCK_HALLMARK_REACTOME_V1/04_TISSUE_DONOR_DISJOINT_WITHIN_BLOCK_CV.csv",
+    "03_M2_CV_SUMMARY.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_M2_CONDITIONAL_NULL_CV_V3/03_M2_CV_SUMMARY.csv",
+    "03_COMMON_SUPPORT_M2_RESULTS.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_M2_COMMON_SUPPORT_V4/03_COMMON_SUPPORT_M2_RESULTS.csv",
+    "05_LINEAGE_PHASE_AND_AMPLITUDE_DESCRIPTIVE.csv": "<TABULA_PROJECT_ROOT>/katv2/TABULA_FIG6_IDENTITY_VS_CLOCK_HALLMARK_REACTOME_V1/05_LINEAGE_PHASE_AND_AMPLITUDE_DESCRIPTIVE.csv"
+  },
+  "panels": {
+    "B": {
+      "n_modules": 1468,
+      "hallmark_M1_BH05": 25,
+      "reactome_M1_BH05": 689
+    },
+    "C": [
+      {
+        "pathway": "HALLMARK_OXIDATIVE_PHOSPHORYLATION",
+        "baseline_M1_deltaR2": 0.3580996763458991,
+        "adjusted_M1_deltaR2": 0.2612130490376551,
+        "wild_BHq_M1": 0.006,
+        "fixed_null_BHq_M1": 0.0128571428571428,
+        "donor_rotation_BHq_M1": 0.0045
+      },
+      {
+        "pathway": "HALLMARK_MTORC1_SIGNALING",
+        "baseline_M1_deltaR2": 0.217277048076792,
+        "adjusted_M1_deltaR2": 0.111409712542611,
+        "wild_BHq_M1": 0.006,
+        "fixed_null_BHq_M1": 0.0128571428571428,
+        "donor_rotation_BHq_M1": 0.0045
+      },
+      {
+        "pathway": "HALLMARK_GLYCOLYSIS",
+        "baseline_M1_deltaR2": 0.201109071965419,
+        "adjusted_M1_deltaR2": 0.1051526212370042,
+        "wild_BHq_M1": 0.0102857142857142,
+        "fixed_null_BHq_M1": 0.0128571428571428,
+        "donor_rotation_BHq_M1": 0.0045
+      },
+      {
+        "pathway": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+        "baseline_M1_deltaR2": 0.1889592406279309,
+        "adjusted_M1_deltaR2": 0.0783458540295889,
+        "wild_BHq_M1": 0.006,
+        "fixed_null_BHq_M1": 0.0128571428571428,
+        "donor_rotation_BHq_M1": 0.0045
+      }
+    ],
+    "D_adjusted": [
+      {
+        "pathway": "HALLMARK_INFLAMMATORY_RESPONSE",
+        "label": "Inflammatory response",
+        "dR2": 0.2249260254286722,
+        "wild_q": 0.002,
+        "mean": 0.0018470159241163,
+        "lo": 0.0006041735516906,
+        "hi": 0.0031407380440711,
+        "better": 0.7307692307692307,
+        "tissues": 26,
+        "null": "NO_COMMON_SUPPORT",
+        "n_null": 37
+      },
+      {
+        "pathway": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+        "label": "TNF$\\alpha$/NF-$\\kappa$B",
+        "dR2": 0.1770684420657217,
+        "wild_q": 0.002,
+        "mean": 0.0022662044545526,
+        "lo": 0.0008858812713751,
+        "hi": 0.0037511818135206,
+        "better": 0.6923076923076923,
+        "tissues": 26,
+        "null": "NO_COMMON_SUPPORT",
+        "n_null": 0
+      },
+      {
+        "pathway": "HALLMARK_IL6_JAK_STAT3_SIGNALING",
+        "label": "IL6–JAK–STAT3",
+        "dR2": 0.2071735644013999,
+        "wild_q": 0.002,
+        "mean": 0.0015873340522571,
+        "lo": 0.0004614473225211,
+        "hi": 0.0028200237439925,
+        "better": 0.6923076923076923,
+        "tissues": 26,
+        "null": "NO_COMMON_SUPPORT",
+        "n_null": 343
+      }
+    ],
+    "D_descriptive_profile_count": 15,
+    "E": [
+      {
+        "pathway": "HALLMARK_OXIDATIVE_PHOSPHORYLATION",
+        "role": "M1",
+        "n_folds": 26,
+        "cv_mean": 0.0046919171549742,
+        "fraction_better": 0.7307692307692307
+      },
+      {
+        "pathway": "HALLMARK_MTORC1_SIGNALING",
+        "role": "M1",
+        "n_folds": 26,
+        "cv_mean": 0.0013664885642485345,
+        "fraction_better": 0.6923076923076923
+      },
+      {
+        "pathway": "HALLMARK_GLYCOLYSIS",
+        "role": "M1",
+        "n_folds": 26,
+        "cv_mean": 0.0005449743469178884,
+        "fraction_better": 0.6153846153846154
+      },
+      {
+        "pathway": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+        "role": "M1",
+        "n_folds": 26,
+        "cv_mean": 0.0013081505608378385,
+        "fraction_better": 0.6538461538461539
+      },
+      {
+        "pathway": "HALLMARK_INFLAMMATORY_RESPONSE",
+        "role": "M2",
+        "n_folds": 26,
+        "cv_mean": 0.0018470159241163,
+        "fraction_better": 0.7307692307692307
+      },
+      {
+        "pathway": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+        "role": "M2",
+        "n_folds": 26,
+        "cv_mean": 0.0022662044545526,
+        "fraction_better": 0.6923076923076923
+      },
+      {
+        "pathway": "HALLMARK_IL6_JAK_STAT3_SIGNALING",
+        "role": "M2",
+        "n_folds": 26,
+        "cv_mean": 0.0015873340522571,
+        "fraction_better": 0.6923076923076923
+      }
+    ]
+  }
+}

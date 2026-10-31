@@ -1,0 +1,63 @@
+figure,panel,final_panel_content,release_script,result_table_frozen,evidence_strength,evidence_note
+Figure1,a,"UMAP core-8 by lineage (2,030 units)",scripts\clock_architecture_umap.py + corrected_full_analysis_v2\16_ARTICLE_CLEAN_ARCHITECTURE_20260920\02_UMAP (35_redraw chain),16_ARTICLE_CLEAN\02_UMAP\source_data CSVs,Reconstructed and numerically verified,composition+timestamp match; composite panel file not pixel-pinned (no PSD); 883/137-style pair audit n/a
+Figure1,b,UMAP expanded-17 by lineage,same,same,Reconstructed and numerically verified,
+Figure1,c,17-gene heatmap (BMAL1=ARNTL labels),scripts/phaseA_discovery/35_redraw_C01_tabula_style_v10_LINEAGE_ONLY.py,C01v10_celltype_feature_matrix_zscore_means.csv,Reconstructed and numerically verified,gene rows verified by zoom crops
+Figure1,d,5 lineage heatmaps,same,v10 zoom CSVs,Reconstructed and numerically verified,
+Figure2,a,between-within 1.595 [0.926-1.902],"corrected_full_analysis_v2\scripts\03_run_corrected_A1_A2.py (bootstrap_distances 826-951; crossed donor/tissue exponential multiplier weights, 5000 iters, seed 20260913)",02_A2\corrected_distance_summary.tsv (effect/Delta row: 1.5949 [0.9259-1.9015]); corrected_distance_bootstrap_5000.tsv (delta pct 0.92586/1.901505 recomputed),Exact source,panel value 1.595/1.902 exact; panel '0.928' is small-font rendering of 0.926 (=0.9259)
+Figure2,b,lineage medians + CI,same summary table lineage_within rows,02_A2\corrected_distance_summary.tsv (fib 3.75[2.81-6.34] endo 3.05[2.66-4.08] mac 2.36[2.08-3.21] T 2.31[2.14-3.45] B 1.74[1.33-2.70]),Exact source,
+Figure2,c,fibroblast & B-cell cross-tissue,scripts/figure2_distances/41_redraw_fig2_four_candidates_clean.py,41_ tables,Reconstructed and numerically verified,
+Figure2,d,variance partition heatmap (24 features),corrected_full_analysis_v2\scripts\42_run_corrected_24feature_variance_partition.py (finite-design hierarchical Shapley SS; orthogonal_basis 157-191; FiniteDesignVariance 192-505),42_...\source_data CSVs,Exact source,estimator = hierarchical Shapley sums-of-squares on rank-aware orthonormal design
+Figure2,e,lineage-specific contributions,same,same,Exact source,
+Figure3,a,identity-vs-tissue r=0.34,scripts/figure3_pathways/43_redraw_Fig3D_major_lineage_module_landscape.py (+51),panel annotation; producing CSV pinned to 43_/51_ source_data,Reconstructed and numerically verified,value verified on panel; CI method stated in Methods as archived
+Figure3,b,Reactome tissue-effect heatmap,scripts/figure3_pathways/48..50 (+51/52),frozen A4.7 stats (00_freeze\A4_7_*),Exact source,"50,000 perms/set Hallmark; 5,000 matched nulls Reactome"
+Figure3,c,Hallmark matched-background heatmap,same,same,Exact source,
+Figure3,d,effect vs specificity,scripts/figure3_pathways/47_build_Fig3_EFG_TOP_PATHWAYS.py,same,Reconstructed and numerically verified,
+Figure3,e,module counts (127/98/69/11),scripts/figure3_pathways/52_update_ontology_and_frosted_fig3FG.py,00_freeze\A4_8_V3_FINAL_ONTOLOGY_20261020,Exact source,
+Figure3,f,module x lineage,scripts/figure3_pathways/43 (+52),same,Reconstructed and numerically verified,
+Figure4,a,three-loop heatmap,scripts/figure4_six_arm/62..68 (67 renders),64_...\source_data\DONOR_TISSUE_LINEAGE_SCORES.csv (650 units),Reconstructed and numerically verified,panel content has no atlas blocks; Tabula-only consistent
+Figure4,b,six-arm heatmap,same,02_ALL_17GENE_TO_6ARM_COMPONENTS.csv,Reconstructed and numerically verified,arms = EXPANDED17 grouping
+Figure4,c,activator-repressor balance,same,same,Reconstructed and numerically verified,
+Figure4,d,matched pairwise contrasts,scripts/figure4_six_arm/64_run_residualized_coupling_and_matched_contrasts.py,64_ tables,Reconstructed and numerically verified,fib>endo +0.37/+0.57/+0.87 quoted from frozen ver1 tables
+Figure4,e,residualized coupling network,64/68 chain,same,Reconstructed and numerically verified,
+Figure4,f,incremental R2 lineage vs tissue,scripts/figure4_six_arm/67 + figure5_external_zt/78,78_A_MULTIVARIATE_EFFECT_DECOMPOSITION.csv,Reconstructed and numerically verified,
+Figure5,a,GSE292219 true-ZT trajectories + phase SD,scripts/figure5_external_zt/82_FIX3_build_final_time_TF_story_panels.py,A_SELECTED_SOURCE.csv -> 75_74G_lineage_ZT_mean_norm10k.pkl (180 rows); MAIN_A_FIX4 source,Exact source,hard_gate PASS; six 76_* candidates rejected with audit
+Figure5,b,leave-one-ZT-out 0.433 vs null,scripts/figure5_external_zt/78_LINEAGE_INTRINSIC_3LOOP_VALIDATION.py,78_E_GSE292219_ZT_RESIDUAL_PORTABILITY.csv; B_CANONICAL_CROSSCHECK all PASS,Exact source,
+Figure5,c,three-atlas LOTO 0.77/0.53/0.85,scripts/figure5_external_zt/78_LINEAGE_INTRINSIC_3LOOP_VALIDATION.py,78_B_TISSUE_HELD_OUT_LINEAGE_PORTABILITY.csv,Exact source,
+Figure5,d,three-atlas six-arm prototypes,scripts/figure5_external_zt/78 (+82_FIX3 §D),"{Tabula,HCL,AHCA}_TISSUE_RESIDUAL_LINEAGE_PROTOTYPE.csv; MAIN_D source (15x8); 78_D concordance r=.8485/.7899 P=.00833",Exact source,panel titles Tabula Sapiens/HCL/AHCA verified on TIFF
+Figure5,e,TF coupling (CREM/MEF2A/RUNX1/TBX21 vs PPARG/TFAP2C/ERG/SPI1),scripts/figure5_external_zt/81_lineage_selective_TF_clock_rewiring.py (+82_FIX3 §E),81_SAME_ARM_LINEAGE_ASSOCIATIONS.csv; MAIN_E source (40 rows),Exact source,pixel MATCH 0.662 in first audit
+Figure6,a,module counts,scripts/figure6_phase_modules/plot_fig6_panels_ABCDE_v5_2.py,"TABULA_FIG6_* provenance json (1,468; 25/689)",Exact source,panel-level pixel-pinned
+Figure6,b,OXPHOS/mTORC1/UPR/Ribo curves,scripts/figure6_phase_modules/plot_fig6_panels_ABCDE_v5_2.py (+tabula_fig3_fig6_layer2_layer3_v1.py),02_LAYER3_M2_LINEAGE_CONDITIONAL_PROFILES.csv,Reconstructed and numerically verified,
+Figure6,c,composite panel: LEFT inflammatory module curves + RIGHT B-vs-Mac amplitude scatter,scripts/figure6_phase_modules/plot_fig6_panels_ABCDE_v5_2.py (left); scatter render NOT RECOVERED,curves 04_FIXED_NULL_AND_STATE_RESULTS.csv; scatter amplitude CSVs in M2/S6 families,Reconstructed and numerically verified (curves) / Unresolved (scatter render file),both contents verified on panel; scatter producing PNG unpinned
+Figure6,d,tissue-specific curves,V5_2 (0.528 vs V5_1),profiles tables,Reconstructed and numerically verified,
+Figure6,e,M0/M1/M2 per-fold out-of-sample gain (26 folds),scripts/figure6_phase_modules/tabula_fig6_M2_conditional_null_cv_v3.py (data producer); RENDER SCRIPT NOT RECOVERED,per-fold table not identified; family-level CV exists (FIG3_FIG6_LAYER2_LAYER3_BRIDGE_W999 03_CV_* per-family rmse),Unresolved (framework verified),panel letter e confirmed by corner probe; metric text self-verified on TIFF; BLOCKED at file level
+Figure7,a,3-state six-arm/three-loop scores,scripts/figure7_ulcerative_colitis/scp259_overnight.py (+run_tabula_scp259_biology_extension.py),02_DONOR_CONDITION_LINEAGE_SCORES.csv (SHA c7aa3b2f),Reconstructed and numerically verified,
+Figure7,b,UC-vs-healthy arm forest,scripts/figure7_ulcerative_colitis/scp259_figure_extension_v1.py,02_ALL_CONTRASTS_EFFECT_CI_FDR.csv (2310 rows; two runs identical),Exact source,750 vs 1500 bootstrap: all 2310 delta/p/q identical between runs
+Figure7,c,within-lineage by annotation,same,same,Reconstructed and numerically verified,
+Figure7,d,six-arm distance to healthy reference (raw + shape),scripts/figure7_ulcerative_colitis/scp259_figure_extension_v1.py,01_ALL_DONOR_LEVEL_FEATURES_WITH_DISTANCES.csv (SIX_ARM_DISTANCE_RECALC; SHAPE_DISTANCE_LOO); SOURCE_DISTANCES_ALL_CONTRASTS.csv,Exact source,panel title 'Six-arm distance to healthy reference separates UC from Healthy' verified on TIFF; NOT a phase distance
+Figure7,e,B-cell TF differences with uncertainty,scripts/figure7_ulcerative_colitis/scp259_figure_extension_v1.py,02_ALL_CONTRASTS TF_EXPRESSION rows (RUNX3 p=8.9e-4 q=.0142; RUNX1 p=1.6e-3; EBF1; NFKB2; HIF1A; STAT5B; PAX5 delta=3.0935 q=.0583),Exact source,panel title self-verified; FIG_D family confirmed; FULL_BIOLOGY_V3 FIG7E is a different (unused) panel
+Figure7,f,curated functional contrasts,scripts/figure7_ulcerative_colitis/scp259_figure_extension_v1.py,02_ALL_CONTRASTS PATHWAY_REL rows + FULL_BIOLOGY_V3 8/30,Reconstructed and numerically verified,
+Figure S1,a,AHCA core-8 UMAP,scripts/supplementary_s1_external/58_run_HCL_AHCA_Fig1_Fig2_single_panels.py (+56),AHCA\Figure1_like\source_data\Fig1_UMAP_coordinates.csv,Reconstructed and numerically verified,pixel 0.440
+Figure S1,b,AHCA expanded-17 UMAP,same,same,Reconstructed and numerically verified,
+Figure S1,c,AHCA 17-gene heatmap,same,Fig1_celltype_expanded17_heatmap.csv,Exact source,pixel MATCH 0.576
+Figure S1,d,AHCA remodeling estimates,scripts/supplementary_s1_external/58_run_HCL_AHCA_Fig1_Fig2_single_panels.py,Fig2_* tables,Reconstructed and numerically verified,
+Figure S1,e,Tabula-AHCA rank concordance rho=1.00,scripts/supplementary_s1_external/55_draw_HCL_AHCA_formal_external_validation_v3.py (+37),rank_concordance.csv (AHCA 1.00 P=.0167; HCL 0.90 P=.0833),Exact source,
+Figure S2,a,D-box NFIL3 sensitivity,scripts/phaseA_discovery/phaseA_unattended.py (H_A11 leave-one-gene-out family),leave-one-gene-out CSVs,Reconstructed and numerically verified,
+Figure S2,b,leave-one-gene-out (24 features),same,same,Reconstructed and numerically verified,
+Figure S2,c,weight stability,same,same,Reconstructed and numerically verified,
+Figure S2,d,lineage specificity,same,same,Reconstructed and numerically verified,
+Figure S3,a,"B0 posterior-phase UMAP (~2,030 pts)",scripts/supplementary_s4_phase_families/tabula_predicted_phase_full_story_v2.py,Fig5U_PHASE_LANDSCAPE_embedding.csv (30-row aggregate),Reconstructed and numerically verified,"point count consistent with 2,030 units"
+Figure S3,b,Clock17-excluded TF coupling identity,scripts/supplementary_s3_tf_coupling/79_2_CLOCK_EXCLUDED_LINEAGE_ADJUSTED_TF_OVERNIGHT.py,79_2_Q2_LINEAGE_ADJUSTMENT_SUMMARY.csv,Exact source,
+Figure S3,c,cross-lineage coupling heatmap,"scripts/supplementary_s3_tf_coupling/79_2 (+80_FIX3, 81)",81_SAME_ARM_LINEAGE_ASSOCIATIONS.csv,Reconstructed and numerically verified,
+Figure S3,d,coupling heterogeneity network,scripts/figure5_external_zt/81_lineage_selective_TF_clock_rewiring.py,81_HETEROGENEITY_TESTS.csv,Reconstructed and numerically verified,
+Figure S3,e,lineage-specific coupling,scripts/figure5_external_zt/81_lineage_selective_TF_clock_rewiring.py,81_TOP10_SELECTIVE_LINKS_PER_LINEAGE.csv,Reconstructed and numerically verified,
+Figure S3,f,TF coupling-difference ranking,scripts/figure5_external_zt/81_lineage_selective_TF_clock_rewiring.py,81_TF_LEVEL_REWIRING_CLASSIFICATION.csv,Reconstructed and numerically verified,panel title verified on TIFF; legend fixed in V2/V3
+Figure S4,a,five-lineage phase roses,scripts/supplementary_s4_phase_families/tabula_predicted_phase_full_story_v2.py,01_DONOR_LINEAGE_PSEUDOTIME_WIDE.csv.gz,Reconstructed and numerically verified,
+Figure S4,b,shared vs lineage-dependent by family,scripts/figure6_phase_modules/tabula_fig6_M2_conditional_null_cv_v3.py,03_M2_CV_SUMMARY.csv,Reconstructed and numerically verified,
+Figure S4,c,shared/deviation decomposition curves,scripts/figure6_phase_modules/tabula_fig3_fig6_layer2_layer3_v1.py,02_LAYER3_M2_LINEAGE_CONDITIONAL_PROFILES.csv,Reconstructed and numerically verified,
+Figure S4,d,lineage/module estimates,scripts/figure6_phase_modules/tabula_fig6_M2_conditional_null_cv_v3.py,05_INTEGRATED tables,Reconstructed and numerically verified,
+Figure S4,e,inflammatory amplitudes ±95% CI,scripts/figure6_phase_modules/tabula_fig6_M2_common_support_v4.py,03_LEAVE_ONE_* tables,Reconstructed and numerically verified,
+Figure S4,f,peak phase/amplitude,scripts/figure6_phase_modules/tabula_fig6_M2_conditional_null_cv_v3.py,harmonic fit CSVs,Reconstructed and numerically verified,
+Figure S4,g,module heatmaps,scripts/supplementary_s4_phase_families/tabula_full_biology_v3.py,S6 tables,Reconstructed and numerically verified,
+Figure S5,a,B-cell subtype scores: Tabula vs SCP259,scripts/figure7_ulcerative_colitis/run_tabula_scp259_biology_extension.py,P01 tables,Exact source (panel-title verified),two resources named on panel: 'Tabula Sapiens' and 'UC cohort (SCP259)'
+Figure S5,b,healthy vs UC heatmaps,scripts/figure7_ulcerative_colitis/scp259_overnight.py,02_DONOR_CONDITION_LINEAGE_SCORES.csv,Reconstructed and numerically verified,
+Figure S5,c,relative change lollipop,scripts/figure7_ulcerative_colitis/scp259_figure_extension_v1.py,02_ALL_CONTRASTS (relative pathway rows),Reconstructed and numerically verified,

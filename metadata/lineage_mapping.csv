@@ -1,0 +1,182 @@
+cell_type,broad_cell_class,n_cells
+adventitial cell,adventitial cell,1045
+cardiac endothelial cell,cardiac endothelial cell,10092
+ciliated epithelial cell,ciliated epithelial cell,320
+lung multiciliated epithelial cell,ciliated epithelial cell,1209
+multiciliated columnar cell of tracheobronchial tree,ciliated epithelial cell,713
+conjunctival epithelial cell,conjunctival epithelial cell,11087
+connective tissue cell,connective tissue cell,152
+blood vessel smooth muscle cell,contractile cell,5987
+bronchial smooth muscle cell,contractile cell,220
+fast muscle cell,contractile cell,495
+mural cell,contractile cell,618
+muscle cell,contractile cell,406
+myofibroblast cell,contractile cell,4436
+myometrial cell,contractile cell,917
+pericyte,contractile cell,10888
+regular atrial cardiac myocyte,contractile cell,5816
+slow muscle cell,contractile cell,174
+smooth muscle cell,contractile cell,18425
+tongue muscle cell,contractile cell,202
+vascular associated smooth muscle cell,contractile cell,5019
+ventricular cardiac muscle cell,contractile cell,2599
+myeloid dendritic cell,dendritic cell,571
+plasmacytoid dendritic cell,dendritic cell,99
+duct epithelial cell,duct epithelial cell,3889
+intrahepatic cholangiocyte,duct epithelial cell,665
+luminal epithelial cell of mammary gland,duct epithelial cell,15432
+pancreatic ductal cell,duct epithelial cell,2721
+corneal epithelial cell,ecto-epithelial cell,4187
+interstitial cell of Cajal,ecto-epithelial cell,71
+supporting cell of vestibular epithelium,ecto-epithelial cell,270
+taste receptor cell,ecto-epithelial cell,32
+club cell,endo-epithelial cell,1747
+epithelial cell of uterus,endo-epithelial cell,1417
+intestinal tuft cell,endo-epithelial cell,448
+luminal cell of prostate epithelium,endo-epithelial cell,10652
+medullary thymic epithelial cell,endo-epithelial cell,43
+myo-medullary thymic epithelial cell,endo-epithelial cell,77
+neuro-medullary thymic epithelial cell,endo-epithelial cell,135
+capillary endothelial cell,endothelial cell,15298
+colon endothelial cell,endothelial cell,348
+endothelial cell,endothelial cell,33703
+endothelial cell of arteriole,endothelial cell,132
+endothelial cell of artery,endothelial cell,3471
+endothelial cell of lymphatic vessel,endothelial cell,2438
+endothelial cell of vascular tree,endothelial cell,875
+endothelial cell of venule,endothelial cell,52
+retinal blood vessel endothelial cell,endothelial cell,2091
+vein endothelial cell,endothelial cell,4698
+basal cell,epithelial cell,33526
+epithelial cell,epithelial cell,1675
+ionocyte,epithelial cell,160
+keratocyte,epithelial cell,14
+ovarian surface epithelial cell,epithelial cell,241
+pulmonary ionocyte,epithelial cell,25
+pulmonary alveolar type 1 cell,epithelial cell of lung,3116
+pulmonary alveolar type 2 cell,epithelial cell of lung,11594
+erythrocyte,erythroid lineage cell,14611
+erythroid lineage cell,erythroid lineage cell,2
+adipocyte,fat cell,39
+oocyte,female germ cell,18
+alveolar adventitial fibroblast,fibroblast,1113
+fibroblast,fibroblast,83338
+fibroblast of breast,fibroblast,5270
+fibroblast of cardiac tissue,fibroblast,1947
+hepatic stellate cell,fibroblast,223
+keratocyte,fibroblast,987
+pancreatic stellate cell,fibroblast,438
+thymic fibroblast type 1,fibroblast,3270
+thymic fibroblast type 2,fibroblast,4205
+acinar cell,glandular epithelial cell,1345
+acinar cell of salivary gland,glandular epithelial cell,12237
+enterochromaffin-like cell,glandular epithelial cell,27
+enteroendocrine cell,glandular epithelial cell,25
+enteroendocrine cell of small intestine,glandular epithelial cell,264
+glandular secretory epithelial cell,glandular epithelial cell,235
+pancreatic A cell,glandular epithelial cell,48
+pancreatic D cell,glandular epithelial cell,9
+pancreatic PP cell,glandular epithelial cell,2
+pancreatic acinar cell,glandular epithelial cell,5482
+respiratory tract goblet cell,glandular epithelial cell,1040
+salivary gland cell,glandular epithelial cell,850
+tracheal goblet cell,glandular epithelial cell,232
+type B pancreatic cell,glandular epithelial cell,102
+type L enteroendocrine cell,glandular epithelial cell,44
+Mueller cell,glial cell,506
+Schwann cell,glial cell,318
+enteroglial cell,glial cell,990
+glial cell,glial cell,20
+basophil,granulocyte,1669
+granulocyte,granulocyte,769
+mast cell,granulocyte,6222
+neutrophil,granulocyte,69539
+hematopoietic cell,hematopoietic cell,100
+hematopoietic precursor cell,hematopoietic cell,2140
+leukocyte,hematopoietic cell,201
+myeloid cell,hematopoietic cell,81
+platelet,hematopoietic cell,494
+hepatocyte,hepatocyte,7414
+innate lymphoid cell,innate lymphoid cell,971
+natural killer cell,innate lymphoid cell,14231
+BEST4+ enterocyte,intestinal epithelial cell,1970
+enterocyte of epithelium of large intestine,intestinal epithelial cell,4567
+enterocyte of epithelium proper of duodenum,intestinal epithelial cell,13495
+enterocyte of epithelium proper of ileum,intestinal epithelial cell,6477
+enterocyte of epithelium proper of jejunum,intestinal epithelial cell,405
+enterocyte of epithelium proper of small intestine,intestinal epithelial cell,1415
+large intestine goblet cell,intestinal epithelial cell,1557
+paneth cell of colon,intestinal epithelial cell,217
+paneth cell of epithelium of small intestine,intestinal epithelial cell,1853
+small intestine goblet cell,intestinal epithelial cell,2044
+tuft cell of colon,intestinal epithelial cell,178
+kidney epithelial cell,kidney epithelial cell,9278
+B cell,lymphocyte of b lineage,114495
+plasma cell,lymphocyte of b lineage,27349
+male germ cell,male germ cell,116
+spermatid,male germ cell,4009
+spermatocyte,male germ cell,3070
+spermatogonium,male germ cell,64
+melanocyte,melanocyte,234
+blood vessel smooth muscle cell,meso-epithelial cell,655
+mesothelial cell,meso-epithelial cell,350
+myoepithelial cell,meso-epithelial cell,486
+peritubular myoid cell,meso-epithelial cell,67
+Langerhans cell,myeloid leukocyte,76
+classical monocyte,myeloid leukocyte,18200
+colon macrophage,myeloid leukocyte,328
+intermediate monocyte,myeloid leukocyte,5478
+macrophage,myeloid leukocyte,69072
+microglial cell,myeloid leukocyte,410
+monocyte,myeloid leukocyte,25753
+mononuclear phagocyte,myeloid leukocyte,5336
+myeloid leukocyte,myeloid leukocyte,1002
+non-classical monocyte,myeloid leukocyte,1284
+tissue-resident macrophage,myeloid leukocyte,1355
+eye photoreceptor cell,neuron,1536
+neuron,neuron,82
+retina horizontal cell,neuron,5
+retinal bipolar neuron,neuron,61
+retinal ganglion cell,neuron,1
+retinal pigment epithelial cell,retinal pigment epithelial cell,67
+Leydig cell,secretory cell,10
+mucus secreting cell,secretory cell,270
+sebocyte,secretory cell,135
+serous cell of epithelium of bronchus,secretory cell,15
+serous cell of epithelium of trachea,secretory cell,326
+basal cell of prostate epithelium,stem cell,3495
+common myeloid progenitor,stem cell,456
+epithelial fate stem cell,stem cell,2
+erythroid progenitor cell,stem cell,971
+hematopoietic stem cell,stem cell,858
+intestinal crypt stem cell of colon,stem cell,1732
+intestinal crypt stem cell of small intestine,stem cell,587
+mesenchymal cell,stem cell,2
+mesenchymal stem cell,stem cell,23499
+mesenchymal stem cell of adipose tissue,stem cell,3777
+progenitor cell of mammary luminal epithelium,stem cell,1694
+radial glial cell,stem cell,13
+skeletal muscle satellite stem cell,stem cell,6170
+transit amplifying cell of colon,stem cell,237
+transit amplifying cell of small intestine,stem cell,34
+stratified squamous epithelial cell,stratified epithelial cell,12323
+stromal cell,stromal cell,3458
+stromal cell of ovary,stromal cell,35003
+tendon cell,stromal cell,420
+theca cell,stromal cell,1038
+"CD4-positive, alpha-beta T cell",t cell,97130
+"CD4-positive, alpha-beta thymocyte",t cell,4685
+"CD8-positive, alpha-beta T cell",t cell,76277
+"CD8-positive, alpha-beta thymocyte",t cell,731
+T cell,t cell,6290
+T follicular helper cell,t cell,6
+"activated CD4-positive, alpha-beta T cell",t cell,572
+"activated CD8-positive, alpha-beta T cell",t cell,1147
+gamma-delta T cell,t cell,1977
+mature NK T cell,t cell,5394
+"naive thymus-derived CD4-positive, alpha-beta T cell",t cell,9827
+"naive thymus-derived CD8-positive, alpha-beta T cell",t cell,1056
+regulatory T cell,t cell,2649
+thymocyte,t cell,455
+bladder urothelial cell,transitional epithelial cell,27241
+vestibular dark cell,vestibular dark cell,49

@@ -1,0 +1,39 @@
+{
+  "status": "FROZEN",
+  "mapping_strategy": "Historical revision_v2 priority-lineage semantics preserved; correction restricted to demonstrated unsafe 't cell' and 'b cell' substring false positives.",
+  "n_total_pseudobulks": 2030,
+  "legacy_priority_n": 1302,
+  "corrected_priority_n": 1224,
+  "removed_n": 78,
+  "added_n": 0,
+  "reassigned_n": 0,
+  "retained_n": 1224,
+  "expected_removed_cell_types": {
+    "mast cell": 42,
+    "large intestine goblet cell": 7,
+    "small intestine goblet cell": 7,
+    "tracheal goblet cell": 5,
+    "respiratory tract goblet cell": 4,
+    "intestinal tuft cell": 5,
+    "tuft cell of colon": 4,
+    "club cell": 4
+  },
+  "files": {
+    "legacy_metadata": {
+      "path": "<TABULA_PROJECT_ROOT>\\results\\phaseA_clock_architecture\\00_audit\\observation_metadata.csv",
+      "sha256": "a7ff565157fa8975960bc46db4f938ac0b088142415fa5d67edaa8d8e0fad39c"
+    },
+    "corrected_metadata_source": {
+      "path": "<TABULA_PROJECT_ROOT>\\corrected_full_analysis_v2\\dependencies\\observation_metadata_corrected.tsv",
+      "sha256": "981d8c166a08a7d6c2b2fd414dfe6d6a017773080093b99ac2b5f5d1f4275c6a"
+    },
+    "corrected_metadata_frozen": {
+      "path": "<TABULA_PROJECT_ROOT>\\corrected_full_analysis_v2\\00_freeze\\observation_metadata_corrected_v3_FROZEN.tsv",
+      "sha256": "981d8c166a08a7d6c2b2fd414dfe6d6a017773080093b99ac2b5f5d1f4275c6a"
+    },
+    "mapping_script_v3": {
+      "path": "<TABULA_PROJECT_ROOT>\\corrected_full_analysis_v2\\scripts\\01_build_corrected_mapping_v3.py",
+      "sha256": "1d39ef5910f80d4fe494fc59b12e2c095a6ecb4e26a48db106199427ee527b56"
+    }
+  }
+}

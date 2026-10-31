@@ -1,0 +1,256 @@
+lineage,condition,gene,z
+B cell,Healthy,ARNTL,0.0
+B cell,Healthy,CLOCK,0.0
+B cell,Healthy,NPAS2,0.0
+B cell,Healthy,PER1,0.0
+B cell,Healthy,PER2,0.0
+B cell,Healthy,PER3,0.0
+B cell,Healthy,CRY1,0.0
+B cell,Healthy,CRY2,0.0
+B cell,Healthy,RORA,0.0
+B cell,Healthy,RORB,0.0
+B cell,Healthy,RORC,0.0
+B cell,Healthy,NR1D1,0.0
+B cell,Healthy,NR1D2,0.0
+B cell,Healthy,DBP,0.0
+B cell,Healthy,TEF,0.0
+B cell,Healthy,HLF,0.0
+B cell,Healthy,NFIL3,0.0
+B cell,UC_noninflamed,ARNTL,1.842941203737286
+B cell,UC_noninflamed,CLOCK,1.408227174833658
+B cell,UC_noninflamed,NPAS2,1.608918853301366
+B cell,UC_noninflamed,PER1,0.4901348110371485
+B cell,UC_noninflamed,PER2,1.4341318618878636
+B cell,UC_noninflamed,PER3,0.6800084759745763
+B cell,UC_noninflamed,CRY1,0.9391471879237374
+B cell,UC_noninflamed,CRY2,0.5035944419941235
+B cell,UC_noninflamed,RORA,0.8504788176217949
+B cell,UC_noninflamed,RORB,0.22748261605362516
+B cell,UC_noninflamed,RORC,2.4892869580240977
+B cell,UC_noninflamed,NR1D1,1.0523536484771765
+B cell,UC_noninflamed,NR1D2,1.3670805489223026
+B cell,UC_noninflamed,DBP,0.8732521777833447
+B cell,UC_noninflamed,TEF,0.10123800673507212
+B cell,UC_noninflamed,HLF,3.3113333138961285
+B cell,UC_noninflamed,NFIL3,0.7922045123185198
+B cell,UC_inflamed,ARNTL,1.743729746564553
+B cell,UC_inflamed,CLOCK,1.6636424694225016
+B cell,UC_inflamed,NPAS2,2.272190179871018
+B cell,UC_inflamed,PER1,0.38683253454412453
+B cell,UC_inflamed,PER2,1.6418672698607801
+B cell,UC_inflamed,PER3,0.41775147292379383
+B cell,UC_inflamed,CRY1,1.096149631553363
+B cell,UC_inflamed,CRY2,0.4580325486637724
+B cell,UC_inflamed,RORA,0.746262801830055
+B cell,UC_inflamed,RORB,0.35843853988819374
+B cell,UC_inflamed,RORC,0.9216243221644053
+B cell,UC_inflamed,NR1D1,1.1154236240413729
+B cell,UC_inflamed,NR1D2,1.3751237444486157
+B cell,UC_inflamed,DBP,0.9488924479154552
+B cell,UC_inflamed,TEF,-0.03142574922811502
+B cell,UC_inflamed,HLF,2.2551685525855483
+B cell,UC_inflamed,NFIL3,0.8390630653886119
+T cell,Healthy,ARNTL,0.0
+T cell,Healthy,CLOCK,0.0
+T cell,Healthy,NPAS2,0.0
+T cell,Healthy,PER1,0.0
+T cell,Healthy,PER2,0.0
+T cell,Healthy,PER3,0.0
+T cell,Healthy,CRY1,0.0
+T cell,Healthy,CRY2,0.0
+T cell,Healthy,RORA,0.0
+T cell,Healthy,RORB,0.0
+T cell,Healthy,RORC,0.0
+T cell,Healthy,NR1D1,0.0
+T cell,Healthy,NR1D2,0.0
+T cell,Healthy,DBP,0.0
+T cell,Healthy,TEF,0.0
+T cell,Healthy,HLF,0.0
+T cell,Healthy,NFIL3,0.0
+T cell,UC_noninflamed,ARNTL,0.6808696799782711
+T cell,UC_noninflamed,CLOCK,1.152639873659839
+T cell,UC_noninflamed,NPAS2,2.065945879537381
+T cell,UC_noninflamed,PER1,1.2652896445876405
+T cell,UC_noninflamed,PER2,1.0459010120467211
+T cell,UC_noninflamed,PER3,-0.041378239974691
+T cell,UC_noninflamed,CRY1,0.8794233094296743
+T cell,UC_noninflamed,CRY2,1.4926410737007132
+T cell,UC_noninflamed,RORA,0.927302118245393
+T cell,UC_noninflamed,RORB,0.2098756920951109
+T cell,UC_noninflamed,RORC,1.71954091550923
+T cell,UC_noninflamed,NR1D1,0.9811080226608527
+T cell,UC_noninflamed,NR1D2,0.9462474897020473
+T cell,UC_noninflamed,DBP,0.2824610235297535
+T cell,UC_noninflamed,TEF,0.33966629639780294
+T cell,UC_noninflamed,HLF,1.2057714474129522
+T cell,UC_noninflamed,NFIL3,-0.03681112630292176
+T cell,UC_inflamed,ARNTL,1.1434147817740927
+T cell,UC_inflamed,CLOCK,1.2929972089084822
+T cell,UC_inflamed,NPAS2,2.4620654882101287
+T cell,UC_inflamed,PER1,1.0237136666639943
+T cell,UC_inflamed,PER2,1.0430619978346853
+T cell,UC_inflamed,PER3,0.07663948895951088
+T cell,UC_inflamed,CRY1,0.8322243796912041
+T cell,UC_inflamed,CRY2,0.9107219332083182
+T cell,UC_inflamed,RORA,0.9797255395578489
+T cell,UC_inflamed,RORB,0.8786980371361496
+T cell,UC_inflamed,RORC,1.3656016397786708
+T cell,UC_inflamed,NR1D1,0.5787139785350753
+T cell,UC_inflamed,NR1D2,0.8495439830431651
+T cell,UC_inflamed,DBP,0.2652887646494972
+T cell,UC_inflamed,TEF,-0.08891209535672844
+T cell,UC_inflamed,HLF,1.4211316133750227
+T cell,UC_inflamed,NFIL3,-0.13398944508222904
+Macrophage/Monocyte,Healthy,ARNTL,0.0
+Macrophage/Monocyte,Healthy,CLOCK,0.0
+Macrophage/Monocyte,Healthy,NPAS2,0.0
+Macrophage/Monocyte,Healthy,PER1,0.0
+Macrophage/Monocyte,Healthy,PER2,0.0
+Macrophage/Monocyte,Healthy,PER3,0.0
+Macrophage/Monocyte,Healthy,CRY1,0.0
+Macrophage/Monocyte,Healthy,CRY2,0.0
+Macrophage/Monocyte,Healthy,RORA,0.0
+Macrophage/Monocyte,Healthy,RORB,0.0
+Macrophage/Monocyte,Healthy,RORC,0.0
+Macrophage/Monocyte,Healthy,NR1D1,0.0
+Macrophage/Monocyte,Healthy,NR1D2,0.0
+Macrophage/Monocyte,Healthy,DBP,0.0
+Macrophage/Monocyte,Healthy,TEF,0.0
+Macrophage/Monocyte,Healthy,HLF,0.0
+Macrophage/Monocyte,Healthy,NFIL3,0.0
+Macrophage/Monocyte,UC_noninflamed,ARNTL,0.6768722865916891
+Macrophage/Monocyte,UC_noninflamed,CLOCK,1.1956085750878793
+Macrophage/Monocyte,UC_noninflamed,NPAS2,4.504339345952592
+Macrophage/Monocyte,UC_noninflamed,PER1,0.34167104124678416
+Macrophage/Monocyte,UC_noninflamed,PER2,1.0516224450297462
+Macrophage/Monocyte,UC_noninflamed,PER3,0.557111942634133
+Macrophage/Monocyte,UC_noninflamed,CRY1,0.6867142376278774
+Macrophage/Monocyte,UC_noninflamed,CRY2,0.433971558377201
+Macrophage/Monocyte,UC_noninflamed,RORA,0.00860113257974709
+Macrophage/Monocyte,UC_noninflamed,RORB,0.2735205596709449
+Macrophage/Monocyte,UC_noninflamed,RORC,0.0
+Macrophage/Monocyte,UC_noninflamed,NR1D1,0.3428703114601606
+Macrophage/Monocyte,UC_noninflamed,NR1D2,1.5162646925735077
+Macrophage/Monocyte,UC_noninflamed,DBP,-0.3939824938705147
+Macrophage/Monocyte,UC_noninflamed,TEF,-0.3346638318980754
+Macrophage/Monocyte,UC_noninflamed,HLF,0.0
+Macrophage/Monocyte,UC_noninflamed,NFIL3,0.5199681795972676
+Macrophage/Monocyte,UC_inflamed,ARNTL,1.6456428057045849
+Macrophage/Monocyte,UC_inflamed,CLOCK,1.0722678708610018
+Macrophage/Monocyte,UC_inflamed,NPAS2,1.0930742185994975
+Macrophage/Monocyte,UC_inflamed,PER1,0.1886770795228256
+Macrophage/Monocyte,UC_inflamed,PER2,0.8889662679581715
+Macrophage/Monocyte,UC_inflamed,PER3,0.22999613318649254
+Macrophage/Monocyte,UC_inflamed,CRY1,1.006496145278111
+Macrophage/Monocyte,UC_inflamed,CRY2,-0.20496913903389963
+Macrophage/Monocyte,UC_inflamed,RORA,0.3552304021395505
+Macrophage/Monocyte,UC_inflamed,RORB,0.06443552682351815
+Macrophage/Monocyte,UC_inflamed,RORC,0.0
+Macrophage/Monocyte,UC_inflamed,NR1D1,0.785317235637245
+Macrophage/Monocyte,UC_inflamed,NR1D2,1.0473216375036019
+Macrophage/Monocyte,UC_inflamed,DBP,0.14345860410671807
+Macrophage/Monocyte,UC_inflamed,TEF,-0.7198093722057576
+Macrophage/Monocyte,UC_inflamed,HLF,0.0
+Macrophage/Monocyte,UC_inflamed,NFIL3,0.4932343988611936
+Fibroblast,Healthy,ARNTL,0.0
+Fibroblast,Healthy,CLOCK,0.0
+Fibroblast,Healthy,NPAS2,0.0
+Fibroblast,Healthy,PER1,0.0
+Fibroblast,Healthy,PER2,0.0
+Fibroblast,Healthy,PER3,0.0
+Fibroblast,Healthy,CRY1,0.0
+Fibroblast,Healthy,CRY2,0.0
+Fibroblast,Healthy,RORA,0.0
+Fibroblast,Healthy,RORB,0.0
+Fibroblast,Healthy,RORC,0.0
+Fibroblast,Healthy,NR1D1,0.0
+Fibroblast,Healthy,NR1D2,0.0
+Fibroblast,Healthy,DBP,0.0
+Fibroblast,Healthy,TEF,0.0
+Fibroblast,Healthy,HLF,0.0
+Fibroblast,Healthy,NFIL3,0.0
+Fibroblast,UC_noninflamed,ARNTL,0.6596092102529582
+Fibroblast,UC_noninflamed,CLOCK,1.3593930437341446
+Fibroblast,UC_noninflamed,NPAS2,2.00410326190488
+Fibroblast,UC_noninflamed,PER1,0.5339345112954067
+Fibroblast,UC_noninflamed,PER2,1.477973375058003
+Fibroblast,UC_noninflamed,PER3,0.156323160311254
+Fibroblast,UC_noninflamed,CRY1,0.8931437917075733
+Fibroblast,UC_noninflamed,CRY2,0.20342783394623185
+Fibroblast,UC_noninflamed,RORA,0.4969282593879703
+Fibroblast,UC_noninflamed,RORB,1.3347153142277481
+Fibroblast,UC_noninflamed,RORC,0.4053111178917711
+Fibroblast,UC_noninflamed,NR1D1,1.0268885313853993
+Fibroblast,UC_noninflamed,NR1D2,1.0332434877400074
+Fibroblast,UC_noninflamed,DBP,-0.22112545668866632
+Fibroblast,UC_noninflamed,TEF,-0.01792201462592726
+Fibroblast,UC_noninflamed,HLF,1.0645451443276537
+Fibroblast,UC_noninflamed,NFIL3,0.6723407447951837
+Fibroblast,UC_inflamed,ARNTL,0.7437986320053016
+Fibroblast,UC_inflamed,CLOCK,1.1390348944973236
+Fibroblast,UC_inflamed,NPAS2,3.3329861779896204
+Fibroblast,UC_inflamed,PER1,0.00324201010125529
+Fibroblast,UC_inflamed,PER2,1.0217792500869503
+Fibroblast,UC_inflamed,PER3,-0.20412403102215584
+Fibroblast,UC_inflamed,CRY1,1.177506282443827
+Fibroblast,UC_inflamed,CRY2,-0.22723128239704782
+Fibroblast,UC_inflamed,RORA,0.05544784090549221
+Fibroblast,UC_inflamed,RORB,1.7509506676083926
+Fibroblast,UC_inflamed,RORC,0.8546234134164249
+Fibroblast,UC_inflamed,NR1D1,0.23390603953213487
+Fibroblast,UC_inflamed,NR1D2,0.44707539029317156
+Fibroblast,UC_inflamed,DBP,-2.0566222712541675
+Fibroblast,UC_inflamed,TEF,-0.7331226551374288
+Fibroblast,UC_inflamed,HLF,0.12984963038484762
+Fibroblast,UC_inflamed,NFIL3,0.8554526230319888
+Endothelial,Healthy,ARNTL,0.0
+Endothelial,Healthy,CLOCK,0.0
+Endothelial,Healthy,NPAS2,0.0
+Endothelial,Healthy,PER1,0.0
+Endothelial,Healthy,PER2,0.0
+Endothelial,Healthy,PER3,0.0
+Endothelial,Healthy,CRY1,0.0
+Endothelial,Healthy,CRY2,0.0
+Endothelial,Healthy,RORA,0.0
+Endothelial,Healthy,RORB,0.0
+Endothelial,Healthy,RORC,0.0
+Endothelial,Healthy,NR1D1,0.0
+Endothelial,Healthy,NR1D2,0.0
+Endothelial,Healthy,DBP,0.0
+Endothelial,Healthy,TEF,0.0
+Endothelial,Healthy,HLF,0.0
+Endothelial,Healthy,NFIL3,0.0
+Endothelial,UC_noninflamed,ARNTL,0.7447037145561743
+Endothelial,UC_noninflamed,CLOCK,0.8450984930374879
+Endothelial,UC_noninflamed,NPAS2,1.8289028458600174
+Endothelial,UC_noninflamed,PER1,-0.05364328546018217
+Endothelial,UC_noninflamed,PER2,1.1286525045944802
+Endothelial,UC_noninflamed,PER3,0.8521684809506672
+Endothelial,UC_noninflamed,CRY1,1.0655627234085632
+Endothelial,UC_noninflamed,CRY2,0.07099630943807232
+Endothelial,UC_noninflamed,RORA,0.9594933282873707
+Endothelial,UC_noninflamed,RORB,6801188306752817.0
+Endothelial,UC_noninflamed,RORC,0.0
+Endothelial,UC_noninflamed,NR1D1,0.32691909766751415
+Endothelial,UC_noninflamed,NR1D2,0.7519534346522674
+Endothelial,UC_noninflamed,DBP,0.3468131213655189
+Endothelial,UC_noninflamed,TEF,0.45095903696961076
+Endothelial,UC_noninflamed,HLF,0.6040177975766896
+Endothelial,UC_noninflamed,NFIL3,2.7678412352866117
+Endothelial,UC_inflamed,ARNTL,0.528990766686708
+Endothelial,UC_inflamed,CLOCK,1.0804579504339307
+Endothelial,UC_inflamed,NPAS2,2.1141089670737543
+Endothelial,UC_inflamed,PER1,-0.0031711389147466456
+Endothelial,UC_inflamed,PER2,0.45724403594947904
+Endothelial,UC_inflamed,PER3,0.2633001187892532
+Endothelial,UC_inflamed,CRY1,0.996703937819879
+Endothelial,UC_inflamed,CRY2,0.18001579506540213
+Endothelial,UC_inflamed,RORA,1.0646455934479626
+Endothelial,UC_inflamed,RORB,4981699928336052.0
+Endothelial,UC_inflamed,RORC,0.0
+Endothelial,UC_inflamed,NR1D1,0.03513174248477459
+Endothelial,UC_inflamed,NR1D2,0.9077781437131272
+Endothelial,UC_inflamed,DBP,-0.4850767587000552
+Endothelial,UC_inflamed,TEF,-0.3575323104362985
+Endothelial,UC_inflamed,HLF,0.5340298972606922
+Endothelial,UC_inflamed,NFIL3,1.0758290650451516

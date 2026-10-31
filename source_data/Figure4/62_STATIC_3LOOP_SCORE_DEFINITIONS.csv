@@ -1,0 +1,13 @@
+score,type,definition,genes
+EBOX_POS,arm,mean atlas-wide gene z-score,ARNTL;CLOCK;NPAS2
+EBOX_NEG,arm,mean atlas-wide gene z-score,PER1;PER2;PER3;CRY1;CRY2
+RORE_ACT,arm,mean atlas-wide gene z-score,RORA;RORB;RORC
+RORE_REP,arm,mean atlas-wide gene z-score,NR1D1;NR1D2
+DBOX_ACT,arm,mean atlas-wide gene z-score,DBP;TEF;HLF
+DBOX_REP,arm,mean atlas-wide gene z-score,NFIL3
+EBOX_ENGAGEMENT,engagement,(EBOX_POS + EBOX_NEG)/2,ARNTL;CLOCK;NPAS2;PER1;PER2;PER3;CRY1;CRY2
+RORE_ENGAGEMENT,engagement,(RORE_ACT + RORE_REP)/2,RORA;RORB;RORC;NR1D1;NR1D2
+DBOX_ENGAGEMENT,engagement,(DBOX_ACT + DBOX_REP)/2,DBP;TEF;HLF;NFIL3
+EBOX_BALANCE,balance,EBOX_POS - EBOX_NEG,
+RORE_BALANCE,balance,RORE_ACT - RORE_REP,
+DBOX_BALANCE,balance,DBOX_ACT - DBOX_REP,

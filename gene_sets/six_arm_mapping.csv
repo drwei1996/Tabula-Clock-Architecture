@@ -1,0 +1,7 @@
+arm,genes,loop,activator_repressor
+EBOX_POS,ARNTL;CLOCK;NPAS2,E-box,activator
+EBOX_NEG,PER1;PER2;PER3;CRY1;CRY2,E-box,repressor
+RORE_ACT,RORA;RORB;RORC,RORE,activator
+RORE_REP,NR1D1;NR1D2,RORE,repressor
+DBOX_ACT,DBP;TEF;HLF,D-box,activator
+DBOX_REP,NFIL3,D-box,repressor

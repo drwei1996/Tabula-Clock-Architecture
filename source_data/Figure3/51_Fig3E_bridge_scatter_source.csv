@@ -1,0 +1,6 @@
+lineage,lineage_label,clock_remodeling,q90_tissue_effect
+b_cell,B cell,1.74,0.2203926374379796
+t_cell,T cell,2.31,0.2103736858266958
+macrophage_monocyte,Macrophage/Monocyte,2.36,0.2523076028283882
+fibroblast,Fibroblast,3.75,0.2982178526225408
+endothelial,Endothelial,3.05,0.3243000796192077

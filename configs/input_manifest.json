@@ -1,0 +1,38 @@
+[
+  {
+    "path": "<TABULA_CIRCADIAN_DELIVERABLES>\\source_data\\pseudobulk__clock_architecture_features.tsv",
+    "sha256": "97d55be3f2098850e2d9d7bd137d28902cf708cf69cd44c8adec157c560452c9"
+  },
+  {
+    "path": "<TABULA_PROJECT_ROOT>\\figures_revised\\clock_architecture_umap\\source_data\\clock_architecture_UMAP_clock_architecture_standardized_input.tsv",
+    "sha256": "70e997d4860f8663b74f44f57a935a604651a3e143d82a0a2c145467258f6796"
+  },
+  {
+    "path": "<TABULA_CIRCADIAN_DELIVERABLES>\\source_data\\pseudobulk__clock_context_pseudobulk_long.tsv",
+    "sha256": "c217f37cb06bb563bfdf711740cd12f3c5c8bf258126663796081b1ab4f6b754"
+  },
+  {
+    "path": "<TABULA_CIRCADIAN_DELIVERABLES>_v2\\scripts\\revision_v2_runner.py",
+    "sha256": "0ef712f14ea6211397817b9d2a97494d8288565fcb81ac7c18ed660e387314a3"
+  },
+  {
+    "path": "<TABULA_CIRCADIAN_DELIVERABLES>_v2\\statistics\\formal_variance_partition_per_feature.tsv",
+    "sha256": "455dc7ca7e49c1f653b66b5a6f0921c90411c03d8356b36da80784f175a63bd4"
+  },
+  {
+    "path": "<TABULA_CIRCADIAN_DELIVERABLES>_v2\\statistics\\priority_lineage_tissue_coverage.tsv",
+    "sha256": "e2a15d26d0ae620f3cd5e08ca898129dbeb5b3ba94b56fc5178cc6f31817aaf6"
+  },
+  {
+    "path": "<TABULA_PROJECT_ROOT>\\figures_revised\\clock_centroid_distances\\clock_distance_bootstrap_draws.csv",
+    "sha256": "f5814e9a43b1286cd08a25d7481255fdb7f73df74a74d70a1461996b111a41ef"
+  },
+  {
+    "path": "<TABULA_PROJECT_ROOT>\\figures_revised\\clock_centroid_distances\\clock_distance_summary.csv",
+    "sha256": "0221ecd7bf3808a76a7c92440089d20eb1124ba2d850cbf09b988c265489af9f"
+  },
+  {
+    "path": "<TABULA_CIRCADIAN_DELIVERABLES>_v2\\source_data\\Fig1A_clock_architecture_pca_landscape_source.tsv",
+    "sha256": "bdb63218877eea8778f83a5ca3378e9300441f6235c5b8e56dd81f3951e8e0b3"
+  }
+]

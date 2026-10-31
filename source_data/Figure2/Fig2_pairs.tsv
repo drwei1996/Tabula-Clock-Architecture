@@ -1,0 +1,1021 @@
+comparison_type	lineage	tissue_A	tissue_B	tissue	lineage_A	lineage_B	distance	n_donors_A	n_donors_B	n_shared_donors	centroid_index_A	centroid_index_B
+Within lineage / between tissues	b_cell	adipose tissue	ascending colon		b_cell	b_cell	1.1054323299554167	4	3	1	0	3
+Within lineage / between tissues	b_cell	adipose tissue	bladder organ		b_cell	b_cell	2.247083975486281	4	4	2	0	4
+Within lineage / between tissues	b_cell	adipose tissue	blood		b_cell	b_cell	1.4691918914960544	4	8	4	0	5
+Within lineage / between tissues	b_cell	adipose tissue	bone marrow		b_cell	b_cell	2.029099643531042	4	7	3	0	6
+Within lineage / between tissues	b_cell	adipose tissue	duodenum		b_cell	b_cell	1.4668169259391635	4	3	1	0	10
+Within lineage / between tissues	b_cell	adipose tissue	inguinal lymph node		b_cell	b_cell	2.7265604581042453	4	4	2	0	17
+Within lineage / between tissues	b_cell	adipose tissue	liver		b_cell	b_cell	2.0338106642589797	4	3	0	0	21
+Within lineage / between tissues	b_cell	adipose tissue	lung		b_cell	b_cell	1.5930910441651749	4	3	2	0	22
+Within lineage / between tissues	b_cell	adipose tissue	lymph node		b_cell	b_cell	1.5235495312680554	4	6	3	0	23
+Within lineage / between tissues	b_cell	adipose tissue	posterior part of tongue		b_cell	b_cell	1.9154320401333513	4	3	1	0	30
+Within lineage / between tissues	b_cell	adipose tissue	spleen		b_cell	b_cell	1.3887747875003096	4	6	3	0	36
+Within lineage / between tissues	b_cell	adipose tissue	thymus		b_cell	b_cell	0.7919441376749391	4	5	3	0	41
+Within lineage / between tissues	b_cell	adipose tissue	trachea		b_cell	b_cell	1.0587869581634535	4	3	2	0	42
+Within lineage / between tissues	b_cell	ascending colon	bladder organ		b_cell	b_cell	1.4464089003492202	3	4	2	3	4
+Within lineage / between tissues	b_cell	ascending colon	blood		b_cell	b_cell	2.035880230345869	3	8	1	3	5
+Within lineage / between tissues	b_cell	ascending colon	bone marrow		b_cell	b_cell	2.423668291945957	3	7	2	3	6
+Within lineage / between tissues	b_cell	ascending colon	duodenum		b_cell	b_cell	0.7401445163350112	3	3	3	3	10
+Within lineage / between tissues	b_cell	ascending colon	inguinal lymph node		b_cell	b_cell	2.578380457951313	3	4	1	3	17
+Within lineage / between tissues	b_cell	ascending colon	liver		b_cell	b_cell	1.7389200442102815	3	3	0	3	21
+Within lineage / between tissues	b_cell	ascending colon	lung		b_cell	b_cell	1.9522796851062145	3	3	1	3	22
+Within lineage / between tissues	b_cell	ascending colon	lymph node		b_cell	b_cell	1.853114965162653	3	6	2	3	23
+Within lineage / between tissues	b_cell	ascending colon	posterior part of tongue		b_cell	b_cell	2.7038437558228514	3	3	1	3	30
+Within lineage / between tissues	b_cell	ascending colon	spleen		b_cell	b_cell	1.76686976554898	3	6	2	3	36
+Within lineage / between tissues	b_cell	ascending colon	thymus		b_cell	b_cell	1.330924450498196	3	5	2	3	41
+Within lineage / between tissues	b_cell	ascending colon	trachea		b_cell	b_cell	1.0590477754739605	3	3	1	3	42
+Within lineage / between tissues	b_cell	bladder organ	blood		b_cell	b_cell	2.7156665286319877	4	8	3	4	5
+Within lineage / between tissues	b_cell	bladder organ	bone marrow		b_cell	b_cell	2.8242123497959435	4	7	3	4	6
+Within lineage / between tissues	b_cell	bladder organ	duodenum		b_cell	b_cell	1.5737103717459386	4	3	2	4	10
+Within lineage / between tissues	b_cell	bladder organ	inguinal lymph node		b_cell	b_cell	2.2287019900997245	4	4	1	4	17
+Within lineage / between tissues	b_cell	bladder organ	liver		b_cell	b_cell	1.5671379028970882	4	3	0	4	21
+Within lineage / between tissues	b_cell	bladder organ	lung		b_cell	b_cell	2.2957241159106303	4	3	3	4	22
+Within lineage / between tissues	b_cell	bladder organ	lymph node		b_cell	b_cell	2.274773784283957	4	6	3	4	23
+Within lineage / between tissues	b_cell	bladder organ	posterior part of tongue		b_cell	b_cell	3.601739899753018	4	3	2	4	30
+Within lineage / between tissues	b_cell	bladder organ	spleen		b_cell	b_cell	2.2533747058960323	4	6	3	4	36
+Within lineage / between tissues	b_cell	bladder organ	thymus		b_cell	b_cell	2.2615125567413257	4	5	3	4	41
+Within lineage / between tissues	b_cell	bladder organ	trachea		b_cell	b_cell	1.6304965757307004	4	3	2	4	42
+Within lineage / between tissues	b_cell	blood	bone marrow		b_cell	b_cell	1.3737795456619946	8	7	4	5	6
+Within lineage / between tissues	b_cell	blood	duodenum		b_cell	b_cell	2.4143205974046302	8	3	1	5	10
+Within lineage / between tissues	b_cell	blood	inguinal lymph node		b_cell	b_cell	2.5718812043070214	8	4	4	5	17
+Within lineage / between tissues	b_cell	blood	liver		b_cell	b_cell	2.1333644193334442	8	3	1	5	21
+Within lineage / between tissues	b_cell	blood	lung		b_cell	b_cell	0.9491951077238807	8	3	3	5	22
+Within lineage / between tissues	b_cell	blood	lymph node		b_cell	b_cell	0.9446377697449013	8	6	5	5	23
+Within lineage / between tissues	b_cell	blood	posterior part of tongue		b_cell	b_cell	1.6692264828516123	8	3	2	5	30
+Within lineage / between tissues	b_cell	blood	spleen		b_cell	b_cell	0.9441110986166831	8	6	5	5	36
+Within lineage / between tissues	b_cell	blood	thymus		b_cell	b_cell	0.9662168440726581	8	5	4	5	41
+Within lineage / between tissues	b_cell	blood	trachea		b_cell	b_cell	1.2391999079427054	8	3	2	5	42
+Within lineage / between tissues	b_cell	bone marrow	duodenum		b_cell	b_cell	2.891290409991883	7	3	2	6	10
+Within lineage / between tissues	b_cell	bone marrow	inguinal lymph node		b_cell	b_cell	1.8493394909741616	7	4	3	6	17
+Within lineage / between tissues	b_cell	bone marrow	liver		b_cell	b_cell	1.6890483663773792	7	3	1	6	21
+Within lineage / between tissues	b_cell	bone marrow	lung		b_cell	b_cell	1.1271621894113633	7	3	2	6	22
+Within lineage / between tissues	b_cell	bone marrow	lymph node		b_cell	b_cell	0.7840229267816561	7	6	5	6	23
+Within lineage / between tissues	b_cell	bone marrow	posterior part of tongue		b_cell	b_cell	1.8427734994661615	7	3	2	6	30
+Within lineage / between tissues	b_cell	bone marrow	spleen		b_cell	b_cell	0.8605154448366019	7	6	5	6	36
+Within lineage / between tissues	b_cell	bone marrow	thymus		b_cell	b_cell	1.678952829623255	7	5	5	6	41
+Within lineage / between tissues	b_cell	bone marrow	trachea		b_cell	b_cell	1.656978672202315	7	3	2	6	42
+Within lineage / between tissues	b_cell	duodenum	inguinal lymph node		b_cell	b_cell	3.0131676024786795	3	4	1	10	17
+Within lineage / between tissues	b_cell	duodenum	liver		b_cell	b_cell	2.191428084610632	3	3	0	10	21
+Within lineage / between tissues	b_cell	duodenum	lung		b_cell	b_cell	2.3401051740434786	3	3	1	10	22
+Within lineage / between tissues	b_cell	duodenum	lymph node		b_cell	b_cell	2.333550369934169	3	6	2	10	23
+Within lineage / between tissues	b_cell	duodenum	posterior part of tongue		b_cell	b_cell	3.0851739709877513	3	3	1	10	30
+Within lineage / between tissues	b_cell	duodenum	spleen		b_cell	b_cell	2.240284227116015	3	6	2	10	36
+Within lineage / between tissues	b_cell	duodenum	thymus		b_cell	b_cell	1.7823350664471933	3	5	2	10	41
+Within lineage / between tissues	b_cell	duodenum	trachea		b_cell	b_cell	1.4121889548836408	3	3	1	10	42
+Within lineage / between tissues	b_cell	inguinal lymph node	liver		b_cell	b_cell	1.4353618201472815	4	3	1	17	21
+Within lineage / between tissues	b_cell	inguinal lymph node	lung		b_cell	b_cell	1.8318569262771085	4	3	1	17	22
+Within lineage / between tissues	b_cell	inguinal lymph node	lymph node		b_cell	b_cell	1.7207947924077782	4	6	4	17	23
+Within lineage / between tissues	b_cell	inguinal lymph node	posterior part of tongue		b_cell	b_cell	3.4476481029160233	4	3	1	17	30
+Within lineage / between tissues	b_cell	inguinal lymph node	spleen		b_cell	b_cell	1.8025830964587402	4	6	4	17	36
+Within lineage / between tissues	b_cell	inguinal lymph node	thymus		b_cell	b_cell	2.434915356952906	4	5	3	17	41
+Within lineage / between tissues	b_cell	inguinal lymph node	trachea		b_cell	b_cell	2.060543337182366	4	3	1	17	42
+Within lineage / between tissues	b_cell	liver	lung		b_cell	b_cell	1.7309769127665244	3	3	0	21	22
+Within lineage / between tissues	b_cell	liver	lymph node		b_cell	b_cell	1.4333322138596087	3	6	1	21	23
+Within lineage / between tissues	b_cell	liver	posterior part of tongue		b_cell	b_cell	2.78245387515354	3	3	0	21	30
+Within lineage / between tissues	b_cell	liver	spleen		b_cell	b_cell	1.4064023616588528	3	6	1	21	36
+Within lineage / between tissues	b_cell	liver	thymus		b_cell	b_cell	1.8786912921373726	3	5	1	21	41
+Within lineage / between tissues	b_cell	liver	trachea		b_cell	b_cell	1.4396615885993198	3	3	0	21	42
+Within lineage / between tissues	b_cell	lung	lymph node		b_cell	b_cell	0.5299680796173393	3	6	2	22	23
+Within lineage / between tissues	b_cell	lung	posterior part of tongue		b_cell	b_cell	2.1103094280843777	3	3	1	22	30
+Within lineage / between tissues	b_cell	lung	spleen		b_cell	b_cell	0.5862565296715139	3	6	2	22	36
+Within lineage / between tissues	b_cell	lung	thymus		b_cell	b_cell	1.1094925007154193	3	5	2	22	41
+Within lineage / between tissues	b_cell	lung	trachea		b_cell	b_cell	1.0019808857368657	3	3	2	22	42
+Within lineage / between tissues	b_cell	lymph node	posterior part of tongue		b_cell	b_cell	1.9275522849063085	6	3	3	23	30
+Within lineage / between tissues	b_cell	lymph node	spleen		b_cell	b_cell	0.2263075559418223	6	6	6	23	36
+Within lineage / between tissues	b_cell	lymph node	thymus		b_cell	b_cell	1.054696116161446	6	5	5	23	41
+Within lineage / between tissues	b_cell	lymph node	trachea		b_cell	b_cell	1.0026548158711306	6	3	2	23	42
+Within lineage / between tissues	b_cell	posterior part of tongue	spleen		b_cell	b_cell	1.8391907861519894	3	6	3	30	36
+Within lineage / between tissues	b_cell	posterior part of tongue	thymus		b_cell	b_cell	1.8592783531951558	3	5	2	30	41
+Within lineage / between tissues	b_cell	posterior part of tongue	trachea		b_cell	b_cell	2.2791203366622383	3	3	1	30	42
+Within lineage / between tissues	b_cell	spleen	thymus		b_cell	b_cell	0.9324359135890682	6	5	5	36	41
+Within lineage / between tissues	b_cell	spleen	trachea		b_cell	b_cell	0.9320820018041768	6	3	2	36	42
+Within lineage / between tissues	b_cell	thymus	trachea		b_cell	b_cell	0.8555030063428841	5	3	2	41	42
+Within lineage / between tissues	t_cell	adipose tissue	aorta		t_cell	t_cell	2.106284770465307	5	3	3	218	221
+Within lineage / between tissues	t_cell	adipose tissue	bladder organ		t_cell	t_cell	1.3322581497373558	5	6	4	218	223
+Within lineage / between tissues	t_cell	adipose tissue	blood		t_cell	t_cell	3.0989122001158753	5	8	5	218	224
+Within lineage / between tissues	t_cell	adipose tissue	bone marrow		t_cell	t_cell	3.4867902031786406	5	6	4	218	225
+Within lineage / between tissues	t_cell	adipose tissue	coronary artery		t_cell	t_cell	2.791619120153295	5	3	3	218	229
+Within lineage / between tissues	t_cell	adipose tissue	duodenum		t_cell	t_cell	3.343916666518304	5	3	1	218	231
+Within lineage / between tissues	t_cell	adipose tissue	ileum		t_cell	t_cell	3.1824274133058945	5	3	1	218	238
+Within lineage / between tissues	t_cell	adipose tissue	inguinal lymph node		t_cell	t_cell	2.8709458337373888	5	4	3	218	239
+Within lineage / between tissues	t_cell	adipose tissue	liver		t_cell	t_cell	1.3036623476240259	5	4	1	218	245
+Within lineage / between tissues	t_cell	adipose tissue	lung		t_cell	t_cell	1.9731945162011364	5	4	3	218	246
+Within lineage / between tissues	t_cell	adipose tissue	lymph node		t_cell	t_cell	2.18223718067096	5	6	4	218	247
+Within lineage / between tissues	t_cell	adipose tissue	muscle of abdomen		t_cell	t_cell	1.800393895927372	5	5	2	218	251
+Within lineage / between tissues	t_cell	adipose tissue	muscle of pelvic diaphragm		t_cell	t_cell	1.241726064225167	5	3	2	218	252
+Within lineage / between tissues	t_cell	adipose tissue	posterior part of tongue		t_cell	t_cell	2.1184896292440154	5	4	2	218	256
+Within lineage / between tissues	t_cell	adipose tissue	prostate gland		t_cell	t_cell	2.1003078718899726	5	3	2	218	257
+Within lineage / between tissues	t_cell	adipose tissue	skin of abdomen		t_cell	t_cell	3.036971209853292	5	3	3	218	262
+Within lineage / between tissues	t_cell	adipose tissue	skin of chest		t_cell	t_cell	1.7692144710616262	5	3	3	218	264
+Within lineage / between tissues	t_cell	adipose tissue	spleen		t_cell	t_cell	1.6701380785796969	5	6	4	218	266
+Within lineage / between tissues	t_cell	adipose tissue	subcutaneous adipose tissue		t_cell	t_cell	1.0137930853768076	5	5	5	218	269
+Within lineage / between tissues	t_cell	adipose tissue	thymus		t_cell	t_cell	2.7077192151427547	5	5	4	218	273
+Within lineage / between tissues	t_cell	adipose tissue	trachea		t_cell	t_cell	1.3859724586991242	5	4	3	218	274
+Within lineage / between tissues	t_cell	aorta	bladder organ		t_cell	t_cell	3.1682603983174893	3	6	3	221	223
+Within lineage / between tissues	t_cell	aorta	blood		t_cell	t_cell	1.7249283984058215	3	8	3	221	224
+Within lineage / between tissues	t_cell	aorta	bone marrow		t_cell	t_cell	2.004811523127249	3	6	3	221	225
+Within lineage / between tissues	t_cell	aorta	coronary artery		t_cell	t_cell	1.0703411550924933	3	3	2	221	229
+Within lineage / between tissues	t_cell	aorta	duodenum		t_cell	t_cell	5.138805860210509	3	3	1	221	231
+Within lineage / between tissues	t_cell	aorta	ileum		t_cell	t_cell	4.981450459059735	3	3	1	221	238
+Within lineage / between tissues	t_cell	aorta	inguinal lymph node		t_cell	t_cell	2.446961022634635	3	4	2	221	239
+Within lineage / between tissues	t_cell	aorta	liver		t_cell	t_cell	2.1236151119993307	3	4	0	221	245
+Within lineage / between tissues	t_cell	aorta	lung		t_cell	t_cell	0.8574677855385615	3	4	2	221	246
+Within lineage / between tissues	t_cell	aorta	lymph node		t_cell	t_cell	1.370968817595788	3	6	3	221	247
+Within lineage / between tissues	t_cell	aorta	muscle of abdomen		t_cell	t_cell	1.4979685651411192	3	5	1	221	251
+Within lineage / between tissues	t_cell	aorta	muscle of pelvic diaphragm		t_cell	t_cell	1.5793206460835698	3	3	1	221	252
+Within lineage / between tissues	t_cell	aorta	posterior part of tongue		t_cell	t_cell	2.575682400283029	3	4	1	221	256
+Within lineage / between tissues	t_cell	aorta	prostate gland		t_cell	t_cell	1.455680787481472	3	3	1	221	257
+Within lineage / between tissues	t_cell	aorta	skin of abdomen		t_cell	t_cell	2.105902772463413	3	3	1	221	262
+Within lineage / between tissues	t_cell	aorta	skin of chest		t_cell	t_cell	1.963672428760067	3	3	1	221	264
+Within lineage / between tissues	t_cell	aorta	spleen		t_cell	t_cell	1.3732112018764793	3	6	3	221	266
+Within lineage / between tissues	t_cell	aorta	subcutaneous adipose tissue		t_cell	t_cell	2.642419621326644	3	5	3	221	269
+Within lineage / between tissues	t_cell	aorta	thymus		t_cell	t_cell	1.384101308633083	3	5	3	221	273
+Within lineage / between tissues	t_cell	aorta	trachea		t_cell	t_cell	2.5649161109055263	3	4	3	221	274
+Within lineage / between tissues	t_cell	bladder organ	blood		t_cell	t_cell	3.9047746256043685	6	8	5	223	224
+Within lineage / between tissues	t_cell	bladder organ	bone marrow		t_cell	t_cell	4.3060196792229135	6	6	4	223	225
+Within lineage / between tissues	t_cell	bladder organ	coronary artery		t_cell	t_cell	3.8135473223876284	6	3	3	223	229
+Within lineage / between tissues	t_cell	bladder organ	duodenum		t_cell	t_cell	2.4418315316704953	6	3	2	223	231
+Within lineage / between tissues	t_cell	bladder organ	ileum		t_cell	t_cell	2.3624727711895024	6	3	2	223	238
+Within lineage / between tissues	t_cell	bladder organ	inguinal lymph node		t_cell	t_cell	3.3340981676208474	6	4	3	223	239
+Within lineage / between tissues	t_cell	bladder organ	liver		t_cell	t_cell	1.8471178609961056	6	4	1	223	245
+Within lineage / between tissues	t_cell	bladder organ	lung		t_cell	t_cell	2.9195978071926207	6	4	4	223	246
+Within lineage / between tissues	t_cell	bladder organ	lymph node		t_cell	t_cell	2.8587017343585326	6	6	5	223	247
+Within lineage / between tissues	t_cell	bladder organ	muscle of abdomen		t_cell	t_cell	2.686810592482951	6	5	4	223	251
+Within lineage / between tissues	t_cell	bladder organ	muscle of pelvic diaphragm		t_cell	t_cell	2.197247111444997	6	3	2	223	252
+Within lineage / between tissues	t_cell	bladder organ	posterior part of tongue		t_cell	t_cell	2.301054648856714	6	4	3	223	256
+Within lineage / between tissues	t_cell	bladder organ	prostate gland		t_cell	t_cell	2.947695963639541	6	3	2	223	257
+Within lineage / between tissues	t_cell	bladder organ	skin of abdomen		t_cell	t_cell	4.000050319709029	6	3	2	223	262
+Within lineage / between tissues	t_cell	bladder organ	skin of chest		t_cell	t_cell	2.605068121397929	6	3	2	223	264
+Within lineage / between tissues	t_cell	bladder organ	spleen		t_cell	t_cell	2.3123019910238996	6	6	5	223	266
+Within lineage / between tissues	t_cell	bladder organ	subcutaneous adipose tissue		t_cell	t_cell	1.0936961117770498	6	5	4	223	269
+Within lineage / between tissues	t_cell	bladder organ	thymus		t_cell	t_cell	3.6776338248084546	6	5	5	223	273
+Within lineage / between tissues	t_cell	bladder organ	trachea		t_cell	t_cell	1.586370308996634	6	4	3	223	274
+Within lineage / between tissues	t_cell	blood	bone marrow		t_cell	t_cell	1.9520875931823862	8	6	4	224	225
+Within lineage / between tissues	t_cell	blood	coronary artery		t_cell	t_cell	1.4180431927025763	8	3	3	224	229
+Within lineage / between tissues	t_cell	blood	duodenum		t_cell	t_cell	5.722213968060824	8	3	1	224	231
+Within lineage / between tissues	t_cell	blood	ileum		t_cell	t_cell	5.689689611341976	8	3	1	224	238
+Within lineage / between tissues	t_cell	blood	inguinal lymph node		t_cell	t_cell	3.3591023918923506	8	4	4	224	239
+Within lineage / between tissues	t_cell	blood	liver		t_cell	t_cell	2.8214386434185115	8	4	1	224	245
+Within lineage / between tissues	t_cell	blood	lung		t_cell	t_cell	1.6648261791123289	8	4	4	224	246
+Within lineage / between tissues	t_cell	blood	lymph node		t_cell	t_cell	2.027603834868778	8	6	5	224	247
+Within lineage / between tissues	t_cell	blood	muscle of abdomen		t_cell	t_cell	2.940119496765852	8	5	3	224	251
+Within lineage / between tissues	t_cell	blood	muscle of pelvic diaphragm		t_cell	t_cell	2.71344159094482	8	3	2	224	252
+Within lineage / between tissues	t_cell	blood	posterior part of tongue		t_cell	t_cell	2.850995194559723	8	4	3	224	256
+Within lineage / between tissues	t_cell	blood	prostate gland		t_cell	t_cell	1.9902219305978301	8	3	3	224	257
+Within lineage / between tissues	t_cell	blood	skin of abdomen		t_cell	t_cell	2.784798586421912	8	3	3	224	262
+Within lineage / between tissues	t_cell	blood	skin of chest		t_cell	t_cell	2.91421157552086	8	3	3	224	264
+Within lineage / between tissues	t_cell	blood	spleen		t_cell	t_cell	1.885545666254755	8	6	5	224	266
+Within lineage / between tissues	t_cell	blood	subcutaneous adipose tissue		t_cell	t_cell	3.5192636880695023	8	5	5	224	269
+Within lineage / between tissues	t_cell	blood	thymus		t_cell	t_cell	1.6961869049177007	8	5	4	224	273
+Within lineage / between tissues	t_cell	blood	trachea		t_cell	t_cell	3.016819722394441	8	4	3	224	274
+Within lineage / between tissues	t_cell	bone marrow	coronary artery		t_cell	t_cell	1.6464992833855518	6	3	3	225	229
+Within lineage / between tissues	t_cell	bone marrow	duodenum		t_cell	t_cell	6.357041553932043	6	3	1	225	231
+Within lineage / between tissues	t_cell	bone marrow	ileum		t_cell	t_cell	6.260554866999149	6	3	1	225	238
+Within lineage / between tissues	t_cell	bone marrow	inguinal lymph node		t_cell	t_cell	2.6637354261200503	6	4	3	225	239
+Within lineage / between tissues	t_cell	bone marrow	liver		t_cell	t_cell	3.011008893456146	6	4	1	225	245
+Within lineage / between tissues	t_cell	bone marrow	lung		t_cell	t_cell	2.0660357049882	6	4	3	225	246
+Within lineage / between tissues	t_cell	bone marrow	lymph node		t_cell	t_cell	1.779539018980907	6	6	4	225	247
+Within lineage / between tissues	t_cell	bone marrow	muscle of abdomen		t_cell	t_cell	2.525158078741533	6	5	2	225	251
+Within lineage / between tissues	t_cell	bone marrow	muscle of pelvic diaphragm		t_cell	t_cell	2.6770017229496523	6	3	2	225	252
+Within lineage / between tissues	t_cell	bone marrow	posterior part of tongue		t_cell	t_cell	3.2189802731049117	6	4	2	225	256
+Within lineage / between tissues	t_cell	bone marrow	prostate gland		t_cell	t_cell	2.010783635060017	6	3	2	225	257
+Within lineage / between tissues	t_cell	bone marrow	skin of abdomen		t_cell	t_cell	1.9911666723964623	6	3	2	225	262
+Within lineage / between tissues	t_cell	bone marrow	skin of chest		t_cell	t_cell	2.783972971107067	6	3	2	225	264
+Within lineage / between tissues	t_cell	bone marrow	spleen		t_cell	t_cell	2.327026724592235	6	6	4	225	266
+Within lineage / between tissues	t_cell	bone marrow	subcutaneous adipose tissue		t_cell	t_cell	3.9586863131965617	6	5	4	225	269
+Within lineage / between tissues	t_cell	bone marrow	thymus		t_cell	t_cell	1.3197772593540336	6	5	4	225	273
+Within lineage / between tissues	t_cell	bone marrow	trachea		t_cell	t_cell	3.480178452781636	6	4	3	225	274
+Within lineage / between tissues	t_cell	coronary artery	duodenum		t_cell	t_cell	5.817880650235097	3	3	0	229	231
+Within lineage / between tissues	t_cell	coronary artery	ileum		t_cell	t_cell	5.706106478384246	3	3	1	229	238
+Within lineage / between tissues	t_cell	coronary artery	inguinal lymph node		t_cell	t_cell	3.0232253227578956	3	4	2	229	239
+Within lineage / between tissues	t_cell	coronary artery	liver		t_cell	t_cell	2.573791952175419	3	4	1	229	245
+Within lineage / between tissues	t_cell	coronary artery	lung		t_cell	t_cell	1.1998564438123995	3	4	2	229	246
+Within lineage / between tissues	t_cell	coronary artery	lymph node		t_cell	t_cell	1.8732043117451977	3	6	3	229	247
+Within lineage / between tissues	t_cell	coronary artery	muscle of abdomen		t_cell	t_cell	2.128846552641169	3	5	1	229	251
+Within lineage / between tissues	t_cell	coronary artery	muscle of pelvic diaphragm		t_cell	t_cell	2.0777508012896395	3	3	1	229	252
+Within lineage / between tissues	t_cell	coronary artery	posterior part of tongue		t_cell	t_cell	2.711338142797444	3	4	2	229	256
+Within lineage / between tissues	t_cell	coronary artery	prostate gland		t_cell	t_cell	1.6859237701203256	3	3	2	229	257
+Within lineage / between tissues	t_cell	coronary artery	skin of abdomen		t_cell	t_cell	1.7581779581858745	3	3	1	229	262
+Within lineage / between tissues	t_cell	coronary artery	skin of chest		t_cell	t_cell	2.2017561735473787	3	3	1	229	264
+Within lineage / between tissues	t_cell	coronary artery	spleen		t_cell	t_cell	1.9289361880923372	3	6	3	229	266
+Within lineage / between tissues	t_cell	coronary artery	subcutaneous adipose tissue		t_cell	t_cell	3.355182166559052	3	5	3	229	269
+Within lineage / between tissues	t_cell	coronary artery	thymus		t_cell	t_cell	1.2492981718811003	3	5	3	229	273
+Within lineage / between tissues	t_cell	coronary artery	trachea		t_cell	t_cell	3.0006658746789983	3	4	2	229	274
+Within lineage / between tissues	t_cell	duodenum	ileum		t_cell	t_cell	1.1190325902636924	3	3	2	231	238
+Within lineage / between tissues	t_cell	duodenum	inguinal lymph node		t_cell	t_cell	5.290459110401916	3	4	1	231	239
+Within lineage / between tissues	t_cell	duodenum	liver		t_cell	t_cell	3.9551014828667475	3	4	0	231	245
+Within lineage / between tissues	t_cell	duodenum	lung		t_cell	t_cell	4.898239620277577	3	4	1	231	246
+Within lineage / between tissues	t_cell	duodenum	lymph node		t_cell	t_cell	4.884350299836585	3	6	2	231	247
+Within lineage / between tissues	t_cell	duodenum	muscle of abdomen		t_cell	t_cell	4.692305697971337	3	5	2	231	251
+Within lineage / between tissues	t_cell	duodenum	muscle of pelvic diaphragm		t_cell	t_cell	4.230769707263693	3	3	1	231	252
+Within lineage / between tissues	t_cell	duodenum	posterior part of tongue		t_cell	t_cell	4.048771632439086	3	4	1	231	256
+Within lineage / between tissues	t_cell	duodenum	prostate gland		t_cell	t_cell	4.891366831234692	3	3	0	231	257
+Within lineage / between tissues	t_cell	duodenum	skin of abdomen		t_cell	t_cell	6.054183890750828	3	3	1	231	262
+Within lineage / between tissues	t_cell	duodenum	skin of chest		t_cell	t_cell	4.519141774334867	3	3	1	231	264
+Within lineage / between tissues	t_cell	duodenum	spleen		t_cell	t_cell	4.314929339951154	3	6	2	231	266
+Within lineage / between tissues	t_cell	duodenum	subcutaneous adipose tissue		t_cell	t_cell	2.845938017152601	3	5	1	231	269
+Within lineage / between tissues	t_cell	duodenum	thymus		t_cell	t_cell	5.660631536848965	3	5	2	231	273
+Within lineage / between tissues	t_cell	duodenum	trachea		t_cell	t_cell	3.2938009414949336	3	4	1	231	274
+Within lineage / between tissues	t_cell	ileum	inguinal lymph node		t_cell	t_cell	5.043548696887623	3	4	0	238	239
+Within lineage / between tissues	t_cell	ileum	liver		t_cell	t_cell	3.812584378663868	3	4	0	238	245
+Within lineage / between tissues	t_cell	ileum	lung		t_cell	t_cell	4.804396222125282	3	4	1	238	246
+Within lineage / between tissues	t_cell	ileum	lymph node		t_cell	t_cell	4.747388722128757	3	6	2	238	247
+Within lineage / between tissues	t_cell	ileum	muscle of abdomen		t_cell	t_cell	4.539830991361372	3	5	1	238	251
+Within lineage / between tissues	t_cell	ileum	muscle of pelvic diaphragm		t_cell	t_cell	4.139954953971027	3	3	0	238	252
+Within lineage / between tissues	t_cell	ileum	posterior part of tongue		t_cell	t_cell	3.960063721170081	3	4	2	238	256
+Within lineage / between tissues	t_cell	ileum	prostate gland		t_cell	t_cell	4.710813838829229	3	3	1	238	257
+Within lineage / between tissues	t_cell	ileum	skin of abdomen		t_cell	t_cell	5.883560771986093	3	3	0	238	262
+Within lineage / between tissues	t_cell	ileum	skin of chest		t_cell	t_cell	4.429879891559215	3	3	0	238	264
+Within lineage / between tissues	t_cell	ileum	spleen		t_cell	t_cell	4.2869603552823214	3	6	2	238	266
+Within lineage / between tissues	t_cell	ileum	subcutaneous adipose tissue		t_cell	t_cell	2.6063911893038707	3	5	1	238	269
+Within lineage / between tissues	t_cell	ileum	thymus		t_cell	t_cell	5.585835583996155	3	5	2	238	273
+Within lineage / between tissues	t_cell	ileum	trachea		t_cell	t_cell	3.3074847806591046	3	4	1	238	274
+Within lineage / between tissues	t_cell	inguinal lymph node	liver		t_cell	t_cell	2.8265064207930584	4	4	1	239	245
+Within lineage / between tissues	t_cell	inguinal lymph node	lung		t_cell	t_cell	2.6876050417048853	4	4	2	239	246
+Within lineage / between tissues	t_cell	inguinal lymph node	lymph node		t_cell	t_cell	1.5686900585092414	4	6	4	239	247
+Within lineage / between tissues	t_cell	inguinal lymph node	muscle of abdomen		t_cell	t_cell	1.9606846945610596	4	5	2	239	251
+Within lineage / between tissues	t_cell	inguinal lymph node	muscle of pelvic diaphragm		t_cell	t_cell	2.5522918248258497	4	3	2	239	252
+Within lineage / between tissues	t_cell	inguinal lymph node	posterior part of tongue		t_cell	t_cell	3.6065701683663733	4	4	2	239	256
+Within lineage / between tissues	t_cell	inguinal lymph node	prostate gland		t_cell	t_cell	2.54416667265734	4	3	1	239	257
+Within lineage / between tissues	t_cell	inguinal lymph node	skin of abdomen		t_cell	t_cell	3.1449486670352758	4	3	2	239	262
+Within lineage / between tissues	t_cell	inguinal lymph node	skin of chest		t_cell	t_cell	3.0079811106558063	4	3	2	239	264
+Within lineage / between tissues	t_cell	inguinal lymph node	spleen		t_cell	t_cell	2.2347445542020457	4	6	4	239	266
+Within lineage / between tissues	t_cell	inguinal lymph node	subcutaneous adipose tissue		t_cell	t_cell	3.0765561362621217	4	5	3	239	269
+Within lineage / between tissues	t_cell	inguinal lymph node	thymus		t_cell	t_cell	2.362860312439228	4	5	3	239	273
+Within lineage / between tissues	t_cell	inguinal lymph node	trachea		t_cell	t_cell	3.469564836979897	4	4	2	239	274
+Within lineage / between tissues	t_cell	liver	lung		t_cell	t_cell	1.8182519849412566	4	4	1	245	246
+Within lineage / between tissues	t_cell	liver	lymph node		t_cell	t_cell	2.074022982126388	4	6	1	245	247
+Within lineage / between tissues	t_cell	liver	muscle of abdomen		t_cell	t_cell	1.9624941421383701	4	5	1	245	251
+Within lineage / between tissues	t_cell	liver	muscle of pelvic diaphragm		t_cell	t_cell	1.505901838810963	4	3	1	245	252
+Within lineage / between tissues	t_cell	liver	posterior part of tongue		t_cell	t_cell	1.9141671525652473	4	4	1	245	256
+Within lineage / between tissues	t_cell	liver	prostate gland		t_cell	t_cell	1.7526315858488917	4	3	1	245	257
+Within lineage / between tissues	t_cell	liver	skin of abdomen		t_cell	t_cell	2.6732374286328593	4	3	1	245	262
+Within lineage / between tissues	t_cell	liver	skin of chest		t_cell	t_cell	1.6353735398848437	4	3	1	245	264
+Within lineage / between tissues	t_cell	liver	spleen		t_cell	t_cell	1.731419443770899	4	6	1	245	266
+Within lineage / between tissues	t_cell	liver	subcutaneous adipose tissue		t_cell	t_cell	1.7359635913747142	4	5	1	245	269
+Within lineage / between tissues	t_cell	liver	thymus		t_cell	t_cell	2.59119939902464	4	5	1	245	273
+Within lineage / between tissues	t_cell	liver	trachea		t_cell	t_cell	1.3134784894469291	4	4	1	245	274
+Within lineage / between tissues	t_cell	lung	lymph node		t_cell	t_cell	1.5472471712022204	4	6	3	246	247
+Within lineage / between tissues	t_cell	lung	muscle of abdomen		t_cell	t_cell	1.5832397060255334	4	5	3	246	251
+Within lineage / between tissues	t_cell	lung	muscle of pelvic diaphragm		t_cell	t_cell	1.5065555239493265	4	3	2	246	252
+Within lineage / between tissues	t_cell	lung	posterior part of tongue		t_cell	t_cell	2.2341442927231485	4	4	2	246	256
+Within lineage / between tissues	t_cell	lung	prostate gland		t_cell	t_cell	1.1016913149077547	4	3	2	246	257
+Within lineage / between tissues	t_cell	lung	skin of abdomen		t_cell	t_cell	1.8820703701105501	4	3	2	246	262
+Within lineage / between tissues	t_cell	lung	skin of chest		t_cell	t_cell	1.563885639139819	4	3	2	246	264
+Within lineage / between tissues	t_cell	lung	spleen		t_cell	t_cell	1.2860066144509668	4	6	3	246	266
+Within lineage / between tissues	t_cell	lung	subcutaneous adipose tissue		t_cell	t_cell	2.637112721892833	4	5	3	246	269
+Within lineage / between tissues	t_cell	lung	thymus		t_cell	t_cell	1.5703107099656306	4	5	3	246	273
+Within lineage / between tissues	t_cell	lung	trachea		t_cell	t_cell	2.2549094523729782	4	4	2	246	274
+Within lineage / between tissues	t_cell	lymph node	muscle of abdomen		t_cell	t_cell	1.6334209307456076	6	5	3	247	251
+Within lineage / between tissues	t_cell	lymph node	muscle of pelvic diaphragm		t_cell	t_cell	1.7267693040730159	6	3	2	247	252
+Within lineage / between tissues	t_cell	lymph node	posterior part of tongue		t_cell	t_cell	2.480648952352361	6	4	4	247	256
+Within lineage / between tissues	t_cell	lymph node	prostate gland		t_cell	t_cell	1.5224182294367115	6	3	2	247	257
+Within lineage / between tissues	t_cell	lymph node	skin of abdomen		t_cell	t_cell	2.5036068986984708	6	3	2	247	262
+Within lineage / between tissues	t_cell	lymph node	skin of chest		t_cell	t_cell	2.283150567637005	6	3	2	247	264
+Within lineage / between tissues	t_cell	lymph node	spleen		t_cell	t_cell	0.9707557910792651	6	6	6	247	266
+Within lineage / between tissues	t_cell	lymph node	subcutaneous adipose tissue		t_cell	t_cell	2.471456658930482	6	5	4	247	269
+Within lineage / between tissues	t_cell	lymph node	thymus		t_cell	t_cell	1.3656844749224468	6	5	5	247	273
+Within lineage / between tissues	t_cell	lymph node	trachea		t_cell	t_cell	2.4218417255079583	6	4	3	247	274
+Within lineage / between tissues	t_cell	muscle of abdomen	muscle of pelvic diaphragm		t_cell	t_cell	1.0803524792545252	5	3	3	251	252
+Within lineage / between tissues	t_cell	muscle of abdomen	posterior part of tongue		t_cell	t_cell	2.722752003760532	5	4	2	251	256
+Within lineage / between tissues	t_cell	muscle of abdomen	prostate gland		t_cell	t_cell	1.8241578584582747	5	3	1	251	257
+Within lineage / between tissues	t_cell	muscle of abdomen	skin of abdomen		t_cell	t_cell	2.074151319235762	5	3	2	251	262
+Within lineage / between tissues	t_cell	muscle of abdomen	skin of chest		t_cell	t_cell	1.4741864709643508	5	3	2	251	264
+Within lineage / between tissues	t_cell	muscle of abdomen	spleen		t_cell	t_cell	1.7346012076592292	5	6	3	251	266
+Within lineage / between tissues	t_cell	muscle of abdomen	subcutaneous adipose tissue		t_cell	t_cell	2.3704951745876914	5	5	2	251	269
+Within lineage / between tissues	t_cell	muscle of abdomen	thymus		t_cell	t_cell	1.9783017224687158	5	5	3	251	273
+Within lineage / between tissues	t_cell	muscle of abdomen	trachea		t_cell	t_cell	2.5444877858320587	5	4	1	251	274
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	posterior part of tongue		t_cell	t_cell	2.0515615036133728	3	4	1	252	256
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	prostate gland		t_cell	t_cell	1.8263252431995651	3	3	1	252	257
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	skin of abdomen		t_cell	t_cell	2.2433804710054637	3	3	2	252	262
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	skin of chest		t_cell	t_cell	1.1992978558960434	3	3	2	252	264
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	spleen		t_cell	t_cell	1.4956926505447068	3	6	2	252	266
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	subcutaneous adipose tissue		t_cell	t_cell	1.8449191213860368	3	5	2	252	269
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	thymus		t_cell	t_cell	2.035237580878864	3	5	2	252	273
+Within lineage / between tissues	t_cell	muscle of pelvic diaphragm	trachea		t_cell	t_cell	1.8288612622858356	3	4	1	252	274
+Within lineage / between tissues	t_cell	posterior part of tongue	prostate gland		t_cell	t_cell	2.2028983268876408	4	3	2	256	257
+Within lineage / between tissues	t_cell	posterior part of tongue	skin of abdomen		t_cell	t_cell	3.020590862546709	4	3	1	256	262
+Within lineage / between tissues	t_cell	posterior part of tongue	skin of chest		t_cell	t_cell	2.0769232712628822	4	3	1	256	264
+Within lineage / between tissues	t_cell	posterior part of tongue	spleen		t_cell	t_cell	2.1262368303656416	4	6	4	256	266
+Within lineage / between tissues	t_cell	posterior part of tongue	subcutaneous adipose tissue		t_cell	t_cell	2.1598437693345907	4	5	2	256	269
+Within lineage / between tissues	t_cell	posterior part of tongue	thymus		t_cell	t_cell	2.9016123712442887	4	5	3	256	273
+Within lineage / between tissues	t_cell	posterior part of tongue	trachea		t_cell	t_cell	1.5238787931776412	4	4	1	256	274
+Within lineage / between tissues	t_cell	prostate gland	skin of abdomen		t_cell	t_cell	1.7803988751532087	3	3	1	257	262
+Within lineage / between tissues	t_cell	prostate gland	skin of chest		t_cell	t_cell	1.656739828200985	3	3	1	257	264
+Within lineage / between tissues	t_cell	prostate gland	spleen		t_cell	t_cell	1.525981072486962	3	6	2	257	266
+Within lineage / between tissues	t_cell	prostate gland	subcutaneous adipose tissue		t_cell	t_cell	2.666232450010817	3	5	2	257	269
+Within lineage / between tissues	t_cell	prostate gland	thymus		t_cell	t_cell	1.5901051069592211	3	5	2	257	273
+Within lineage / between tissues	t_cell	prostate gland	trachea		t_cell	t_cell	2.152289177825077	3	4	1	257	274
+Within lineage / between tissues	t_cell	skin of abdomen	skin of chest		t_cell	t_cell	1.7204010446296678	3	3	3	262	264
+Within lineage / between tissues	t_cell	skin of abdomen	spleen		t_cell	t_cell	2.7305237848007615	3	6	2	262	266
+Within lineage / between tissues	t_cell	skin of abdomen	subcutaneous adipose tissue		t_cell	t_cell	3.7587211158859755	3	5	3	262	269
+Within lineage / between tissues	t_cell	skin of abdomen	thymus		t_cell	t_cell	1.944433253053905	3	5	2	262	273
+Within lineage / between tissues	t_cell	skin of abdomen	trachea		t_cell	t_cell	3.2794201526123024	3	4	1	262	274
+Within lineage / between tissues	t_cell	skin of chest	spleen		t_cell	t_cell	2.0825118339232604	3	6	2	264	266
+Within lineage / between tissues	t_cell	skin of chest	subcutaneous adipose tissue		t_cell	t_cell	2.4441926738578577	3	5	3	264	269
+Within lineage / between tissues	t_cell	skin of chest	thymus		t_cell	t_cell	2.3242522210745373	3	5	2	264	273
+Within lineage / between tissues	t_cell	skin of chest	trachea		t_cell	t_cell	2.036822609232317	3	4	1	264	274
+Within lineage / between tissues	t_cell	spleen	subcutaneous adipose tissue		t_cell	t_cell	2.0255469227819876	6	5	4	266	269
+Within lineage / between tissues	t_cell	spleen	thymus		t_cell	t_cell	1.6956490130454835	6	5	5	266	273
+Within lineage / between tissues	t_cell	spleen	trachea		t_cell	t_cell	1.8362195294694539	6	4	3	266	274
+Within lineage / between tissues	t_cell	subcutaneous adipose tissue	thymus		t_cell	t_cell	3.259192519645446	5	5	4	269	273
+Within lineage / between tissues	t_cell	subcutaneous adipose tissue	trachea		t_cell	t_cell	1.4615548632136843	5	4	3	269	274
+Within lineage / between tissues	t_cell	thymus	trachea		t_cell	t_cell	2.987417122580127	5	4	3	273	274
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	aorta		macrophage_monocyte	macrophage_monocyte	1.1877980280849687	5	3	2	157	159
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	bladder organ		macrophage_monocyte	macrophage_monocyte	1.3225670482799956	5	6	4	157	161
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	blood		macrophage_monocyte	macrophage_monocyte	2.6439614515869168	5	8	4	157	162
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	bone marrow		macrophage_monocyte	macrophage_monocyte	1.9950561872824142	5	7	4	157	163
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	coronary artery		macrophage_monocyte	macrophage_monocyte	2.2396299419803762	5	3	3	157	169
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	heart		macrophage_monocyte	macrophage_monocyte	3.4651795283339837	5	3	3	157	176
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	left ovary		macrophage_monocyte	macrophage_monocyte	1.8718368348229213	5	3	1	157	184
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	liver		macrophage_monocyte	macrophage_monocyte	2.489326635682707	5	4	1	157	185
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	lung		macrophage_monocyte	macrophage_monocyte	1.2240930464855977	5	4	2	157	186
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	lymph node		macrophage_monocyte	macrophage_monocyte	1.5686049575037544	5	6	4	157	187
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	2.1611471014441777	5	6	3	157	191
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	1.7596405726247353	5	5	3	157	192
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	2.89333905496024	5	4	3	157	195
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	prostate gland		macrophage_monocyte	macrophage_monocyte	2.460754068860033	5	3	2	157	196
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	skin of abdomen		macrophage_monocyte	macrophage_monocyte	2.995729541909715	5	3	2	157	201
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	skin of chest		macrophage_monocyte	macrophage_monocyte	2.7500284236346975	5	3	2	157	203
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	spleen		macrophage_monocyte	macrophage_monocyte	1.6175777444769655	5	6	4	157	205
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	1.1614024828440883	5	5	5	157	208
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	thymus		macrophage_monocyte	macrophage_monocyte	2.071158708710796	5	5	4	157	213
+Within lineage / between tissues	macrophage_monocyte	adipose tissue	trachea		macrophage_monocyte	macrophage_monocyte	1.198375239350518	5	3	1	157	214
+Within lineage / between tissues	macrophage_monocyte	aorta	bladder organ		macrophage_monocyte	macrophage_monocyte	1.6410373091070602	3	6	3	159	161
+Within lineage / between tissues	macrophage_monocyte	aorta	blood		macrophage_monocyte	macrophage_monocyte	1.945380476542799	3	8	3	159	162
+Within lineage / between tissues	macrophage_monocyte	aorta	bone marrow		macrophage_monocyte	macrophage_monocyte	1.871340504684419	3	7	3	159	163
+Within lineage / between tissues	macrophage_monocyte	aorta	coronary artery		macrophage_monocyte	macrophage_monocyte	1.5055338865719592	3	3	2	159	169
+Within lineage / between tissues	macrophage_monocyte	aorta	heart		macrophage_monocyte	macrophage_monocyte	3.3740518437910914	3	3	2	159	176
+Within lineage / between tissues	macrophage_monocyte	aorta	left ovary		macrophage_monocyte	macrophage_monocyte	1.8352936902320018	3	3	0	159	184
+Within lineage / between tissues	macrophage_monocyte	aorta	liver		macrophage_monocyte	macrophage_monocyte	2.9147851694126166	3	4	0	159	185
+Within lineage / between tissues	macrophage_monocyte	aorta	lung		macrophage_monocyte	macrophage_monocyte	1.1627465470221956	3	4	2	159	186
+Within lineage / between tissues	macrophage_monocyte	aorta	lymph node		macrophage_monocyte	macrophage_monocyte	1.5497511576338634	3	6	3	159	187
+Within lineage / between tissues	macrophage_monocyte	aorta	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	2.126854941199624	3	6	2	159	191
+Within lineage / between tissues	macrophage_monocyte	aorta	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	1.691720559498119	3	5	2	159	192
+Within lineage / between tissues	macrophage_monocyte	aorta	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	2.2672711011329723	3	4	1	159	195
+Within lineage / between tissues	macrophage_monocyte	aorta	prostate gland		macrophage_monocyte	macrophage_monocyte	2.2822924779933884	3	3	1	159	196
+Within lineage / between tissues	macrophage_monocyte	aorta	skin of abdomen		macrophage_monocyte	macrophage_monocyte	3.2385792086321072	3	3	1	159	201
+Within lineage / between tissues	macrophage_monocyte	aorta	skin of chest		macrophage_monocyte	macrophage_monocyte	3.115499898050894	3	3	1	159	203
+Within lineage / between tissues	macrophage_monocyte	aorta	spleen		macrophage_monocyte	macrophage_monocyte	1.4640523800365643	3	6	3	159	205
+Within lineage / between tissues	macrophage_monocyte	aorta	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	1.3997746538311566	3	5	2	159	208
+Within lineage / between tissues	macrophage_monocyte	aorta	thymus		macrophage_monocyte	macrophage_monocyte	1.4464214708605403	3	5	3	159	213
+Within lineage / between tissues	macrophage_monocyte	aorta	trachea		macrophage_monocyte	macrophage_monocyte	1.3988605628990438	3	3	2	159	214
+Within lineage / between tissues	macrophage_monocyte	bladder organ	blood		macrophage_monocyte	macrophage_monocyte	3.1517304432600497	6	8	5	161	162
+Within lineage / between tissues	macrophage_monocyte	bladder organ	bone marrow		macrophage_monocyte	macrophage_monocyte	2.4212398481314734	6	7	5	161	163
+Within lineage / between tissues	macrophage_monocyte	bladder organ	coronary artery		macrophage_monocyte	macrophage_monocyte	2.598032624057195	6	3	3	161	169
+Within lineage / between tissues	macrophage_monocyte	bladder organ	heart		macrophage_monocyte	macrophage_monocyte	3.7345609920501452	6	3	3	161	176
+Within lineage / between tissues	macrophage_monocyte	bladder organ	left ovary		macrophage_monocyte	macrophage_monocyte	2.307969760762808	6	3	1	161	184
+Within lineage / between tissues	macrophage_monocyte	bladder organ	liver		macrophage_monocyte	macrophage_monocyte	2.747726256855215	6	4	1	161	185
+Within lineage / between tissues	macrophage_monocyte	bladder organ	lung		macrophage_monocyte	macrophage_monocyte	1.8284855768781896	6	4	4	161	186
+Within lineage / between tissues	macrophage_monocyte	bladder organ	lymph node		macrophage_monocyte	macrophage_monocyte	2.0533039631612833	6	6	5	161	187
+Within lineage / between tissues	macrophage_monocyte	bladder organ	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	1.3399935436769743	6	6	5	161	191
+Within lineage / between tissues	macrophage_monocyte	bladder organ	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	0.8769292718151441	6	5	4	161	192
+Within lineage / between tissues	macrophage_monocyte	bladder organ	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	3.1777433675913094	6	4	3	161	195
+Within lineage / between tissues	macrophage_monocyte	bladder organ	prostate gland		macrophage_monocyte	macrophage_monocyte	2.6417800762421617	6	3	2	161	196
+Within lineage / between tissues	macrophage_monocyte	bladder organ	skin of abdomen		macrophage_monocyte	macrophage_monocyte	3.0983710393621005	6	3	2	161	201
+Within lineage / between tissues	macrophage_monocyte	bladder organ	skin of chest		macrophage_monocyte	macrophage_monocyte	2.9829636318733317	6	3	2	161	203
+Within lineage / between tissues	macrophage_monocyte	bladder organ	spleen		macrophage_monocyte	macrophage_monocyte	2.307994229193736	6	6	5	161	205
+Within lineage / between tissues	macrophage_monocyte	bladder organ	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	0.9641311979613394	6	5	4	161	208
+Within lineage / between tissues	macrophage_monocyte	bladder organ	thymus		macrophage_monocyte	macrophage_monocyte	2.237399864291344	6	5	5	161	213
+Within lineage / between tissues	macrophage_monocyte	bladder organ	trachea		macrophage_monocyte	macrophage_monocyte	2.175291885651271	6	3	2	161	214
+Within lineage / between tissues	macrophage_monocyte	blood	bone marrow		macrophage_monocyte	macrophage_monocyte	1.709436351504157	8	7	4	162	163
+Within lineage / between tissues	macrophage_monocyte	blood	coronary artery		macrophage_monocyte	macrophage_monocyte	1.7407289766468417	8	3	3	162	169
+Within lineage / between tissues	macrophage_monocyte	blood	heart		macrophage_monocyte	macrophage_monocyte	3.0428174842609037	8	3	3	162	176
+Within lineage / between tissues	macrophage_monocyte	blood	left ovary		macrophage_monocyte	macrophage_monocyte	3.3932068313961423	8	3	0	162	184
+Within lineage / between tissues	macrophage_monocyte	blood	liver		macrophage_monocyte	macrophage_monocyte	2.953822429910738	8	4	1	162	185
+Within lineage / between tissues	macrophage_monocyte	blood	lung		macrophage_monocyte	macrophage_monocyte	1.9080912345223284	8	4	4	162	186
+Within lineage / between tissues	macrophage_monocyte	blood	lymph node		macrophage_monocyte	macrophage_monocyte	1.8259541549737484	8	6	5	162	187
+Within lineage / between tissues	macrophage_monocyte	blood	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	3.788817387356764	8	6	4	162	191
+Within lineage / between tissues	macrophage_monocyte	blood	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	3.1592175050322457	8	5	3	162	192
+Within lineage / between tissues	macrophage_monocyte	blood	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	2.3162630551548036	8	4	3	162	195
+Within lineage / between tissues	macrophage_monocyte	blood	prostate gland		macrophage_monocyte	macrophage_monocyte	2.6390326799540995	8	3	3	162	196
+Within lineage / between tissues	macrophage_monocyte	blood	skin of abdomen		macrophage_monocyte	macrophage_monocyte	3.3873311935884503	8	3	3	162	201
+Within lineage / between tissues	macrophage_monocyte	blood	skin of chest		macrophage_monocyte	macrophage_monocyte	3.216499238024665	8	3	3	162	203
+Within lineage / between tissues	macrophage_monocyte	blood	spleen		macrophage_monocyte	macrophage_monocyte	1.4802461400702998	8	6	5	162	205
+Within lineage / between tissues	macrophage_monocyte	blood	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	3.1446020172279048	8	5	4	162	208
+Within lineage / between tissues	macrophage_monocyte	blood	thymus		macrophage_monocyte	macrophage_monocyte	2.016462949789808	8	5	4	162	213
+Within lineage / between tissues	macrophage_monocyte	blood	trachea		macrophage_monocyte	macrophage_monocyte	1.8503848967487329	8	3	2	162	214
+Within lineage / between tissues	macrophage_monocyte	bone marrow	coronary artery		macrophage_monocyte	macrophage_monocyte	2.1357173419251514	7	3	3	163	169
+Within lineage / between tissues	macrophage_monocyte	bone marrow	heart		macrophage_monocyte	macrophage_monocyte	2.70609213789308	7	3	3	163	176
+Within lineage / between tissues	macrophage_monocyte	bone marrow	left ovary		macrophage_monocyte	macrophage_monocyte	3.3805335942815122	7	3	1	163	184
+Within lineage / between tissues	macrophage_monocyte	bone marrow	liver		macrophage_monocyte	macrophage_monocyte	1.96530012648904	7	4	1	163	185
+Within lineage / between tissues	macrophage_monocyte	bone marrow	lung		macrophage_monocyte	macrophage_monocyte	1.4042028324775617	7	4	3	163	186
+Within lineage / between tissues	macrophage_monocyte	bone marrow	lymph node		macrophage_monocyte	macrophage_monocyte	1.1802431918096914	7	6	5	163	187
+Within lineage / between tissues	macrophage_monocyte	bone marrow	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	3.3914578221338405	7	6	4	163	191
+Within lineage / between tissues	macrophage_monocyte	bone marrow	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	2.587183336416795	7	5	4	163	192
+Within lineage / between tissues	macrophage_monocyte	bone marrow	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	2.784625486422724	7	4	3	163	195
+Within lineage / between tissues	macrophage_monocyte	bone marrow	prostate gland		macrophage_monocyte	macrophage_monocyte	2.4619744919606004	7	3	2	163	196
+Within lineage / between tissues	macrophage_monocyte	bone marrow	skin of abdomen		macrophage_monocyte	macrophage_monocyte	2.2984858019888814	7	3	2	163	201
+Within lineage / between tissues	macrophage_monocyte	bone marrow	skin of chest		macrophage_monocyte	macrophage_monocyte	1.9780905749131668	7	3	2	163	203
+Within lineage / between tissues	macrophage_monocyte	bone marrow	spleen		macrophage_monocyte	macrophage_monocyte	0.9763247594393368	7	6	5	163	205
+Within lineage / between tissues	macrophage_monocyte	bone marrow	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	2.617583634182896	7	5	4	163	208
+Within lineage / between tissues	macrophage_monocyte	bone marrow	thymus		macrophage_monocyte	macrophage_monocyte	1.7831669323398653	7	5	5	163	213
+Within lineage / between tissues	macrophage_monocyte	bone marrow	trachea		macrophage_monocyte	macrophage_monocyte	1.6572300145687924	7	3	2	163	214
+Within lineage / between tissues	macrophage_monocyte	coronary artery	heart		macrophage_monocyte	macrophage_monocyte	2.4268911720723683	3	3	3	169	176
+Within lineage / between tissues	macrophage_monocyte	coronary artery	left ovary		macrophage_monocyte	macrophage_monocyte	2.6823541467876106	3	3	0	169	184
+Within lineage / between tissues	macrophage_monocyte	coronary artery	liver		macrophage_monocyte	macrophage_monocyte	2.9717632627020936	3	4	1	169	185
+Within lineage / between tissues	macrophage_monocyte	coronary artery	lung		macrophage_monocyte	macrophage_monocyte	1.9925879146415229	3	4	2	169	186
+Within lineage / between tissues	macrophage_monocyte	coronary artery	lymph node		macrophage_monocyte	macrophage_monocyte	1.8174140228524263	3	6	3	169	187
+Within lineage / between tissues	macrophage_monocyte	coronary artery	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	2.9521610839056303	3	6	2	169	191
+Within lineage / between tissues	macrophage_monocyte	coronary artery	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	2.4478738915635208	3	5	2	169	192
+Within lineage / between tissues	macrophage_monocyte	coronary artery	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	1.006183945116325	3	4	2	169	195
+Within lineage / between tissues	macrophage_monocyte	coronary artery	prostate gland		macrophage_monocyte	macrophage_monocyte	1.7611717391972348	3	3	2	169	196
+Within lineage / between tissues	macrophage_monocyte	coronary artery	skin of abdomen		macrophage_monocyte	macrophage_monocyte	3.053941499787089	3	3	1	169	201
+Within lineage / between tissues	macrophage_monocyte	coronary artery	skin of chest		macrophage_monocyte	macrophage_monocyte	3.3369980342958434	3	3	1	169	203
+Within lineage / between tissues	macrophage_monocyte	coronary artery	spleen		macrophage_monocyte	macrophage_monocyte	1.9113955008056664	3	6	3	169	205
+Within lineage / between tissues	macrophage_monocyte	coronary artery	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	2.555240360669475	3	5	3	169	208
+Within lineage / between tissues	macrophage_monocyte	coronary artery	thymus		macrophage_monocyte	macrophage_monocyte	1.2574665864707737	3	5	3	169	213
+Within lineage / between tissues	macrophage_monocyte	coronary artery	trachea		macrophage_monocyte	macrophage_monocyte	1.7465401581759576	3	3	1	169	214
+Within lineage / between tissues	macrophage_monocyte	heart	left ovary		macrophage_monocyte	macrophage_monocyte	4.370542586873291	3	3	0	176	184
+Within lineage / between tissues	macrophage_monocyte	heart	liver		macrophage_monocyte	macrophage_monocyte	2.3253382610613254	3	4	1	176	185
+Within lineage / between tissues	macrophage_monocyte	heart	lung		macrophage_monocyte	macrophage_monocyte	3.1467762924671403	3	4	2	176	186
+Within lineage / between tissues	macrophage_monocyte	heart	lymph node		macrophage_monocyte	macrophage_monocyte	2.486485540169589	3	6	3	176	187
+Within lineage / between tissues	macrophage_monocyte	heart	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	4.36918123118118	3	6	2	176	191
+Within lineage / between tissues	macrophage_monocyte	heart	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	3.7044746791499237	3	5	2	176	192
+Within lineage / between tissues	macrophage_monocyte	heart	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	2.390758031893126	3	4	2	176	195
+Within lineage / between tissues	macrophage_monocyte	heart	prostate gland		macrophage_monocyte	macrophage_monocyte	2.2926638261155996	3	3	2	176	196
+Within lineage / between tissues	macrophage_monocyte	heart	skin of abdomen		macrophage_monocyte	macrophage_monocyte	2.0347441092764664	3	3	1	176	201
+Within lineage / between tissues	macrophage_monocyte	heart	skin of chest		macrophage_monocyte	macrophage_monocyte	2.8093161541948892	3	3	1	176	203
+Within lineage / between tissues	macrophage_monocyte	heart	spleen		macrophage_monocyte	macrophage_monocyte	2.928519523581907	3	6	3	176	205
+Within lineage / between tissues	macrophage_monocyte	heart	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	4.068937849011799	3	5	3	176	208
+Within lineage / between tissues	macrophage_monocyte	heart	thymus		macrophage_monocyte	macrophage_monocyte	2.5777878907652374	3	5	3	176	213
+Within lineage / between tissues	macrophage_monocyte	heart	trachea		macrophage_monocyte	macrophage_monocyte	2.8715478718445864	3	3	1	176	214
+Within lineage / between tissues	macrophage_monocyte	left ovary	liver		macrophage_monocyte	macrophage_monocyte	3.9076252954125508	3	4	0	184	185
+Within lineage / between tissues	macrophage_monocyte	left ovary	lung		macrophage_monocyte	macrophage_monocyte	2.4903459224343094	3	4	0	184	186
+Within lineage / between tissues	macrophage_monocyte	left ovary	lymph node		macrophage_monocyte	macrophage_monocyte	2.73491239685348	3	6	1	184	187
+Within lineage / between tissues	macrophage_monocyte	left ovary	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	2.157552079637034	3	6	1	184	191
+Within lineage / between tissues	macrophage_monocyte	left ovary	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	2.450063550973214	3	5	1	184	192
+Within lineage / between tissues	macrophage_monocyte	left ovary	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	3.0682081962506604	3	4	1	184	195
+Within lineage / between tissues	macrophage_monocyte	left ovary	prostate gland		macrophage_monocyte	macrophage_monocyte	3.0823402539524833	3	3	0	184	196
+Within lineage / between tissues	macrophage_monocyte	left ovary	skin of abdomen		macrophage_monocyte	macrophage_monocyte	4.315327167660367	3	3	0	184	201
+Within lineage / between tissues	macrophage_monocyte	left ovary	skin of chest		macrophage_monocyte	macrophage_monocyte	4.258976287510567	3	3	0	184	203
+Within lineage / between tissues	macrophage_monocyte	left ovary	spleen		macrophage_monocyte	macrophage_monocyte	2.874790144081886	3	6	1	184	205
+Within lineage / between tissues	macrophage_monocyte	left ovary	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	1.849140065672936	3	5	1	184	208
+Within lineage / between tissues	macrophage_monocyte	left ovary	thymus		macrophage_monocyte	macrophage_monocyte	2.803343147682193	3	5	1	184	213
+Within lineage / between tissues	macrophage_monocyte	left ovary	trachea		macrophage_monocyte	macrophage_monocyte	2.411432952440858	3	3	0	184	214
+Within lineage / between tissues	macrophage_monocyte	liver	lung		macrophage_monocyte	macrophage_monocyte	2.170643195738644	4	4	1	185	186
+Within lineage / between tissues	macrophage_monocyte	liver	lymph node		macrophage_monocyte	macrophage_monocyte	1.6686060712072004	4	6	1	185	187
+Within lineage / between tissues	macrophage_monocyte	liver	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	3.806130332500801	4	6	1	185	191
+Within lineage / between tissues	macrophage_monocyte	liver	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	3.037245958437732	4	5	1	185	192
+Within lineage / between tissues	macrophage_monocyte	liver	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	3.2996375060184904	4	4	1	185	195
+Within lineage / between tissues	macrophage_monocyte	liver	prostate gland		macrophage_monocyte	macrophage_monocyte	2.3951056990384267	4	3	1	185	196
+Within lineage / between tissues	macrophage_monocyte	liver	skin of abdomen		macrophage_monocyte	macrophage_monocyte	1.5832131590104261	4	3	1	185	201
+Within lineage / between tissues	macrophage_monocyte	liver	skin of chest		macrophage_monocyte	macrophage_monocyte	1.65089816239679	4	3	1	185	203
+Within lineage / between tissues	macrophage_monocyte	liver	spleen		macrophage_monocyte	macrophage_monocyte	2.1306491907253355	4	6	1	185	205
+Within lineage / between tissues	macrophage_monocyte	liver	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	3.2231530066315006	4	5	1	185	208
+Within lineage / between tissues	macrophage_monocyte	liver	thymus		macrophage_monocyte	macrophage_monocyte	2.841237135886926	4	5	1	185	213
+Within lineage / between tissues	macrophage_monocyte	liver	trachea		macrophage_monocyte	macrophage_monocyte	2.198620837463555	4	3	1	185	214
+Within lineage / between tissues	macrophage_monocyte	lung	lymph node		macrophage_monocyte	macrophage_monocyte	1.026165142786238	4	6	3	186	187
+Within lineage / between tissues	macrophage_monocyte	lung	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	2.7805334105467967	4	6	4	186	191
+Within lineage / between tissues	macrophage_monocyte	lung	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	1.9572183787903628	4	5	3	186	192
+Within lineage / between tissues	macrophage_monocyte	lung	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	2.646037227958359	4	4	2	186	195
+Within lineage / between tissues	macrophage_monocyte	lung	prostate gland		macrophage_monocyte	macrophage_monocyte	2.2015873453485746	4	3	2	186	196
+Within lineage / between tissues	macrophage_monocyte	lung	skin of abdomen		macrophage_monocyte	macrophage_monocyte	2.547046597383353	4	3	2	186	201
+Within lineage / between tissues	macrophage_monocyte	lung	skin of chest		macrophage_monocyte	macrophage_monocyte	2.2105491694338	4	3	2	186	203
+Within lineage / between tissues	macrophage_monocyte	lung	spleen		macrophage_monocyte	macrophage_monocyte	0.8071712862898298	4	6	3	186	205
+Within lineage / between tissues	macrophage_monocyte	lung	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	1.9396304937190711	4	5	2	186	208
+Within lineage / between tissues	macrophage_monocyte	lung	thymus		macrophage_monocyte	macrophage_monocyte	1.684906113397379	4	5	3	186	213
+Within lineage / between tissues	macrophage_monocyte	lung	trachea		macrophage_monocyte	macrophage_monocyte	1.194351793368277	4	3	2	186	214
+Within lineage / between tissues	macrophage_monocyte	lymph node	muscle of abdomen		macrophage_monocyte	macrophage_monocyte	2.9972336963264303	6	6	4	187	191
+Within lineage / between tissues	macrophage_monocyte	lymph node	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	2.264760827734664	6	5	4	187	192
+Within lineage / between tissues	macrophage_monocyte	lymph node	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	2.3138726646570222	6	4	4	187	195
+Within lineage / between tissues	macrophage_monocyte	lymph node	prostate gland		macrophage_monocyte	macrophage_monocyte	1.703907232158373	6	3	2	187	196
+Within lineage / between tissues	macrophage_monocyte	lymph node	skin of abdomen		macrophage_monocyte	macrophage_monocyte	2.1665033090015053	6	3	2	187	201
+Within lineage / between tissues	macrophage_monocyte	lymph node	skin of chest		macrophage_monocyte	macrophage_monocyte	2.073879658343417	6	3	2	187	203
+Within lineage / between tissues	macrophage_monocyte	lymph node	spleen		macrophage_monocyte	macrophage_monocyte	0.8890404565611472	6	6	6	187	205
+Within lineage / between tissues	macrophage_monocyte	lymph node	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	2.3326011546395335	6	5	4	187	208
+Within lineage / between tissues	macrophage_monocyte	lymph node	thymus		macrophage_monocyte	macrophage_monocyte	1.6749866199633816	6	5	5	187	213
+Within lineage / between tissues	macrophage_monocyte	lymph node	trachea		macrophage_monocyte	macrophage_monocyte	1.223796881614808	6	3	2	187	214
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	muscle of pelvic diaphragm		macrophage_monocyte	macrophage_monocyte	1.3140782951011178	6	5	5	191	192
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	3.427508803143833	6	4	3	191	195
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	prostate gland		macrophage_monocyte	macrophage_monocyte	3.3249641213006993	6	3	2	191	196
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	skin of abdomen		macrophage_monocyte	macrophage_monocyte	4.05427308869884	6	3	2	191	201
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	skin of chest		macrophage_monocyte	macrophage_monocyte	4.100297890094773	6	3	2	191	203
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	spleen		macrophage_monocyte	macrophage_monocyte	3.2825565936865306	6	6	4	191	205
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	1.2542141344348958	6	5	3	191	208
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	thymus		macrophage_monocyte	macrophage_monocyte	2.707716458418765	6	5	4	191	213
+Within lineage / between tissues	macrophage_monocyte	muscle of abdomen	trachea		macrophage_monocyte	macrophage_monocyte	2.9807140527765172	6	3	2	191	214
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	posterior part of tongue		macrophage_monocyte	macrophage_monocyte	3.0254408698991893	5	4	3	192	195
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	prostate gland		macrophage_monocyte	macrophage_monocyte	2.736069736989182	5	3	2	192	196
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	skin of abdomen		macrophage_monocyte	macrophage_monocyte	3.078317057393305	5	3	2	192	201
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	skin of chest		macrophage_monocyte	macrophage_monocyte	3.0524513184708884	5	3	2	192	203
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	spleen		macrophage_monocyte	macrophage_monocyte	2.5113283999573928	5	6	4	192	205
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	1.2599459021131054	5	5	3	192	208
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	thymus		macrophage_monocyte	macrophage_monocyte	2.0347210105039606	5	5	4	192	213
+Within lineage / between tissues	macrophage_monocyte	muscle of pelvic diaphragm	trachea		macrophage_monocyte	macrophage_monocyte	2.4269252756454978	5	3	2	192	214
+Within lineage / between tissues	macrophage_monocyte	posterior part of tongue	prostate gland		macrophage_monocyte	macrophage_monocyte	1.6469578671130363	4	3	2	195	196
+Within lineage / between tissues	macrophage_monocyte	posterior part of tongue	skin of abdomen		macrophage_monocyte	macrophage_monocyte	3.3195451471813855	4	3	1	195	201
+Within lineage / between tissues	macrophage_monocyte	posterior part of tongue	skin of chest		macrophage_monocyte	macrophage_monocyte	3.83734321815278	4	3	1	195	203
+Within lineage / between tissues	macrophage_monocyte	posterior part of tongue	spleen		macrophage_monocyte	macrophage_monocyte	2.5423485783770365	4	6	4	195	205
+Within lineage / between tissues	macrophage_monocyte	posterior part of tongue	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	3.1917170205418794	4	5	3	195	208
+Within lineage / between tissues	macrophage_monocyte	posterior part of tongue	thymus		macrophage_monocyte	macrophage_monocyte	1.7751370758360392	4	5	3	195	213
+Within lineage / between tissues	macrophage_monocyte	posterior part of tongue	trachea		macrophage_monocyte	macrophage_monocyte	2.3826195593943766	4	3	1	195	214
+Within lineage / between tissues	macrophage_monocyte	prostate gland	skin of abdomen		macrophage_monocyte	macrophage_monocyte	2.516212665610122	3	3	1	196	201
+Within lineage / between tissues	macrophage_monocyte	prostate gland	skin of chest		macrophage_monocyte	macrophage_monocyte	3.0422122549988018	3	3	1	196	203
+Within lineage / between tissues	macrophage_monocyte	prostate gland	spleen		macrophage_monocyte	macrophage_monocyte	2.1142940212700654	3	6	2	196	205
+Within lineage / between tissues	macrophage_monocyte	prostate gland	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	2.975170008257459	3	5	2	196	208
+Within lineage / between tissues	macrophage_monocyte	prostate gland	thymus		macrophage_monocyte	macrophage_monocyte	2.0102908431106297	3	5	2	196	213
+Within lineage / between tissues	macrophage_monocyte	prostate gland	trachea		macrophage_monocyte	macrophage_monocyte	2.106200474355812	3	3	1	196	214
+Within lineage / between tissues	macrophage_monocyte	skin of abdomen	skin of chest		macrophage_monocyte	macrophage_monocyte	1.2344882685726912	3	3	3	201	203
+Within lineage / between tissues	macrophage_monocyte	skin of abdomen	spleen		macrophage_monocyte	macrophage_monocyte	2.572152335098568	3	6	2	201	205
+Within lineage / between tissues	macrophage_monocyte	skin of abdomen	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	3.6374767892764592	3	5	2	201	208
+Within lineage / between tissues	macrophage_monocyte	skin of abdomen	thymus		macrophage_monocyte	macrophage_monocyte	2.65278109098381	3	5	2	201	213
+Within lineage / between tissues	macrophage_monocyte	skin of abdomen	trachea		macrophage_monocyte	macrophage_monocyte	2.825777796043978	3	3	1	201	214
+Within lineage / between tissues	macrophage_monocyte	skin of chest	spleen		macrophage_monocyte	macrophage_monocyte	2.234488861652502	3	6	2	203	205
+Within lineage / between tissues	macrophage_monocyte	skin of chest	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	3.4699657157281254	3	5	2	203	208
+Within lineage / between tissues	macrophage_monocyte	skin of chest	thymus		macrophage_monocyte	macrophage_monocyte	2.810321835847144	3	5	2	203	213
+Within lineage / between tissues	macrophage_monocyte	skin of chest	trachea		macrophage_monocyte	macrophage_monocyte	2.633501981036242	3	3	1	203	214
+Within lineage / between tissues	macrophage_monocyte	spleen	subcutaneous adipose tissue		macrophage_monocyte	macrophage_monocyte	2.4219684923400155	6	5	4	205	208
+Within lineage / between tissues	macrophage_monocyte	spleen	thymus		macrophage_monocyte	macrophage_monocyte	1.7282025382913624	6	5	5	205	213
+Within lineage / between tissues	macrophage_monocyte	spleen	trachea		macrophage_monocyte	macrophage_monocyte	1.1159805691234421	6	3	2	205	214
+Within lineage / between tissues	macrophage_monocyte	subcutaneous adipose tissue	thymus		macrophage_monocyte	macrophage_monocyte	2.3053589041793057	5	5	4	208	213
+Within lineage / between tissues	macrophage_monocyte	subcutaneous adipose tissue	trachea		macrophage_monocyte	macrophage_monocyte	2.080449960619394	5	3	1	208	214
+Within lineage / between tissues	macrophage_monocyte	thymus	trachea		macrophage_monocyte	macrophage_monocyte	1.9126873392450527	5	3	2	213	214
+Within lineage / between tissues	fibroblast	adipose tissue	aorta		fibroblast	fibroblast	2.64826201058049	5	3	2	104	107
+Within lineage / between tissues	fibroblast	adipose tissue	ascending colon		fibroblast	fibroblast	3.4713631053581198	5	4	2	104	108
+Within lineage / between tissues	fibroblast	adipose tissue	bladder organ		fibroblast	fibroblast	4.300535380248555	5	6	4	104	109
+Within lineage / between tissues	fibroblast	adipose tissue	coronary artery		fibroblast	fibroblast	4.3522852391804046	5	3	3	104	115
+Within lineage / between tissues	fibroblast	adipose tissue	duodenum		fibroblast	fibroblast	2.987554245555289	5	3	1	104	116
+Within lineage / between tissues	fibroblast	adipose tissue	lung		fibroblast	fibroblast	2.382583044506023	5	4	2	104	129
+Within lineage / between tissues	fibroblast	adipose tissue	muscle of abdomen		fibroblast	fibroblast	2.1682027214628103	5	6	3	104	132
+Within lineage / between tissues	fibroblast	adipose tissue	muscle of pelvic diaphragm		fibroblast	fibroblast	2.8160800112110924	5	5	3	104	133
+Within lineage / between tissues	fibroblast	adipose tissue	parotid gland		fibroblast	fibroblast	3.713273263411733	5	3	2	104	135
+Within lineage / between tissues	fibroblast	adipose tissue	posterior part of tongue		fibroblast	fibroblast	7.154721310409616	5	4	3	104	136
+Within lineage / between tissues	fibroblast	adipose tissue	prostate gland		fibroblast	fibroblast	9.053809101087193	5	3	2	104	138
+Within lineage / between tissues	fibroblast	adipose tissue	skin of abdomen		fibroblast	fibroblast	6.261528748281669	5	3	2	104	142
+Within lineage / between tissues	fibroblast	adipose tissue	subcutaneous adipose tissue		fibroblast	fibroblast	1.59304956330903	5	6	5	104	148
+Within lineage / between tissues	fibroblast	adipose tissue	thymus		fibroblast	fibroblast	2.341154354217513	5	5	4	104	152
+Within lineage / between tissues	fibroblast	adipose tissue	trachea		fibroblast	fibroblast	3.1390372613285242	5	6	4	104	153
+Within lineage / between tissues	fibroblast	aorta	ascending colon		fibroblast	fibroblast	4.358939928034655	3	4	2	107	108
+Within lineage / between tissues	fibroblast	aorta	bladder organ		fibroblast	fibroblast	4.474558552157803	3	6	3	107	109
+Within lineage / between tissues	fibroblast	aorta	coronary artery		fibroblast	fibroblast	2.437435191765277	3	3	2	107	115
+Within lineage / between tissues	fibroblast	aorta	duodenum		fibroblast	fibroblast	2.044178232290644	3	3	1	107	116
+Within lineage / between tissues	fibroblast	aorta	lung		fibroblast	fibroblast	2.3027836429544526	3	4	2	107	129
+Within lineage / between tissues	fibroblast	aorta	muscle of abdomen		fibroblast	fibroblast	2.3886210487270167	3	6	2	107	132
+Within lineage / between tissues	fibroblast	aorta	muscle of pelvic diaphragm		fibroblast	fibroblast	2.5954567558927697	3	5	2	107	133
+Within lineage / between tissues	fibroblast	aorta	parotid gland		fibroblast	fibroblast	2.0331316817440426	3	3	1	107	135
+Within lineage / between tissues	fibroblast	aorta	posterior part of tongue		fibroblast	fibroblast	6.716190047814979	3	4	1	107	136
+Within lineage / between tissues	fibroblast	aorta	prostate gland		fibroblast	fibroblast	8.45108568175977	3	3	1	107	138
+Within lineage / between tissues	fibroblast	aorta	skin of abdomen		fibroblast	fibroblast	5.438826056352734	3	3	1	107	142
+Within lineage / between tissues	fibroblast	aorta	subcutaneous adipose tissue		fibroblast	fibroblast	1.9536816055635653	3	6	3	107	148
+Within lineage / between tissues	fibroblast	aorta	thymus		fibroblast	fibroblast	1.8683620940576537	3	5	3	107	152
+Within lineage / between tissues	fibroblast	aorta	trachea		fibroblast	fibroblast	2.2851061770759973	3	6	3	107	153
+Within lineage / between tissues	fibroblast	ascending colon	bladder organ		fibroblast	fibroblast	3.759435711359584	4	6	3	108	109
+Within lineage / between tissues	fibroblast	ascending colon	coronary artery		fibroblast	fibroblast	5.715369194438088	4	3	1	108	115
+Within lineage / between tissues	fibroblast	ascending colon	duodenum		fibroblast	fibroblast	3.743736029065292	4	3	3	108	116
+Within lineage / between tissues	fibroblast	ascending colon	lung		fibroblast	fibroblast	2.5385455997537902	4	4	2	108	129
+Within lineage / between tissues	fibroblast	ascending colon	muscle of abdomen		fibroblast	fibroblast	3.3118586171429993	4	6	3	108	132
+Within lineage / between tissues	fibroblast	ascending colon	muscle of pelvic diaphragm		fibroblast	fibroblast	4.90094628845556	4	5	3	108	133
+Within lineage / between tissues	fibroblast	ascending colon	parotid gland		fibroblast	fibroblast	5.195563804870638	4	3	0	108	135
+Within lineage / between tissues	fibroblast	ascending colon	posterior part of tongue		fibroblast	fibroblast	6.764409946358615	4	4	2	108	136
+Within lineage / between tissues	fibroblast	ascending colon	prostate gland		fibroblast	fibroblast	8.690271140112637	4	3	1	108	138
+Within lineage / between tissues	fibroblast	ascending colon	skin of abdomen		fibroblast	fibroblast	8.384205451157106	4	3	1	108	142
+Within lineage / between tissues	fibroblast	ascending colon	subcutaneous adipose tissue		fibroblast	fibroblast	3.8243037825751034	4	6	3	108	148
+Within lineage / between tissues	fibroblast	ascending colon	thymus		fibroblast	fibroblast	4.208665417776785	4	5	3	108	152
+Within lineage / between tissues	fibroblast	ascending colon	trachea		fibroblast	fibroblast	4.689871241720168	4	6	3	108	153
+Within lineage / between tissues	fibroblast	bladder organ	coronary artery		fibroblast	fibroblast	4.985529006532921	6	3	3	109	115
+Within lineage / between tissues	fibroblast	bladder organ	duodenum		fibroblast	fibroblast	4.4911752203075075	6	3	2	109	116
+Within lineage / between tissues	fibroblast	bladder organ	lung		fibroblast	fibroblast	3.3778997303612237	6	4	4	109	129
+Within lineage / between tissues	fibroblast	bladder organ	muscle of abdomen		fibroblast	fibroblast	3.6726760655212045	6	6	5	109	132
+Within lineage / between tissues	fibroblast	bladder organ	muscle of pelvic diaphragm		fibroblast	fibroblast	4.661593450750941	6	5	4	109	133
+Within lineage / between tissues	fibroblast	bladder organ	parotid gland		fibroblast	fibroblast	5.089521479435059	6	3	2	109	135
+Within lineage / between tissues	fibroblast	bladder organ	posterior part of tongue		fibroblast	fibroblast	4.4365015110933586	6	4	3	109	136
+Within lineage / between tissues	fibroblast	bladder organ	prostate gland		fibroblast	fibroblast	5.755398558836609	6	3	2	109	138
+Within lineage / between tissues	fibroblast	bladder organ	skin of abdomen		fibroblast	fibroblast	7.614512373560785	6	3	2	109	142
+Within lineage / between tissues	fibroblast	bladder organ	subcutaneous adipose tissue		fibroblast	fibroblast	4.535187473236304	6	6	5	109	148
+Within lineage / between tissues	fibroblast	bladder organ	thymus		fibroblast	fibroblast	4.3570648233391225	6	5	5	109	152
+Within lineage / between tissues	fibroblast	bladder organ	trachea		fibroblast	fibroblast	4.104000927457875	6	6	5	109	153
+Within lineage / between tissues	fibroblast	coronary artery	duodenum		fibroblast	fibroblast	2.5572575164200293	3	3	0	115	116
+Within lineage / between tissues	fibroblast	coronary artery	lung		fibroblast	fibroblast	3.7719616532584146	3	4	2	115	129
+Within lineage / between tissues	fibroblast	coronary artery	muscle of abdomen		fibroblast	fibroblast	3.4378491433706775	3	6	2	115	132
+Within lineage / between tissues	fibroblast	coronary artery	muscle of pelvic diaphragm		fibroblast	fibroblast	3.129941681958521	3	5	2	115	133
+Within lineage / between tissues	fibroblast	coronary artery	parotid gland		fibroblast	fibroblast	1.7340224189747997	3	3	2	115	135
+Within lineage / between tissues	fibroblast	coronary artery	posterior part of tongue		fibroblast	fibroblast	6.08910537447876	3	4	2	115	136
+Within lineage / between tissues	fibroblast	coronary artery	prostate gland		fibroblast	fibroblast	7.602247766048254	3	3	2	115	138
+Within lineage / between tissues	fibroblast	coronary artery	skin of abdomen		fibroblast	fibroblast	5.160017797230905	3	3	1	115	142
+Within lineage / between tissues	fibroblast	coronary artery	subcutaneous adipose tissue		fibroblast	fibroblast	3.674535500880926	3	6	3	115	148
+Within lineage / between tissues	fibroblast	coronary artery	thymus		fibroblast	fibroblast	2.718202109702829	3	5	3	115	152
+Within lineage / between tissues	fibroblast	coronary artery	trachea		fibroblast	fibroblast	2.917349915171878	3	6	3	115	153
+Within lineage / between tissues	fibroblast	duodenum	lung		fibroblast	fibroblast	2.272441322121625	3	4	1	116	129
+Within lineage / between tissues	fibroblast	duodenum	muscle of abdomen		fibroblast	fibroblast	2.066849282126523	3	6	2	116	132
+Within lineage / between tissues	fibroblast	duodenum	muscle of pelvic diaphragm		fibroblast	fibroblast	2.6432802782488314	3	5	2	116	133
+Within lineage / between tissues	fibroblast	duodenum	parotid gland		fibroblast	fibroblast	2.303706565898684	3	3	0	116	135
+Within lineage / between tissues	fibroblast	duodenum	posterior part of tongue		fibroblast	fibroblast	6.431125442589805	3	4	1	116	136
+Within lineage / between tissues	fibroblast	duodenum	prostate gland		fibroblast	fibroblast	8.339820013961702	3	3	0	116	138
+Within lineage / between tissues	fibroblast	duodenum	skin of abdomen		fibroblast	fibroblast	5.7943255164688106	3	3	1	116	142
+Within lineage / between tissues	fibroblast	duodenum	subcutaneous adipose tissue		fibroblast	fibroblast	2.2899294880287595	3	6	2	116	148
+Within lineage / between tissues	fibroblast	duodenum	thymus		fibroblast	fibroblast	2.011183655321643	3	5	2	116	152
+Within lineage / between tissues	fibroblast	duodenum	trachea		fibroblast	fibroblast	2.7881650664064503	3	6	2	116	153
+Within lineage / between tissues	fibroblast	lung	muscle of abdomen		fibroblast	fibroblast	1.496937981661799	4	6	4	129	132
+Within lineage / between tissues	fibroblast	lung	muscle of pelvic diaphragm		fibroblast	fibroblast	3.279799554447431	4	5	3	129	133
+Within lineage / between tissues	fibroblast	lung	parotid gland		fibroblast	fibroblast	3.3231207591980496	4	3	1	129	135
+Within lineage / between tissues	fibroblast	lung	posterior part of tongue		fibroblast	fibroblast	6.467686245431952	4	4	2	129	136
+Within lineage / between tissues	fibroblast	lung	prostate gland		fibroblast	fibroblast	8.380961843871201	4	3	2	129	138
+Within lineage / between tissues	fibroblast	lung	skin of abdomen		fibroblast	fibroblast	6.836381984643571	4	3	2	129	142
+Within lineage / between tissues	fibroblast	lung	subcutaneous adipose tissue		fibroblast	fibroblast	2.27062137398048	4	6	3	129	148
+Within lineage / between tissues	fibroblast	lung	thymus		fibroblast	fibroblast	2.4809626320354248	4	5	3	129	152
+Within lineage / between tissues	fibroblast	lung	trachea		fibroblast	fibroblast	2.901888595776006	4	6	3	129	153
+Within lineage / between tissues	fibroblast	muscle of abdomen	muscle of pelvic diaphragm		fibroblast	fibroblast	2.3423796630287637	6	5	5	132	133
+Within lineage / between tissues	fibroblast	muscle of abdomen	parotid gland		fibroblast	fibroblast	2.9875223616043103	6	3	1	132	135
+Within lineage / between tissues	fibroblast	muscle of abdomen	posterior part of tongue		fibroblast	fibroblast	6.690462314665595	6	4	3	132	136
+Within lineage / between tissues	fibroblast	muscle of abdomen	prostate gland		fibroblast	fibroblast	8.417624369560274	6	3	2	132	138
+Within lineage / between tissues	fibroblast	muscle of abdomen	skin of abdomen		fibroblast	fibroblast	6.045095796067442	6	3	2	132	142
+Within lineage / between tissues	fibroblast	muscle of abdomen	subcutaneous adipose tissue		fibroblast	fibroblast	2.103780872032129	6	6	4	132	148
+Within lineage / between tissues	fibroblast	muscle of abdomen	thymus		fibroblast	fibroblast	2.0202537251415165	6	5	4	132	152
+Within lineage / between tissues	fibroblast	muscle of abdomen	trachea		fibroblast	fibroblast	2.6863407742644254	6	6	4	132	153
+Within lineage / between tissues	fibroblast	muscle of pelvic diaphragm	parotid gland		fibroblast	fibroblast	2.6242931396343065	5	3	1	133	135
+Within lineage / between tissues	fibroblast	muscle of pelvic diaphragm	posterior part of tongue		fibroblast	fibroblast	7.063034873143315	5	4	3	133	136
+Within lineage / between tissues	fibroblast	muscle of pelvic diaphragm	prostate gland		fibroblast	fibroblast	8.51635738287363	5	3	2	133	138
+Within lineage / between tissues	fibroblast	muscle of pelvic diaphragm	skin of abdomen		fibroblast	fibroblast	4.158891290679924	5	3	2	133	142
+Within lineage / between tissues	fibroblast	muscle of pelvic diaphragm	subcutaneous adipose tissue		fibroblast	fibroblast	2.470455535101143	5	6	4	133	148
+Within lineage / between tissues	fibroblast	muscle of pelvic diaphragm	thymus		fibroblast	fibroblast	2.175438381520555	5	5	4	133	152
+Within lineage / between tissues	fibroblast	muscle of pelvic diaphragm	trachea		fibroblast	fibroblast	2.064106211708861	5	6	4	133	153
+Within lineage / between tissues	fibroblast	parotid gland	posterior part of tongue		fibroblast	fibroblast	6.423022907749202	3	4	2	135	136
+Within lineage / between tissues	fibroblast	parotid gland	prostate gland		fibroblast	fibroblast	8.112915292431566	3	3	1	135	138
+Within lineage / between tissues	fibroblast	parotid gland	skin of abdomen		fibroblast	fibroblast	5.4815631902101405	3	3	1	135	142
+Within lineage / between tissues	fibroblast	parotid gland	subcutaneous adipose tissue		fibroblast	fibroblast	2.944119242914618	3	6	2	135	148
+Within lineage / between tissues	fibroblast	parotid gland	thymus		fibroblast	fibroblast	2.1854108098227236	3	5	2	135	152
+Within lineage / between tissues	fibroblast	parotid gland	trachea		fibroblast	fibroblast	2.9876423465533244	3	6	2	135	153
+Within lineage / between tissues	fibroblast	posterior part of tongue	prostate gland		fibroblast	fibroblast	2.854139617017807	4	3	2	136	138
+Within lineage / between tissues	fibroblast	posterior part of tongue	skin of abdomen		fibroblast	fibroblast	9.463902466407836	4	3	1	136	142
+Within lineage / between tissues	fibroblast	posterior part of tongue	subcutaneous adipose tissue		fibroblast	fibroblast	7.070328166196046	4	6	3	136	148
+Within lineage / between tissues	fibroblast	posterior part of tongue	thymus		fibroblast	fibroblast	6.447826922023911	4	5	3	136	152
+Within lineage / between tissues	fibroblast	posterior part of tongue	trachea		fibroblast	fibroblast	6.7499653050000346	4	6	3	136	153
+Within lineage / between tissues	fibroblast	prostate gland	skin of abdomen		fibroblast	fibroblast	10.193799348076983	3	3	1	138	142
+Within lineage / between tissues	fibroblast	prostate gland	subcutaneous adipose tissue		fibroblast	fibroblast	8.981266717843788	3	6	2	138	148
+Within lineage / between tissues	fibroblast	prostate gland	thymus		fibroblast	fibroblast	8.33327208901686	3	5	2	138	152
+Within lineage / between tissues	fibroblast	prostate gland	trachea		fibroblast	fibroblast	8.20173500566373	3	6	2	138	153
+Within lineage / between tissues	fibroblast	skin of abdomen	subcutaneous adipose tissue		fibroblast	fibroblast	5.834742586293822	3	6	3	142	148
+Within lineage / between tissues	fibroblast	skin of abdomen	thymus		fibroblast	fibroblast	5.663456910550349	3	5	2	142	152
+Within lineage / between tissues	fibroblast	skin of abdomen	trachea		fibroblast	fibroblast	4.621353446858869	3	6	2	142	153
+Within lineage / between tissues	fibroblast	subcutaneous adipose tissue	thymus		fibroblast	fibroblast	2.0522247567975263	6	5	5	148	152
+Within lineage / between tissues	fibroblast	subcutaneous adipose tissue	trachea		fibroblast	fibroblast	2.582911112157256	6	6	5	148	153
+Within lineage / between tissues	fibroblast	thymus	trachea		fibroblast	fibroblast	2.5803279384100812	5	6	5	152	153
+Within lineage / between tissues	endothelial	adipose tissue	anterior part of tongue		endothelial	endothelial	2.678515965956079	4	3	2	44	45
+Within lineage / between tissues	endothelial	adipose tissue	aorta		endothelial	endothelial	1.4250581619370044	4	3	2	44	47
+Within lineage / between tissues	endothelial	adipose tissue	bladder organ		endothelial	endothelial	1.3203693097282672	4	5	3	44	49
+Within lineage / between tissues	endothelial	adipose tissue	coronary artery		endothelial	endothelial	2.503281086487852	4	3	3	44	56
+Within lineage / between tissues	endothelial	adipose tissue	duodenum		endothelial	endothelial	2.48476207689733	4	3	0	44	58
+Within lineage / between tissues	endothelial	adipose tissue	heart		endothelial	endothelial	3.455474723826253	4	3	3	44	64
+Within lineage / between tissues	endothelial	adipose tissue	left ovary		endothelial	endothelial	3.3973198362733603	4	3	0	44	71
+Within lineage / between tissues	endothelial	adipose tissue	liver		endothelial	endothelial	3.3830106487825	4	4	1	44	72
+Within lineage / between tissues	endothelial	adipose tissue	lung		endothelial	endothelial	1.614726668473358	4	4	2	44	73
+Within lineage / between tissues	endothelial	adipose tissue	muscle of abdomen		endothelial	endothelial	1.488657499553006	4	6	2	44	76
+Within lineage / between tissues	endothelial	adipose tissue	muscle of pelvic diaphragm		endothelial	endothelial	1.872198204247715	4	4	2	44	77
+Within lineage / between tissues	endothelial	adipose tissue	parotid gland		endothelial	endothelial	1.781218953361051	4	3	2	44	80
+Within lineage / between tissues	endothelial	adipose tissue	posterior part of tongue		endothelial	endothelial	3.0501473044344323	4	4	2	44	81
+Within lineage / between tissues	endothelial	adipose tissue	prostate gland		endothelial	endothelial	4.507813089099328	4	3	2	44	82
+Within lineage / between tissues	endothelial	adipose tissue	right ovary		endothelial	endothelial	2.9059573707341464	4	3	0	44	84
+Within lineage / between tissues	endothelial	adipose tissue	skin of abdomen		endothelial	endothelial	3.9818041473385186	4	3	2	44	87
+Within lineage / between tissues	endothelial	adipose tissue	skin of chest		endothelial	endothelial	4.0300396063971275	4	3	2	44	89
+Within lineage / between tissues	endothelial	adipose tissue	spleen		endothelial	endothelial	3.876091536946254	4	6	3	44	90
+Within lineage / between tissues	endothelial	adipose tissue	subcutaneous adipose tissue		endothelial	endothelial	0.9817762718983776	4	4	4	44	93
+Within lineage / between tissues	endothelial	adipose tissue	thymus		endothelial	endothelial	1.9025572094133574	4	5	3	44	98
+Within lineage / between tissues	endothelial	adipose tissue	trachea		endothelial	endothelial	1.928149113857991	4	5	2	44	99
+Within lineage / between tissues	endothelial	anterior part of tongue	aorta		endothelial	endothelial	1.8330477826633471	3	3	1	45	47
+Within lineage / between tissues	endothelial	anterior part of tongue	bladder organ		endothelial	endothelial	2.879498230734372	3	5	2	45	49
+Within lineage / between tissues	endothelial	anterior part of tongue	coronary artery		endothelial	endothelial	1.611882383519122	3	3	2	45	56
+Within lineage / between tissues	endothelial	anterior part of tongue	duodenum		endothelial	endothelial	2.2280177603782367	3	3	1	45	58
+Within lineage / between tissues	endothelial	anterior part of tongue	heart		endothelial	endothelial	3.012535346068682	3	3	2	45	64
+Within lineage / between tissues	endothelial	anterior part of tongue	left ovary		endothelial	endothelial	3.983440252441607	3	3	1	45	71
+Within lineage / between tissues	endothelial	anterior part of tongue	liver		endothelial	endothelial	2.120872541796905	3	4	1	45	72
+Within lineage / between tissues	endothelial	anterior part of tongue	lung		endothelial	endothelial	2.396660216847634	3	4	2	45	73
+Within lineage / between tissues	endothelial	anterior part of tongue	muscle of abdomen		endothelial	endothelial	2.2175832758785172	3	6	3	45	76
+Within lineage / between tissues	endothelial	anterior part of tongue	muscle of pelvic diaphragm		endothelial	endothelial	2.2717060538566427	3	4	2	45	77
+Within lineage / between tissues	endothelial	anterior part of tongue	parotid gland		endothelial	endothelial	2.6239546670517924	3	3	1	45	80
+Within lineage / between tissues	endothelial	anterior part of tongue	posterior part of tongue		endothelial	endothelial	2.641837899059774	3	4	3	45	81
+Within lineage / between tissues	endothelial	anterior part of tongue	prostate gland		endothelial	endothelial	4.503857731887073	3	3	2	45	82
+Within lineage / between tissues	endothelial	anterior part of tongue	right ovary		endothelial	endothelial	3.935746218703535	3	3	1	45	84
+Within lineage / between tissues	endothelial	anterior part of tongue	skin of abdomen		endothelial	endothelial	3.0293970628133966	3	3	1	45	87
+Within lineage / between tissues	endothelial	anterior part of tongue	skin of chest		endothelial	endothelial	3.825330421699714	3	3	1	45	89
+Within lineage / between tissues	endothelial	anterior part of tongue	spleen		endothelial	endothelial	4.484623235669704	3	6	3	45	90
+Within lineage / between tissues	endothelial	anterior part of tongue	subcutaneous adipose tissue		endothelial	endothelial	2.447128417174893	3	4	2	45	93
+Within lineage / between tissues	endothelial	anterior part of tongue	thymus		endothelial	endothelial	1.934955677094001	3	5	3	45	98
+Within lineage / between tissues	endothelial	anterior part of tongue	trachea		endothelial	endothelial	2.099638598778176	3	5	2	45	99
+Within lineage / between tissues	endothelial	aorta	bladder organ		endothelial	endothelial	1.5861525588999774	3	5	3	47	49
+Within lineage / between tissues	endothelial	aorta	coronary artery		endothelial	endothelial	1.5804425808675233	3	3	2	47	56
+Within lineage / between tissues	endothelial	aorta	duodenum		endothelial	endothelial	1.9724812039325714	3	3	1	47	58
+Within lineage / between tissues	endothelial	aorta	heart		endothelial	endothelial	3.0188123533513815	3	3	2	47	64
+Within lineage / between tissues	endothelial	aorta	left ovary		endothelial	endothelial	3.267556900692099	3	3	0	47	71
+Within lineage / between tissues	endothelial	aorta	liver		endothelial	endothelial	2.473662373368181	3	4	0	47	72
+Within lineage / between tissues	endothelial	aorta	lung		endothelial	endothelial	1.0664525450314815	3	4	2	47	73
+Within lineage / between tissues	endothelial	aorta	muscle of abdomen		endothelial	endothelial	1.7780499718252267	3	6	2	47	76
+Within lineage / between tissues	endothelial	aorta	muscle of pelvic diaphragm		endothelial	endothelial	2.049567608333314	3	4	2	47	77
+Within lineage / between tissues	endothelial	aorta	parotid gland		endothelial	endothelial	1.6746143608988904	3	3	1	47	80
+Within lineage / between tissues	endothelial	aorta	posterior part of tongue		endothelial	endothelial	2.543004059660503	3	4	1	47	81
+Within lineage / between tissues	endothelial	aorta	prostate gland		endothelial	endothelial	4.15329186450515	3	3	1	47	82
+Within lineage / between tissues	endothelial	aorta	right ovary		endothelial	endothelial	2.9826339013374707	3	3	0	47	84
+Within lineage / between tissues	endothelial	aorta	skin of abdomen		endothelial	endothelial	3.2038932752679155	3	3	1	47	87
+Within lineage / between tissues	endothelial	aorta	skin of chest		endothelial	endothelial	3.330882436908568	3	3	1	47	89
+Within lineage / between tissues	endothelial	aorta	spleen		endothelial	endothelial	3.978270147578672	3	6	3	47	90
+Within lineage / between tissues	endothelial	aorta	subcutaneous adipose tissue		endothelial	endothelial	1.671382667654272	3	4	2	47	93
+Within lineage / between tissues	endothelial	aorta	thymus		endothelial	endothelial	1.5024491230709767	3	5	3	47	98
+Within lineage / between tissues	endothelial	aorta	trachea		endothelial	endothelial	1.1982658826164612	3	5	3	47	99
+Within lineage / between tissues	endothelial	bladder organ	coronary artery		endothelial	endothelial	2.7636003919367025	5	3	3	49	56
+Within lineage / between tissues	endothelial	bladder organ	duodenum		endothelial	endothelial	2.8230423996160874	5	3	1	49	58
+Within lineage / between tissues	endothelial	bladder organ	heart		endothelial	endothelial	3.1555992439887617	5	3	3	49	64
+Within lineage / between tissues	endothelial	bladder organ	left ovary		endothelial	endothelial	3.8030213463336584	5	3	0	49	71
+Within lineage / between tissues	endothelial	bladder organ	liver		endothelial	endothelial	3.4463140374325105	5	4	1	49	72
+Within lineage / between tissues	endothelial	bladder organ	lung		endothelial	endothelial	1.4869395391173885	5	4	4	49	73
+Within lineage / between tissues	endothelial	bladder organ	muscle of abdomen		endothelial	endothelial	2.071503635188484	5	6	4	49	76
+Within lineage / between tissues	endothelial	bladder organ	muscle of pelvic diaphragm		endothelial	endothelial	2.0381106114354397	5	4	3	49	77
+Within lineage / between tissues	endothelial	bladder organ	parotid gland		endothelial	endothelial	1.8443948246269628	5	3	2	49	80
+Within lineage / between tissues	endothelial	bladder organ	posterior part of tongue		endothelial	endothelial	3.445828867164651	5	4	2	49	81
+Within lineage / between tissues	endothelial	bladder organ	prostate gland		endothelial	endothelial	4.665546385649319	5	3	2	49	82
+Within lineage / between tissues	endothelial	bladder organ	right ovary		endothelial	endothelial	3.374817571719949	5	3	0	49	84
+Within lineage / between tissues	endothelial	bladder organ	skin of abdomen		endothelial	endothelial	3.6866784392265877	5	3	2	49	87
+Within lineage / between tissues	endothelial	bladder organ	skin of chest		endothelial	endothelial	3.412598379004737	5	3	2	49	89
+Within lineage / between tissues	endothelial	bladder organ	spleen		endothelial	endothelial	4.446623678196925	5	6	4	49	90
+Within lineage / between tissues	endothelial	bladder organ	subcutaneous adipose tissue		endothelial	endothelial	1.9718930494933706	5	4	3	49	93
+Within lineage / between tissues	endothelial	bladder organ	thymus		endothelial	endothelial	2.3049776278944876	5	5	4	49	98
+Within lineage / between tissues	endothelial	bladder organ	trachea		endothelial	endothelial	2.2492286656765477	5	5	3	49	99
+Within lineage / between tissues	endothelial	coronary artery	duodenum		endothelial	endothelial	2.447250395285186	3	3	0	56	58
+Within lineage / between tissues	endothelial	coronary artery	heart		endothelial	endothelial	2.7841841734202424	3	3	3	56	64
+Within lineage / between tissues	endothelial	coronary artery	left ovary		endothelial	endothelial	3.2810021875625006	3	3	0	56	71
+Within lineage / between tissues	endothelial	coronary artery	liver		endothelial	endothelial	1.7573728603273533	3	4	1	56	72
+Within lineage / between tissues	endothelial	coronary artery	lung		endothelial	endothelial	2.3279496302227023	3	4	2	56	73
+Within lineage / between tissues	endothelial	coronary artery	muscle of abdomen		endothelial	endothelial	2.5731494951550262	3	6	2	56	76
+Within lineage / between tissues	endothelial	coronary artery	muscle of pelvic diaphragm		endothelial	endothelial	2.5720917786905844	3	4	2	56	77
+Within lineage / between tissues	endothelial	coronary artery	parotid gland		endothelial	endothelial	1.7328675200103585	3	3	2	56	80
+Within lineage / between tissues	endothelial	coronary artery	posterior part of tongue		endothelial	endothelial	2.228838702814442	3	4	2	56	81
+Within lineage / between tissues	endothelial	coronary artery	prostate gland		endothelial	endothelial	3.6921063181886282	3	3	2	56	82
+Within lineage / between tissues	endothelial	coronary artery	right ovary		endothelial	endothelial	3.4301085713652806	3	3	0	56	84
+Within lineage / between tissues	endothelial	coronary artery	skin of abdomen		endothelial	endothelial	3.3887306967189392	3	3	1	56	87
+Within lineage / between tissues	endothelial	coronary artery	skin of chest		endothelial	endothelial	4.076516611721114	3	3	1	56	89
+Within lineage / between tissues	endothelial	coronary artery	spleen		endothelial	endothelial	4.061219284102341	3	6	3	56	90
+Within lineage / between tissues	endothelial	coronary artery	subcutaneous adipose tissue		endothelial	endothelial	2.663902780346452	3	4	3	56	93
+Within lineage / between tissues	endothelial	coronary artery	thymus		endothelial	endothelial	1.2506051925884318	3	5	3	56	98
+Within lineage / between tissues	endothelial	coronary artery	trachea		endothelial	endothelial	1.818395049021193	3	5	2	56	99
+Within lineage / between tissues	endothelial	duodenum	heart		endothelial	endothelial	4.19014943761643	3	3	0	58	64
+Within lineage / between tissues	endothelial	duodenum	left ovary		endothelial	endothelial	3.3125693328284895	3	3	1	58	71
+Within lineage / between tissues	endothelial	duodenum	liver		endothelial	endothelial	3.104864016951931	3	4	0	58	72
+Within lineage / between tissues	endothelial	duodenum	lung		endothelial	endothelial	2.2831543715710474	3	4	1	58	73
+Within lineage / between tissues	endothelial	duodenum	muscle of abdomen		endothelial	endothelial	2.8625216589352154	3	6	2	58	76
+Within lineage / between tissues	endothelial	duodenum	muscle of pelvic diaphragm		endothelial	endothelial	3.2462872363659425	3	4	1	58	77
+Within lineage / between tissues	endothelial	duodenum	parotid gland		endothelial	endothelial	2.693981556762955	3	3	0	58	80
+Within lineage / between tissues	endothelial	duodenum	posterior part of tongue		endothelial	endothelial	2.6575234637751857	3	4	1	58	81
+Within lineage / between tissues	endothelial	duodenum	prostate gland		endothelial	endothelial	4.603345655923057	3	3	0	58	82
+Within lineage / between tissues	endothelial	duodenum	right ovary		endothelial	endothelial	3.0474966866255726	3	3	1	58	84
+Within lineage / between tissues	endothelial	duodenum	skin of abdomen		endothelial	endothelial	4.173709131761179	3	3	1	58	87
+Within lineage / between tissues	endothelial	duodenum	skin of chest		endothelial	endothelial	4.581603775436276	3	3	1	58	89
+Within lineage / between tissues	endothelial	duodenum	spleen		endothelial	endothelial	3.8845270653703294	3	6	2	58	90
+Within lineage / between tissues	endothelial	duodenum	subcutaneous adipose tissue		endothelial	endothelial	2.4857333612040464	3	4	0	58	93
+Within lineage / between tissues	endothelial	duodenum	thymus		endothelial	endothelial	2.660204943826326	3	5	2	58	98
+Within lineage / between tissues	endothelial	duodenum	trachea		endothelial	endothelial	2.1683102510431476	3	5	2	58	99
+Within lineage / between tissues	endothelial	heart	left ovary		endothelial	endothelial	5.309737994016068	3	3	0	64	71
+Within lineage / between tissues	endothelial	heart	liver		endothelial	endothelial	3.1716195988928777	3	4	1	64	72
+Within lineage / between tissues	endothelial	heart	lung		endothelial	endothelial	3.0505653254650316	3	4	2	64	73
+Within lineage / between tissues	endothelial	heart	muscle of abdomen		endothelial	endothelial	3.507782769825282	3	6	2	64	76
+Within lineage / between tissues	endothelial	heart	muscle of pelvic diaphragm		endothelial	endothelial	2.536281752080848	3	4	2	64	77
+Within lineage / between tissues	endothelial	heart	parotid gland		endothelial	endothelial	2.7986627172535687	3	3	2	64	80
+Within lineage / between tissues	endothelial	heart	posterior part of tongue		endothelial	endothelial	4.56776394818399	3	4	2	64	81
+Within lineage / between tissues	endothelial	heart	prostate gland		endothelial	endothelial	5.338805362860179	3	3	2	64	82
+Within lineage / between tissues	endothelial	heart	right ovary		endothelial	endothelial	5.405417156316671	3	3	0	64	84
+Within lineage / between tissues	endothelial	heart	skin of abdomen		endothelial	endothelial	2.762390460033918	3	3	1	64	87
+Within lineage / between tissues	endothelial	heart	skin of chest		endothelial	endothelial	3.125929258467986	3	3	1	64	89
+Within lineage / between tissues	endothelial	heart	spleen		endothelial	endothelial	5.91822962317517	3	6	3	64	90
+Within lineage / between tissues	endothelial	heart	subcutaneous adipose tissue		endothelial	endothelial	3.6217389816484387	3	4	3	64	93
+Within lineage / between tissues	endothelial	heart	thymus		endothelial	endothelial	2.376879180775921	3	5	3	64	98
+Within lineage / between tissues	endothelial	heart	trachea		endothelial	endothelial	3.7080483608470365	3	5	2	64	99
+Within lineage / between tissues	endothelial	left ovary	liver		endothelial	endothelial	4.533190365086851	3	4	0	71	72
+Within lineage / between tissues	endothelial	left ovary	lung		endothelial	endothelial	3.8023100728851826	3	4	0	71	73
+Within lineage / between tissues	endothelial	left ovary	muscle of abdomen		endothelial	endothelial	3.8788768414458854	3	6	1	71	76
+Within lineage / between tissues	endothelial	left ovary	muscle of pelvic diaphragm		endothelial	endothelial	4.53321978557353	3	4	0	71	77
+Within lineage / between tissues	endothelial	left ovary	parotid gland		endothelial	endothelial	2.8634837123093577	3	3	0	71	80
+Within lineage / between tissues	endothelial	left ovary	posterior part of tongue		endothelial	endothelial	2.0735637495107855	3	4	1	71	81
+Within lineage / between tissues	endothelial	left ovary	prostate gland		endothelial	endothelial	2.409507219051273	3	3	0	71	82
+Within lineage / between tissues	endothelial	left ovary	right ovary		endothelial	endothelial	1.2231864711864617	3	3	3	71	84
+Within lineage / between tissues	endothelial	left ovary	skin of abdomen		endothelial	endothelial	5.716880939111234	3	3	0	71	87
+Within lineage / between tissues	endothelial	left ovary	skin of chest		endothelial	endothelial	5.89522843300876	3	3	0	71	89
+Within lineage / between tissues	endothelial	left ovary	spleen		endothelial	endothelial	2.889058699508506	3	6	1	71	90
+Within lineage / between tissues	endothelial	left ovary	subcutaneous adipose tissue		endothelial	endothelial	3.635341544689083	3	4	0	71	93
+Within lineage / between tissues	endothelial	left ovary	thymus		endothelial	endothelial	3.301081003913521	3	5	1	71	98
+Within lineage / between tissues	endothelial	left ovary	trachea		endothelial	endothelial	3.194097919926514	3	5	1	71	99
+Within lineage / between tissues	endothelial	liver	lung		endothelial	endothelial	3.1244638119674537	4	4	1	72	73
+Within lineage / between tissues	endothelial	liver	muscle of abdomen		endothelial	endothelial	3.0100664179060725	4	6	1	72	76
+Within lineage / between tissues	endothelial	liver	muscle of pelvic diaphragm		endothelial	endothelial	2.9135798040678336	4	4	1	72	77
+Within lineage / between tissues	endothelial	liver	parotid gland		endothelial	endothelial	3.0115560426544596	4	3	1	72	80
+Within lineage / between tissues	endothelial	liver	posterior part of tongue		endothelial	endothelial	3.3308446723867573	4	4	1	72	81
+Within lineage / between tissues	endothelial	liver	prostate gland		endothelial	endothelial	5.067167318533323	4	3	1	72	82
+Within lineage / between tissues	endothelial	liver	right ovary		endothelial	endothelial	4.475110646698314	4	3	0	72	84
+Within lineage / between tissues	endothelial	liver	skin of abdomen		endothelial	endothelial	3.0866100101761376	4	3	1	72	87
+Within lineage / between tissues	endothelial	liver	skin of chest		endothelial	endothelial	4.138782560418337	4	3	1	72	89
+Within lineage / between tissues	endothelial	liver	spleen		endothelial	endothelial	5.383613139722671	4	6	1	72	90
+Within lineage / between tissues	endothelial	liver	subcutaneous adipose tissue		endothelial	endothelial	3.5752282829192565	4	4	1	72	93
+Within lineage / between tissues	endothelial	liver	thymus		endothelial	endothelial	2.5539840606843502	4	5	1	72	98
+Within lineage / between tissues	endothelial	liver	trachea		endothelial	endothelial	2.396930714220254	4	5	1	72	99
+Within lineage / between tissues	endothelial	lung	muscle of abdomen		endothelial	endothelial	2.2303477449046376	4	6	4	73	76
+Within lineage / between tissues	endothelial	lung	muscle of pelvic diaphragm		endothelial	endothelial	2.286085835628248	4	4	3	73	77
+Within lineage / between tissues	endothelial	lung	parotid gland		endothelial	endothelial	2.1151545848042166	4	3	1	73	80
+Within lineage / between tissues	endothelial	lung	posterior part of tongue		endothelial	endothelial	3.321172059936471	4	4	2	73	81
+Within lineage / between tissues	endothelial	lung	prostate gland		endothelial	endothelial	4.760286052188037	4	3	2	73	82
+Within lineage / between tissues	endothelial	lung	right ovary		endothelial	endothelial	3.4291655143350495	4	3	0	73	84
+Within lineage / between tissues	endothelial	lung	skin of abdomen		endothelial	endothelial	3.2854462393375727	4	3	2	73	87
+Within lineage / between tissues	endothelial	lung	skin of chest		endothelial	endothelial	2.974227135147823	4	3	2	73	89
+Within lineage / between tissues	endothelial	lung	spleen		endothelial	endothelial	4.507627158983756	4	6	3	73	90
+Within lineage / between tissues	endothelial	lung	subcutaneous adipose tissue		endothelial	endothelial	1.7596244489555806	4	4	2	73	93
+Within lineage / between tissues	endothelial	lung	thymus		endothelial	endothelial	2.0904064039409658	4	5	3	73	98
+Within lineage / between tissues	endothelial	lung	trachea		endothelial	endothelial	1.7998520227006585	4	5	2	73	99
+Within lineage / between tissues	endothelial	muscle of abdomen	muscle of pelvic diaphragm		endothelial	endothelial	1.3558444613731084	6	4	4	76	77
+Within lineage / between tissues	endothelial	muscle of abdomen	parotid gland		endothelial	endothelial	2.50556828981714	6	3	1	76	80
+Within lineage / between tissues	endothelial	muscle of abdomen	posterior part of tongue		endothelial	endothelial	3.135725137349704	6	4	3	76	81
+Within lineage / between tissues	endothelial	muscle of abdomen	prostate gland		endothelial	endothelial	4.848877230654997	6	3	2	76	82
+Within lineage / between tissues	endothelial	muscle of abdomen	right ovary		endothelial	endothelial	3.36382700691134	6	3	1	76	84
+Within lineage / between tissues	endothelial	muscle of abdomen	skin of abdomen		endothelial	endothelial	3.484474090248175	6	3	2	76	87
+Within lineage / between tissues	endothelial	muscle of abdomen	skin of chest		endothelial	endothelial	3.9214135371619636	6	3	2	76	89
+Within lineage / between tissues	endothelial	muscle of abdomen	spleen		endothelial	endothelial	4.488960603657902	6	6	4	76	90
+Within lineage / between tissues	endothelial	muscle of abdomen	subcutaneous adipose tissue		endothelial	endothelial	1.4220256334202037	6	4	2	76	93
+Within lineage / between tissues	endothelial	muscle of abdomen	thymus		endothelial	endothelial	2.1563936375875765	6	5	4	76	98
+Within lineage / between tissues	endothelial	muscle of abdomen	trachea		endothelial	endothelial	1.990836317431799	6	5	3	76	99
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	parotid gland		endothelial	endothelial	2.4114198711455104	4	3	1	77	80
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	posterior part of tongue		endothelial	endothelial	3.7407093764585335	4	4	2	77	81
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	prostate gland		endothelial	endothelial	5.208955761893361	4	3	2	77	82
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	right ovary		endothelial	endothelial	4.20051846245999	4	3	0	77	84
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	skin of abdomen		endothelial	endothelial	2.975925525017861	4	3	2	77	87
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	skin of chest		endothelial	endothelial	3.555905623767526	4	3	2	77	89
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	spleen		endothelial	endothelial	5.167860416814817	4	6	3	77	90
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	subcutaneous adipose tissue		endothelial	endothelial	2.0123473910979035	4	4	2	77	93
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	thymus		endothelial	endothelial	1.9432122825181504	4	5	3	77	98
+Within lineage / between tissues	endothelial	muscle of pelvic diaphragm	trachea		endothelial	endothelial	2.6285129829020275	4	5	2	77	99
+Within lineage / between tissues	endothelial	parotid gland	posterior part of tongue		endothelial	endothelial	2.5444555913675857	3	4	2	80	81
+Within lineage / between tissues	endothelial	parotid gland	prostate gland		endothelial	endothelial	3.377816062668923	3	3	1	80	82
+Within lineage / between tissues	endothelial	parotid gland	right ovary		endothelial	endothelial	2.9130284967523146	3	3	0	80	84
+Within lineage / between tissues	endothelial	parotid gland	skin of abdomen		endothelial	endothelial	3.906126469069522	3	3	1	80	87
+Within lineage / between tissues	endothelial	parotid gland	skin of chest		endothelial	endothelial	4.160405072393224	3	3	1	80	89
+Within lineage / between tissues	endothelial	parotid gland	spleen		endothelial	endothelial	3.699229088080617	3	6	3	80	90
+Within lineage / between tissues	endothelial	parotid gland	subcutaneous adipose tissue		endothelial	endothelial	2.3428934355625	3	4	2	80	93
+Within lineage / between tissues	endothelial	parotid gland	thymus		endothelial	endothelial	1.3414741012444404	3	5	2	80	98
+Within lineage / between tissues	endothelial	parotid gland	trachea		endothelial	endothelial	2.209492846183897	3	5	1	80	99
+Within lineage / between tissues	endothelial	posterior part of tongue	prostate gland		endothelial	endothelial	2.8378851668463607	4	3	2	81	82
+Within lineage / between tissues	endothelial	posterior part of tongue	right ovary		endothelial	endothelial	2.2932262086666175	4	3	1	81	84
+Within lineage / between tissues	endothelial	posterior part of tongue	skin of abdomen		endothelial	endothelial	4.85078386373541	4	3	1	81	87
+Within lineage / between tissues	endothelial	posterior part of tongue	skin of chest		endothelial	endothelial	5.310641578149368	4	3	1	81	89
+Within lineage / between tissues	endothelial	posterior part of tongue	spleen		endothelial	endothelial	2.9368450343466854	4	6	4	81	90
+Within lineage / between tissues	endothelial	posterior part of tongue	subcutaneous adipose tissue		endothelial	endothelial	3.081216923064778	4	4	2	81	93
+Within lineage / between tissues	endothelial	posterior part of tongue	thymus		endothelial	endothelial	2.7060104629876065	4	5	3	81	98
+Within lineage / between tissues	endothelial	posterior part of tongue	trachea		endothelial	endothelial	2.3736992958627297	4	5	2	81	99
+Within lineage / between tissues	endothelial	prostate gland	right ovary		endothelial	endothelial	3.334046057028341	3	3	0	82	84
+Within lineage / between tissues	endothelial	prostate gland	skin of abdomen		endothelial	endothelial	6.237515965033499	3	3	1	82	87
+Within lineage / between tissues	endothelial	prostate gland	skin of chest		endothelial	endothelial	6.397227234021905	3	3	1	82	89
+Within lineage / between tissues	endothelial	prostate gland	spleen		endothelial	endothelial	3.2746399824828987	3	6	2	82	90
+Within lineage / between tissues	endothelial	prostate gland	subcutaneous adipose tissue		endothelial	endothelial	4.726238598046472	3	4	2	82	93
+Within lineage / between tissues	endothelial	prostate gland	thymus		endothelial	endothelial	3.74411128486208	3	5	2	82	98
+Within lineage / between tissues	endothelial	prostate gland	trachea		endothelial	endothelial	4.268235371301621	3	5	1	82	99
+Within lineage / between tissues	endothelial	right ovary	skin of abdomen		endothelial	endothelial	5.502522127927303	3	3	0	84	87
+Within lineage / between tissues	endothelial	right ovary	skin of chest		endothelial	endothelial	5.620764807090425	3	3	0	84	89
+Within lineage / between tissues	endothelial	right ovary	spleen		endothelial	endothelial	3.1957645494245908	3	6	1	84	90
+Within lineage / between tissues	endothelial	right ovary	subcutaneous adipose tissue		endothelial	endothelial	3.15896089845565	3	4	0	84	93
+Within lineage / between tissues	endothelial	right ovary	thymus		endothelial	endothelial	3.405063073576032	3	5	1	84	98
+Within lineage / between tissues	endothelial	right ovary	trachea		endothelial	endothelial	2.828748192926215	3	5	1	84	99
+Within lineage / between tissues	endothelial	skin of abdomen	skin of chest		endothelial	endothelial	2.256419265435338	3	3	3	87	89
+Within lineage / between tissues	endothelial	skin of abdomen	spleen		endothelial	endothelial	6.526788235938218	3	6	2	87	90
+Within lineage / between tissues	endothelial	skin of abdomen	subcutaneous adipose tissue		endothelial	endothelial	3.9994887190545683	3	4	2	87	93
+Within lineage / between tissues	endothelial	skin of abdomen	thymus		endothelial	endothelial	3.431569651074749	3	5	2	87	98
+Within lineage / between tissues	endothelial	skin of abdomen	trachea		endothelial	endothelial	3.4952313976045435	3	5	1	87	99
+Within lineage / between tissues	endothelial	skin of chest	spleen		endothelial	endothelial	6.740988070246783	3	6	2	89	90
+Within lineage / between tissues	endothelial	skin of chest	subcutaneous adipose tissue		endothelial	endothelial	4.041842745814582	3	4	2	89	93
+Within lineage / between tissues	endothelial	skin of chest	thymus		endothelial	endothelial	3.8789068933949937	3	5	2	89	98
+Within lineage / between tissues	endothelial	skin of chest	trachea		endothelial	endothelial	3.7946521836538873	3	5	1	89	99
+Within lineage / between tissues	endothelial	spleen	subcutaneous adipose tissue		endothelial	endothelial	3.8950373422539957	6	4	3	90	93
+Within lineage / between tissues	endothelial	spleen	thymus		endothelial	endothelial	4.062803497448781	6	5	5	90	98
+Within lineage / between tissues	endothelial	spleen	trachea		endothelial	endothelial	3.9680818238090603	6	5	4	90	99
+Within lineage / between tissues	endothelial	subcutaneous adipose tissue	thymus		endothelial	endothelial	2.100827094859326	4	5	3	93	98
+Within lineage / between tissues	endothelial	subcutaneous adipose tissue	trachea		endothelial	endothelial	2.063981186544551	4	5	2	93	99
+Within lineage / between tissues	endothelial	thymus	trachea		endothelial	endothelial	2.1607792796184917	5	5	4	98	99
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	b_cell	endothelial	3.69541412486766	4	4	3	0	44
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	b_cell	fibroblast	6.780982205030315	4	5	3	0	104
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	b_cell	macrophage_monocyte	3.831472930526847	4	5	3	0	157
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	b_cell	t_cell	4.852708207119873	4	5	4	0	218
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	endothelial	fibroblast	4.207661540702208	4	5	4	44	104
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	endothelial	macrophage_monocyte	3.2170788095071994	4	5	4	44	157
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	endothelial	t_cell	3.5171355178940784	4	5	4	44	218
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	fibroblast	macrophage_monocyte	4.41597510587	5	5	5	104	157
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	fibroblast	t_cell	4.504133883727461	5	5	4	104	218
+Between lineages / within tissue		adipose tissue	adipose tissue	adipose tissue	macrophage_monocyte	t_cell	4.149649675794345	5	5	4	157	218
+Between lineages / within tissue		aorta	aorta	aorta	endothelial	fibroblast	3.093615638220764	3	3	3	47	107
+Between lineages / within tissue		aorta	aorta	aorta	endothelial	macrophage_monocyte	3.4789285138905894	3	3	3	47	159
+Between lineages / within tissue		aorta	aorta	aorta	endothelial	t_cell	2.927827936035033	3	3	3	47	221
+Between lineages / within tissue		aorta	aorta	aorta	fibroblast	macrophage_monocyte	3.827592031606394	3	3	3	107	159
+Between lineages / within tissue		aorta	aorta	aorta	fibroblast	t_cell	4.180742357674736	3	3	3	107	221
+Between lineages / within tissue		aorta	aorta	aorta	macrophage_monocyte	t_cell	3.3736068733162496	3	3	3	159	221
+Between lineages / within tissue		ascending colon	ascending colon	ascending colon	b_cell	fibroblast	8.018710588958426	3	4	3	3	108
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	b_cell	endothelial	3.1545972697350484	4	5	3	4	49
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	b_cell	fibroblast	8.56965736160953	4	6	4	4	109
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	b_cell	macrophage_monocyte	2.5882600633893693	4	6	4	4	161
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	b_cell	t_cell	5.051203174860391	4	6	4	4	223
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	endothelial	fibroblast	6.49691614303186	5	6	5	49	109
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	endothelial	macrophage_monocyte	3.1063764374609484	5	6	5	49	161
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	endothelial	t_cell	4.354016780705136	5	6	5	49	223
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	fibroblast	macrophage_monocyte	7.526707952975229	6	6	6	109	161
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	fibroblast	t_cell	6.1438405496196244	6	6	6	109	223
+Between lineages / within tissue		bladder organ	bladder organ	bladder organ	macrophage_monocyte	t_cell	4.730408145132148	6	6	6	161	223
+Between lineages / within tissue		blood	blood	blood	b_cell	macrophage_monocyte	3.945460834757287	8	8	8	5	162
+Between lineages / within tissue		blood	blood	blood	b_cell	t_cell	3.7286840384879523	8	8	8	5	224
+Between lineages / within tissue		blood	blood	blood	macrophage_monocyte	t_cell	3.73247409621113	8	8	8	162	224
+Between lineages / within tissue		bone marrow	bone marrow	bone marrow	b_cell	macrophage_monocyte	3.5319371203645966	7	7	7	6	163
+Between lineages / within tissue		bone marrow	bone marrow	bone marrow	b_cell	t_cell	3.3799083776023338	7	6	6	6	225
+Between lineages / within tissue		bone marrow	bone marrow	bone marrow	macrophage_monocyte	t_cell	3.0366040799120135	7	6	6	163	225
+Between lineages / within tissue		coronary artery	coronary artery	coronary artery	endothelial	fibroblast	3.347160133431437	3	3	3	56	115
+Between lineages / within tissue		coronary artery	coronary artery	coronary artery	endothelial	macrophage_monocyte	3.605742203193218	3	3	3	56	169
+Between lineages / within tissue		coronary artery	coronary artery	coronary artery	endothelial	t_cell	3.411380673567592	3	3	3	56	229
+Between lineages / within tissue		coronary artery	coronary artery	coronary artery	fibroblast	macrophage_monocyte	4.75651788806257	3	3	3	115	169
+Between lineages / within tissue		coronary artery	coronary artery	coronary artery	fibroblast	t_cell	4.507710832570223	3	3	3	115	229
+Between lineages / within tissue		coronary artery	coronary artery	coronary artery	macrophage_monocyte	t_cell	3.157685004729209	3	3	3	169	229
+Between lineages / within tissue		duodenum	duodenum	duodenum	b_cell	endothelial	3.7838800011056195	3	3	3	10	58
+Between lineages / within tissue		duodenum	duodenum	duodenum	b_cell	fibroblast	5.453562537414041	3	3	3	10	116
+Between lineages / within tissue		duodenum	duodenum	duodenum	b_cell	t_cell	7.064006800135861	3	3	3	10	231
+Between lineages / within tissue		duodenum	duodenum	duodenum	endothelial	fibroblast	2.888946955137718	3	3	3	58	116
+Between lineages / within tissue		duodenum	duodenum	duodenum	endothelial	t_cell	6.113431530041566	3	3	3	58	231
+Between lineages / within tissue		duodenum	duodenum	duodenum	fibroblast	t_cell	5.415967213868058	3	3	3	116	231
+Between lineages / within tissue		heart	heart	heart	endothelial	macrophage_monocyte	2.073635703411759	3	3	3	64	176
+Between lineages / within tissue		inguinal lymph node	inguinal lymph node	inguinal lymph node	b_cell	t_cell	4.138142726135114	4	4	4	17	239
+Between lineages / within tissue		left ovary	left ovary	left ovary	endothelial	macrophage_monocyte	4.028271658556972	3	3	3	71	184
+Between lineages / within tissue		liver	liver	liver	b_cell	endothelial	5.389668972727935	3	4	3	21	72
+Between lineages / within tissue		liver	liver	liver	b_cell	macrophage_monocyte	1.8465449240454657	3	4	3	21	185
+Between lineages / within tissue		liver	liver	liver	b_cell	t_cell	5.052060394381819	3	4	3	21	245
+Between lineages / within tissue		liver	liver	liver	endothelial	macrophage_monocyte	5.095826373369952	4	4	4	72	185
+Between lineages / within tissue		liver	liver	liver	endothelial	t_cell	5.101407200849962	4	4	4	72	245
+Between lineages / within tissue		liver	liver	liver	macrophage_monocyte	t_cell	4.72597291721367	4	4	4	185	245
+Between lineages / within tissue		lung	lung	lung	b_cell	endothelial	3.802030270947072	3	4	3	22	73
+Between lineages / within tissue		lung	lung	lung	b_cell	fibroblast	7.918215855117138	3	4	3	22	129
+Between lineages / within tissue		lung	lung	lung	b_cell	macrophage_monocyte	3.805491101903511	3	4	3	22	186
+Between lineages / within tissue		lung	lung	lung	b_cell	t_cell	4.0384317929646585	3	4	3	22	246
+Between lineages / within tissue		lung	lung	lung	endothelial	fibroblast	4.724613250172773	4	4	4	73	129
+Between lineages / within tissue		lung	lung	lung	endothelial	macrophage_monocyte	3.116705437427288	4	4	4	73	186
+Between lineages / within tissue		lung	lung	lung	endothelial	t_cell	2.893729711032851	4	4	4	73	246
+Between lineages / within tissue		lung	lung	lung	fibroblast	macrophage_monocyte	6.077542175017308	4	4	4	129	186
+Between lineages / within tissue		lung	lung	lung	fibroblast	t_cell	5.180220707742777	4	4	4	129	246
+Between lineages / within tissue		lung	lung	lung	macrophage_monocyte	t_cell	3.968731425644471	4	4	4	186	246
+Between lineages / within tissue		lymph node	lymph node	lymph node	b_cell	macrophage_monocyte	3.1805676351000987	6	6	6	23	187
+Between lineages / within tissue		lymph node	lymph node	lymph node	b_cell	t_cell	4.065475461251846	6	6	6	23	247
+Between lineages / within tissue		lymph node	lymph node	lymph node	macrophage_monocyte	t_cell	2.9324807420462164	6	6	6	187	247
+Between lineages / within tissue		muscle of abdomen	muscle of abdomen	muscle of abdomen	endothelial	fibroblast	4.033609469554006	6	6	6	76	132
+Between lineages / within tissue		muscle of abdomen	muscle of abdomen	muscle of abdomen	endothelial	macrophage_monocyte	3.81488565622685	6	6	6	76	191
+Between lineages / within tissue		muscle of abdomen	muscle of abdomen	muscle of abdomen	endothelial	t_cell	4.00335774673743	6	5	5	76	251
+Between lineages / within tissue		muscle of abdomen	muscle of abdomen	muscle of abdomen	fibroblast	macrophage_monocyte	4.877591949617065	6	6	6	132	191
+Between lineages / within tissue		muscle of abdomen	muscle of abdomen	muscle of abdomen	fibroblast	t_cell	4.764194126476397	6	5	5	132	251
+Between lineages / within tissue		muscle of abdomen	muscle of abdomen	muscle of abdomen	macrophage_monocyte	t_cell	3.2545778855348644	6	5	5	191	251
+Between lineages / within tissue		muscle of pelvic diaphragm	muscle of pelvic diaphragm	muscle of pelvic diaphragm	endothelial	fibroblast	3.7258355813942865	4	5	4	77	133
+Between lineages / within tissue		muscle of pelvic diaphragm	muscle of pelvic diaphragm	muscle of pelvic diaphragm	endothelial	macrophage_monocyte	3.9075131978147315	4	5	4	77	192
+Between lineages / within tissue		muscle of pelvic diaphragm	muscle of pelvic diaphragm	muscle of pelvic diaphragm	endothelial	t_cell	4.256495062506443	4	3	3	77	252
+Between lineages / within tissue		muscle of pelvic diaphragm	muscle of pelvic diaphragm	muscle of pelvic diaphragm	fibroblast	macrophage_monocyte	4.95066975028894	5	5	5	133	192
+Between lineages / within tissue		muscle of pelvic diaphragm	muscle of pelvic diaphragm	muscle of pelvic diaphragm	fibroblast	t_cell	3.7966845756601724	5	3	3	133	252
+Between lineages / within tissue		muscle of pelvic diaphragm	muscle of pelvic diaphragm	muscle of pelvic diaphragm	macrophage_monocyte	t_cell	3.8058977291028193	5	3	3	192	252
+Between lineages / within tissue		parotid gland	parotid gland	parotid gland	endothelial	fibroblast	3.9055371455186045	3	3	3	80	135
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	b_cell	endothelial	5.8438742485871344	3	4	3	30	81
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	b_cell	fibroblast	10.533564960712168	3	4	3	30	136
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	b_cell	macrophage_monocyte	3.8469303217247472	3	4	3	30	195
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	b_cell	t_cell	5.740747385515143	3	4	3	30	256
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	endothelial	fibroblast	7.2937178517671715	4	4	4	81	136
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	endothelial	macrophage_monocyte	3.9894517837927173	4	4	4	81	195
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	endothelial	t_cell	4.217268039802302	4	4	4	81	256
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	fibroblast	macrophage_monocyte	9.14035222593018	4	4	4	136	195
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	fibroblast	t_cell	8.204091774905168	4	4	4	136	256
+Between lineages / within tissue		posterior part of tongue	posterior part of tongue	posterior part of tongue	macrophage_monocyte	t_cell	4.342781602126356	4	4	4	195	256
+Between lineages / within tissue		prostate gland	prostate gland	prostate gland	endothelial	fibroblast	8.093537790180905	3	3	3	82	138
+Between lineages / within tissue		prostate gland	prostate gland	prostate gland	endothelial	macrophage_monocyte	6.10694317600771	3	3	3	82	196
+Between lineages / within tissue		prostate gland	prostate gland	prostate gland	endothelial	t_cell	5.78394281191366	3	3	3	82	257
+Between lineages / within tissue		prostate gland	prostate gland	prostate gland	fibroblast	macrophage_monocyte	10.727327515149383	3	3	3	138	196
+Between lineages / within tissue		prostate gland	prostate gland	prostate gland	fibroblast	t_cell	10.11408671859903	3	3	3	138	257
+Between lineages / within tissue		prostate gland	prostate gland	prostate gland	macrophage_monocyte	t_cell	3.348021618513292	3	3	3	196	257
+Between lineages / within tissue		skin of abdomen	skin of abdomen	skin of abdomen	endothelial	fibroblast	3.1689845538648322	3	3	3	87	142
+Between lineages / within tissue		skin of abdomen	skin of abdomen	skin of abdomen	endothelial	macrophage_monocyte	4.338633067683213	3	3	3	87	201
+Between lineages / within tissue		skin of abdomen	skin of abdomen	skin of abdomen	endothelial	t_cell	4.521995261200017	3	3	3	87	262
+Between lineages / within tissue		skin of abdomen	skin of abdomen	skin of abdomen	fibroblast	macrophage_monocyte	4.10179652518937	3	3	3	142	201
+Between lineages / within tissue		skin of abdomen	skin of abdomen	skin of abdomen	fibroblast	t_cell	4.387044558311349	3	3	3	142	262
+Between lineages / within tissue		skin of abdomen	skin of abdomen	skin of abdomen	macrophage_monocyte	t_cell	3.5147379131307153	3	3	3	201	262
+Between lineages / within tissue		skin of chest	skin of chest	skin of chest	endothelial	macrophage_monocyte	4.139394058097866	3	3	3	89	203
+Between lineages / within tissue		skin of chest	skin of chest	skin of chest	endothelial	t_cell	4.542387089899209	3	3	3	89	264
+Between lineages / within tissue		skin of chest	skin of chest	skin of chest	macrophage_monocyte	t_cell	4.748817693459764	3	3	3	203	264
+Between lineages / within tissue		spleen	spleen	spleen	b_cell	endothelial	7.122315781894414	6	6	6	36	90
+Between lineages / within tissue		spleen	spleen	spleen	b_cell	macrophage_monocyte	3.5537030188961145	6	6	6	36	205
+Between lineages / within tissue		spleen	spleen	spleen	b_cell	t_cell	4.633709629052833	6	6	6	36	266
+Between lineages / within tissue		spleen	spleen	spleen	endothelial	macrophage_monocyte	6.365031594835318	6	6	6	90	205
+Between lineages / within tissue		spleen	spleen	spleen	endothelial	t_cell	5.3406628416428	6	6	6	90	266
+Between lineages / within tissue		spleen	spleen	spleen	macrophage_monocyte	t_cell	3.764943132691763	6	6	6	205	266
+Between lineages / within tissue		subcutaneous adipose tissue	subcutaneous adipose tissue	subcutaneous adipose tissue	endothelial	fibroblast	3.7064745549743527	4	6	4	93	148
+Between lineages / within tissue		subcutaneous adipose tissue	subcutaneous adipose tissue	subcutaneous adipose tissue	endothelial	macrophage_monocyte	3.159009846797179	4	5	4	93	208
+Between lineages / within tissue		subcutaneous adipose tissue	subcutaneous adipose tissue	subcutaneous adipose tissue	endothelial	t_cell	3.8386995007797404	4	5	4	93	269
+Between lineages / within tissue		subcutaneous adipose tissue	subcutaneous adipose tissue	subcutaneous adipose tissue	fibroblast	macrophage_monocyte	4.1929188521085425	6	5	5	148	208
+Between lineages / within tissue		subcutaneous adipose tissue	subcutaneous adipose tissue	subcutaneous adipose tissue	fibroblast	t_cell	3.6889841565257675	6	5	5	148	269
+Between lineages / within tissue		subcutaneous adipose tissue	subcutaneous adipose tissue	subcutaneous adipose tissue	macrophage_monocyte	t_cell	4.237505959352553	5	5	4	208	269
+Between lineages / within tissue		thymus	thymus	thymus	b_cell	endothelial	3.996428731511304	5	5	5	41	98
+Between lineages / within tissue		thymus	thymus	thymus	b_cell	fibroblast	6.368625759461466	5	5	5	41	152
+Between lineages / within tissue		thymus	thymus	thymus	b_cell	macrophage_monocyte	3.294946363306958	5	5	5	41	213
+Between lineages / within tissue		thymus	thymus	thymus	b_cell	t_cell	2.9489269259223905	5	5	5	41	273
+Between lineages / within tissue		thymus	thymus	thymus	endothelial	fibroblast	3.969155515426118	5	5	5	98	152
+Between lineages / within tissue		thymus	thymus	thymus	endothelial	macrophage_monocyte	3.609145271951881	5	5	5	98	213
+Between lineages / within tissue		thymus	thymus	thymus	endothelial	t_cell	3.5179207313733514	5	5	5	98	273
+Between lineages / within tissue		thymus	thymus	thymus	fibroblast	macrophage_monocyte	4.857015789295013	5	5	5	152	213
+Between lineages / within tissue		thymus	thymus	thymus	fibroblast	t_cell	4.628509195309736	5	5	5	152	273
+Between lineages / within tissue		thymus	thymus	thymus	macrophage_monocyte	t_cell	2.9709953097048127	5	5	5	213	273
+Between lineages / within tissue		trachea	trachea	trachea	b_cell	endothelial	4.621837632486419	3	5	3	42	99
+Between lineages / within tissue		trachea	trachea	trachea	b_cell	fibroblast	5.996379868854786	3	6	3	42	153
+Between lineages / within tissue		trachea	trachea	trachea	b_cell	macrophage_monocyte	3.452775900865811	3	3	3	42	214
+Between lineages / within tissue		trachea	trachea	trachea	b_cell	t_cell	5.437661141964101	3	4	3	42	274
+Between lineages / within tissue		trachea	trachea	trachea	endothelial	fibroblast	2.3580094184462017	5	6	5	99	153
+Between lineages / within tissue		trachea	trachea	trachea	endothelial	macrophage_monocyte	4.069515439447529	5	3	3	99	214
+Between lineages / within tissue		trachea	trachea	trachea	endothelial	t_cell	4.359893517703208	5	4	4	99	274
+Between lineages / within tissue		trachea	trachea	trachea	fibroblast	macrophage_monocyte	4.785354885312359	6	3	3	153	214
+Between lineages / within tissue		trachea	trachea	trachea	fibroblast	t_cell	4.4645874121734055	6	4	4	153	274
+Between lineages / within tissue		trachea	trachea	trachea	macrophage_monocyte	t_cell	4.6684190042468705	3	4	3	214	274

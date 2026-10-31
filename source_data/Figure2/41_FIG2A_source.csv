@@ -1,0 +1,6 @@
+summary_type,comparison_type,lineage,n_comparisons,median,q25,q75,bootstrap_95_ci_low,bootstrap_95_ci_high,display
+lineage_within,Within lineage / between tissues,fibroblast,120,3.751585870212438,2.5525795372534694,6.056098190670271,2.812755228442862,6.342867786803087,Fibroblast
+lineage_within,Within lineage / between tissues,endothelial,231,3.0474966866255726,2.277430212713845,3.877484189196069,2.6638672319416448,4.079572197471972,Endothelial
+lineage_within,Within lineage / between tissues,macrophage_monocyte,210,2.357610357016955,1.8265870104498587,2.9672780545042547,2.078844548581555,3.206688636055793,Macrophage/Monocyte
+lineage_within,Within lineage / between tissues,t_cell,231,2.3123019910239,1.7636962146237505,3.0567636730577066,2.135509216971501,3.4465720848105152,T cell
+lineage_within,Within lineage / between tissues,b_cell,91,1.7389200442102817,1.2850621792204509,2.243684101301148,1.32865544382574,2.7003751077829907,B cell

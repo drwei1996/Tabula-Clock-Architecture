@@ -1,0 +1,86 @@
+﻿major_lineage,display,feature,tissue_unique_adjR2,n_rows,n_tissues,n_donors
+b_cell,B cell,ARNTL,-0.36075104997218355,21,11,1
+b_cell,B cell,CLOCK,0.03127617287337825,21,11,1
+b_cell,B cell,NPAS2,-0.4133299572041427,21,11,1
+b_cell,B cell,PER1,0.520829279425139,21,11,1
+b_cell,B cell,PER2,-0.24071912196135004,21,11,1
+b_cell,B cell,PER3,-0.18443420560328083,21,11,1
+b_cell,B cell,CRY1,0.3534976178716136,21,11,1
+b_cell,B cell,CRY2,0.1740776939516011,21,11,1
+b_cell,B cell,NR1D1,0.509609798610848,21,11,1
+b_cell,B cell,NR1D2,0.5722558259433002,21,11,1
+b_cell,B cell,RORA,-0.38559708913237434,21,11,1
+b_cell,B cell,RORB,0.9371731266609904,21,11,1
+b_cell,B cell,RORC,-0.06265725641627262,21,11,1
+b_cell,B cell,DBP,0.22396443189379456,21,11,1
+b_cell,B cell,TEF,-0.5430951453632193,21,11,1
+b_cell,B cell,HLF,-0.3974455243676003,21,11,1
+b_cell,B cell,NFIL3,-0.2793156282095448,21,11,1
+t_cell,T cell,ARNTL,0.26436908320734875,54,15,1
+t_cell,T cell,CLOCK,0.10120144741875114,54,15,1
+t_cell,T cell,NPAS2,0.16143220743917908,54,15,1
+t_cell,T cell,PER1,0.598954458581263,54,15,1
+t_cell,T cell,PER2,-0.0363660513489974,54,15,1
+t_cell,T cell,PER3,0.1622943601643252,54,15,1
+t_cell,T cell,CRY1,0.5067761281145197,54,15,1
+t_cell,T cell,CRY2,0.4974084297591794,54,15,1
+t_cell,T cell,NR1D1,0.3437021345069342,54,15,1
+t_cell,T cell,NR1D2,0.10300443005862259,54,15,1
+t_cell,T cell,RORA,0.2686744934691774,54,15,1
+t_cell,T cell,RORB,0.14264589406704153,54,15,1
+t_cell,T cell,RORC,0.012728497683481721,54,15,1
+t_cell,T cell,DBP,0.36746876263123085,54,15,1
+t_cell,T cell,TEF,0.32978169982713934,54,15,1
+t_cell,T cell,HLF,0.015856879207743257,54,15,1
+t_cell,T cell,NFIL3,0.005441181013489449,54,15,1
+macrophage_monocyte,Macrophage/Monocyte,ARNTL,0.6644693722711945,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,CLOCK,-0.3680574677073938,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,NPAS2,-0.38181760295842415,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,PER1,0.5601800603728435,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,PER2,0.5844490264078084,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,PER3,-0.1082349540125418,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,CRY1,-0.08064157724353938,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,CRY2,0.2598650422998783,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,NR1D1,0.2894340701073528,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,NR1D2,-0.2523341171709492,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,RORA,-0.33788448566388074,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,RORB,-0.12579988538547116,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,RORC,0.9626737127416691,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,DBP,0.10999447088633407,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,TEF,0.2612185563608236,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,HLF,-0.4186221897528324,27,14,1
+macrophage_monocyte,Macrophage/Monocyte,NFIL3,0.04581734922196301,27,14,1
+fibroblast,Fibroblast,ARNTL,0.23457193872091087,25,9,1
+fibroblast,Fibroblast,CLOCK,0.3687124097965273,25,9,1
+fibroblast,Fibroblast,NPAS2,0.3332900714471183,25,9,1
+fibroblast,Fibroblast,PER1,0.4121387207731866,25,9,1
+fibroblast,Fibroblast,PER2,0.13105115392182287,25,9,1
+fibroblast,Fibroblast,PER3,0.3367254661202921,25,9,1
+fibroblast,Fibroblast,CRY1,0.6818808891561872,25,9,1
+fibroblast,Fibroblast,CRY2,0.2799495961018488,25,9,1
+fibroblast,Fibroblast,NR1D1,0.6873925309083031,25,9,1
+fibroblast,Fibroblast,NR1D2,0.6567378177496457,25,9,1
+fibroblast,Fibroblast,RORA,0.09833667634759258,25,9,1
+fibroblast,Fibroblast,RORB,-0.09962957819048979,25,9,1
+fibroblast,Fibroblast,RORC,-0.12824733417689393,25,9,1
+fibroblast,Fibroblast,DBP,0.15590672594767851,25,9,1
+fibroblast,Fibroblast,TEF,-0.14523321975373626,25,9,1
+fibroblast,Fibroblast,HLF,0.27834773761463705,25,9,1
+fibroblast,Fibroblast,NFIL3,0.174114849273736,25,9,1
+endothelial,Endothelial,ARNTL,0.44494906921563926,14,10,1
+endothelial,Endothelial,CLOCK,0.49854178121876214,14,10,1
+endothelial,Endothelial,NPAS2,0.9060492098464965,14,10,1
+endothelial,Endothelial,PER1,0.20694725890655485,14,10,1
+endothelial,Endothelial,PER2,0.013051971163744791,14,10,1
+endothelial,Endothelial,PER3,0.313716502585659,14,10,1
+endothelial,Endothelial,CRY1,0.4756234865234449,14,10,1
+endothelial,Endothelial,CRY2,0.8797878773620733,14,10,1
+endothelial,Endothelial,NR1D1,0.744649112000155,14,10,1
+endothelial,Endothelial,NR1D2,0.444133934508944,14,10,1
+endothelial,Endothelial,RORA,0.6180958919660314,14,10,1
+endothelial,Endothelial,RORB,-0.7029037941496126,14,10,1
+endothelial,Endothelial,RORC,0.36513072228144106,14,10,1
+endothelial,Endothelial,DBP,-0.25596439790757475,14,10,1
+endothelial,Endothelial,TEF,-0.0776410214255292,14,10,1
+endothelial,Endothelial,HLF,-0.01084269117656711,14,10,1
+endothelial,Endothelial,NFIL3,0.7239936781245834,14,10,1

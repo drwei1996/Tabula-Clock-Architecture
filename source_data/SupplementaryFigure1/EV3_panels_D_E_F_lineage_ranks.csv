@@ -1,0 +1,16 @@
+﻿dataset,major_lineage,distance,rank
+Tabula,b_cell,1.8593,1.0
+HCL,b_cell,2.800532563757961,1.0
+AHCA,b_cell,2.227319209205611,1.0
+Tabula,t_cell,2.3052,2.0
+HCL,t_cell,4.994594689992941,3.0
+AHCA,t_cell,3.046665502091042,2.0
+Tabula,macrophage_monocyte,2.3576,3.0
+HCL,macrophage_monocyte,3.0398317471901573,2.0
+AHCA,macrophage_monocyte,3.441693414792216,3.0
+Tabula,fibroblast,3.7516,5.0
+HCL,fibroblast,6.233162387953814,5.0
+AHCA,fibroblast,4.799830528356145,5.0
+Tabula,endothelial,3.0475,4.0
+HCL,endothelial,5.234003771938182,4.0
+AHCA,endothelial,3.7726694418611504,4.0

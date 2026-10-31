@@ -1,0 +1,3 @@
+﻿comparison,n_lineages,spearman_rho,exact_permutation_p
+Tabula vs HCL,5,0.8999999999999998,0.08333333333333333
+Tabula vs AHCA,5,0.9999999999999999,0.016666666666666666

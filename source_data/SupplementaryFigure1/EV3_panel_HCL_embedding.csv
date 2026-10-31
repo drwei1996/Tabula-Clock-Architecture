@@ -1,0 +1,238 @@
+﻿donor_id,tissue,cell_type,major_lineage,n_cells,dim1,dim2
+Donor20,AdultAdipose,Fibroblast,fibroblast,53,-5.412089,2.0770588
+Donor20,AdultAdipose,Macrophage,macrophage_monocyte,1099,-5.694422,2.5664282
+Donor21,AdultAdrenalGland,Endothelial cell (APC),endothelial,563,-7.813232,2.1457415
+Donor21,AdultAdrenalGland,Macrophage,macrophage_monocyte,3021,-7.8672905,1.7943912
+Donor21,AdultAdrenalGland,Monocyte,macrophage_monocyte,21,-7.4427032,-0.37033784
+Donor21,AdultAdrenalGland,T cell,t_cell,117,-9.970949,2.6016457
+Donor22,AdultAdrenalGland,B cell (Plasmocyte),b_cell,324,-8.058412,2.1229904
+Donor22,AdultAdrenalGland,Endothelial cell,endothelial,30,-8.363319,2.1918006
+Donor22,AdultAdrenalGland,Endothelial cell (APC),endothelial,1213,-7.742849,3.3552196
+Donor22,AdultAdrenalGland,Macrophage,macrophage_monocyte,1947,-7.951796,2.4221048
+Donor22,AdultAdrenalGland,T cell,t_cell,29,-7.2840843,-0.22915235
+Donor23,AdultArtery,B cell (Plasmocyte),b_cell,145,-5.601411,5.180873
+Donor23,AdultArtery,Endothelial cell,endothelial,628,-6.5831842,6.2862673
+Donor23,AdultArtery,Endothelial cell (APC),endothelial,1133,-5.82543,5.7769938
+Donor23,AdultArtery,Fibroblast,fibroblast,5016,-6.0515895,5.9486437
+Donor23,AdultArtery,Macrophage,macrophage_monocyte,1986,-5.7051897,4.3480945
+Donor23,AdultArtery,T cell,t_cell,31,-9.86518,4.3483047
+Donor23,AdultPleura,B cell (Plasmocyte),b_cell,23,-7.2431326,4.143766
+Donor23,AdultPleura,Fibroblast,fibroblast,15156,-5.95591,5.2185173
+Donor23,AdultPleura,Macrophage,macrophage_monocyte,237,-5.425927,2.888616
+Donor23,AdultPleura,Monocyte,macrophage_monocyte,384,-5.5068865,2.1593025
+Donor23,AdultPleura,T cell,t_cell,52,-6.1237574,0.7991246
+Donor23,AdultTrachea,B cell (Plasmocyte),b_cell,157,-6.648195,3.9187896
+Donor23,AdultTrachea,Endothelial cell,endothelial,1164,-6.0216017,6.3982687
+Donor23,AdultTrachea,Endothelial cell (APC),endothelial,742,-5.672862,5.908369
+Donor23,AdultTrachea,Endothelial cell (endothelial to mesenchymal transition),endothelial,30,-5.4356775,5.770863
+Donor23,AdultTrachea,Fibroblast,fibroblast,892,-5.825653,6.238385
+Donor23,AdultTrachea,Macrophage,macrophage_monocyte,408,-6.059513,4.421802
+Donor24,AdultAscendingColon,B cell,b_cell,165,-8.741207,0.9214638
+Donor24,AdultAscendingColon,B cell (Plasmocyte),b_cell,1492,-8.755119,-0.061989803
+Donor24,AdultAscendingColon,T cell,t_cell,164,-10.190871,2.9288983
+Donor24,AdultEpityphlon,B cell,b_cell,1564,-8.243338,1.145389
+Donor24,AdultEpityphlon,B cell (Plasmocyte),b_cell,2264,-8.1804495,0.27711728
+Donor24,AdultEpityphlon,T cell,t_cell,391,-10.822901,2.8870583
+Donor24,AdultHeart,Endothelial cell (APC),endothelial,84,-7.6978583,2.9278874
+Donor24,AdultHeart,Fibroblast,fibroblast,24,-7.772967,4.2680635
+Donor24,AdultHeart,Macrophage,macrophage_monocyte,184,-6.344617,1.2375001
+Donor24,AdultHeart,Monocyte,macrophage_monocyte,122,-6.5927153,1.1616422
+Donor24,AdultHeart,T cell,t_cell,79,-6.3889513,1.0845273
+Donor24,AdultRectum,B cell,b_cell,776,-8.184557,0.7359507
+Donor24,AdultRectum,B cell (Plasmocyte),b_cell,190,-9.435455,0.25436187
+Donor24,AdultRectum,T cell,t_cell,503,-10.713776,1.7921246
+Donor24,AdultSigmoidColon,B cell,b_cell,69,-8.846132,3.1598449
+Donor24,AdultSigmoidColon,B cell (Plasmocyte),b_cell,203,-9.335027,0.73357654
+Donor24,AdultSigmoidColon,T cell,t_cell,382,-10.998747,2.5964983
+Donor25,AdultBladder,Endothelial cell (APC),endothelial,388,-4.756203,1.3860208
+Donor25,AdultBladder,Fibroblast,fibroblast,23,-4.878839,1.7638125
+Donor25,AdultBladder,Macrophage,macrophage_monocyte,59,-5.3447967,1.871867
+Donor25,AdultDuodenum,B cell (Plasmocyte),b_cell,1662,-8.686772,-0.4422927
+Donor25,AdultDuodenum,Endothelial cell (APC),endothelial,62,-8.2891035,3.4869878
+Donor25,AdultDuodenum,Macrophage,macrophage_monocyte,52,-5.101953,2.5726743
+Donor25,AdultDuodenum,T cell,t_cell,31,-7.125277,-0.37900725
+Donor25,AdultHeart,Endothelial cell (APC),endothelial,99,-7.9662733,4.6245494
+Donor25,AdultHeart,Macrophage,macrophage_monocyte,493,-6.7087345,0.67048556
+Donor25,AdultHeart,Monocyte,macrophage_monocyte,104,-5.1404514,1.6034517
+Donor25,AdultHeart,T cell,t_cell,63,-9.676656,3.1059515
+Donor26,AdultBladder,B cell (Plasmocyte),b_cell,30,-6.587533,3.283852
+Donor26,AdultBladder,Endothelial cell (APC),endothelial,464,-5.889822,4.776749
+Donor26,AdultBladder,Fibroblast,fibroblast,29,-5.1833954,4.0474615
+Donor26,AdultBladder,Macrophage,macrophage_monocyte,76,-4.667781,2.7328224
+Donor27,AdultBoneMarrow,B cell,b_cell,47,-8.575763,-1.1013628
+Donor27,AdultBoneMarrow,B cell (Plasmocyte),b_cell,82,-8.693833,-1.3878931
+Donor28,AdultBoneMarrow,B cell,b_cell,29,-9.012426,-1.2327222
+Donor28,AdultBoneMarrow,B cell (Plasmocyte),b_cell,128,-7.63312,0.5878414
+Donor28,AdultBoneMarrow,T cell,t_cell,59,-9.513724,1.4491612
+Donor29,AdultCerebellum,B cell (Plasmocyte),b_cell,27,-6.558149,2.0208933
+Donor29,AdultCerebellum,Endothelial cell (APC),endothelial,121,-6.35093,4.8186045
+Donor29,AdultCerebellum,Macrophage,macrophage_monocyte,1528,-6.21494,2.509301
+Donor29,AdultCerebellum,Monocyte,macrophage_monocyte,145,-6.157121,0.98009527
+Donor29,AdultCerebellum,T cell,t_cell,33,-7.4084573,4.6491146
+Donor30,AdultCervix,Endothelial cell,endothelial,390,-6.7059636,6.2078767
+Donor30,AdultCervix,Macrophage,macrophage_monocyte,83,-6.364179,5.771292
+Donor30,AdultCervix,T cell,t_cell,41,-10.2654,3.652509
+Donor30,AdultFallopiantube,B cell (Plasmocyte),b_cell,103,-8.427994,0.90145004
+Donor30,AdultFallopiantube,Endothelial cell (APC),endothelial,115,-5.080819,3.3514628
+Donor30,AdultFallopiantube,Fibroblast,fibroblast,3196,-5.609268,3.2638874
+Donor30,AdultFallopiantube,Macrophage,macrophage_monocyte,103,-4.3291016,2.5155375
+Donor30,AdultFallopiantube,T cell,t_cell,256,-9.647425,2.7877107
+Donor30,AdultUterus,Endothelial cell,endothelial,4610,-6.98465,5.8680344
+Donor30,AdultUterus,Endothelial cell (APC),endothelial,437,-6.3778324,5.7680225
+Donor30,AdultUterus,Fibroblast,fibroblast,30,-6.282787,6.139816
+Donor30,AdultUterus,Macrophage,macrophage_monocyte,69,-6.951787,2.8683226
+Donor31,AdultEsophagus,Endothelial cell (APC),endothelial,124,-4.6565094,1.2375398
+Donor31,AdultGallbladder,Endothelial cell,endothelial,164,-8.602944,3.8575397
+Donor31,AdultGallbladder,Fibroblast,fibroblast,6805,-8.808719,4.0833287
+Donor31,AdultGallbladder,Macrophage,macrophage_monocyte,1467,-6.857974,2.161977
+Donor31,AdultGallbladder,T cell,t_cell,20,-11.303166,2.3165834
+Donor31,AdultProstate,Endothelial cell,endothelial,27,-8.226634,2.6083698
+Donor31,AdultProstate,Endothelial cell (APC),endothelial,52,-8.3575945,4.368216
+Donor31,AdultProstate,Macrophage,macrophage_monocyte,28,-11.564395,1.9367647
+Donor31,AdultStomach,B cell (Plasmocyte),b_cell,203,-8.501782,2.3160236
+Donor32,AdultEsophagus,B cell,b_cell,385,-6.094557,3.1599324
+Donor32,AdultEsophagus,B cell (Plasmocyte),b_cell,129,-8.036842,1.1365417
+Donor32,AdultEsophagus,Endothelial cell,endothelial,34,-5.833733,5.542347
+Donor32,AdultEsophagus,Endothelial cell (APC),endothelial,687,-6.464156,5.608273
+Donor32,AdultEsophagus,Fibroblast,fibroblast,3759,-6.4071665,5.443803
+Donor32,AdultEsophagus,Macrophage,macrophage_monocyte,657,-5.797447,3.632327
+Donor32,AdultEsophagus,Monocyte,macrophage_monocyte,74,-4.7385645,2.0667398
+Donor32,AdultEsophagus,T cell,t_cell,242,-10.412505,3.8789678
+Donor32,AdultOmentum,Fibroblast,fibroblast,33,-6.215313,3.3911157
+Donor32,AdultOmentum,Macrophage,macrophage_monocyte,62,-5.516692,2.8303401
+Donor32,AdultOmentum,Monocyte,macrophage_monocyte,96,-5.123919,1.2199657
+Donor32,AdultOmentum,T cell,t_cell,37,-10.262433,2.6123104
+Donor33,AdultBladder,B cell,b_cell,23,-7.9277472,-1.1907485
+Donor33,AdultBladder,Fibroblast,fibroblast,27,-6.2975683,3.978845
+Donor33,AdultBladder,Macrophage,macrophage_monocyte,30,-7.1108007,3.4060867
+Donor33,AdultBladder,Monocyte,macrophage_monocyte,4531,-5.726776,1.4382162
+Donor33,AdultBladder,Sinusoidal endothelial cell,endothelial,132,-9.765239,1.1295446
+Donor33,AdultBladder,T cell,t_cell,86,-8.914796,1.7506206
+Donor34,AdultIleum,B cell (Plasmocyte),b_cell,273,-9.552039,-0.18882911
+Donor34,AdultIleum,Endothelial cell (APC),endothelial,435,-7.2871995,4.2617655
+Donor34,AdultIleum,Macrophage,macrophage_monocyte,167,-6.3353176,1.6404393
+Donor34,AdultIleum,T cell,t_cell,77,-11.340213,2.1602232
+Donor34,AdultKidney,B cell,b_cell,21,-10.0398,2.2605252
+Donor34,AdultKidney,B cell (Plasmocyte),b_cell,37,-7.5006027,0.22099315
+Donor34,AdultKidney,Endothelial cell,endothelial,22,-8.198546,3.0654976
+Donor34,AdultKidney,Endothelial cell (APC),endothelial,1423,-5.522893,5.479132
+Donor34,AdultKidney,Macrophage,macrophage_monocyte,548,-5.6732965,4.6068254
+Donor34,AdultKidney,Monocyte,macrophage_monocyte,73,-7.6807704,3.7839003
+Donor34,AdultKidney,T cell,t_cell,200,-10.00576,4.0913143
+Donor34,AdultOmentum,Fibroblast,fibroblast,69,-7.5769897,4.766243
+Donor34,AdultOmentum,Macrophage,macrophage_monocyte,587,-5.2842813,4.137414
+Donor34,AdultOmentum,Monocyte,macrophage_monocyte,42,-7.884184,-0.52294
+Donor34,AdultOmentum,T cell,t_cell,67,-10.340337,3.178427
+Donor35,AdultJeJunum,B cell (Plasmocyte),b_cell,724,-9.41197,1.4078828
+Donor35,AdultJeJunum,Macrophage,macrophage_monocyte,168,-5.993874,1.3889916
+Donor35,AdultJeJunum,T cell,t_cell,458,-10.143141,1.6534488
+Donor36,AdultKidney,B cell,b_cell,38,-7.6334963,-0.91565293
+Donor36,AdultKidney,Endothelial cell,endothelial,56,-7.274671,5.568423
+Donor36,AdultKidney,Endothelial cell (APC),endothelial,787,-5.3701634,5.1224527
+Donor36,AdultKidney,Macrophage,macrophage_monocyte,257,-7.0620027,2.179745
+Donor36,AdultKidney,Monocyte,macrophage_monocyte,59,-8.262187,-0.9661899
+Donor36,AdultKidney,T cell,t_cell,87,-11.415201,2.3284993
+Donor37,AdultKidney,B cell (Plasmocyte),b_cell,110,-8.112639,-0.7919001
+Donor37,AdultKidney,Endothelial cell (APC),endothelial,447,-5.4508204,4.4161057
+Donor37,AdultKidney,Macrophage,macrophage_monocyte,40,-5.1121745,0.91348654
+Donor37,AdultKidney,Monocyte,macrophage_monocyte,25,-7.994178,2.9262986
+Donor38,AdultLiver,B cell (Plasmocyte),b_cell,188,-9.276573,-0.4224029
+Donor38,AdultLiver,Macrophage,macrophage_monocyte,98,-8.834892,1.5572492
+Donor38,AdultLiver,Monocyte,macrophage_monocyte,143,-7.0815587,-0.50625455
+Donor38,AdultLiver,Sinusoidal endothelial cell,endothelial,681,-9.569958,2.16421
+Donor38,AdultLiver,T cell,t_cell,302,-10.22935,1.7643371
+Donor38,AdultLung,B cell (Plasmocyte),b_cell,30,-7.498812,0.3505565
+Donor38,AdultLung,Endothelial cell,endothelial,41,-7.1716747,4.7219386
+Donor38,AdultLung,Endothelial cell (APC),endothelial,1377,-5.859652,3.9984355
+Donor38,AdultLung,Endothelial cell (endothelial to mesenchymal transition),endothelial,787,-6.65682,2.877994
+Donor38,AdultLung,Fetal mesenchymal progenitor,fibroblast,30,-8.22461,3.715909
+Donor38,AdultLung,M2 Macrophage,macrophage_monocyte,497,-6.980879,2.1088443
+Donor38,AdultLung,Macrophage,macrophage_monocyte,364,-6.959386,1.6334261
+Donor38,AdultLung,Monocyte,macrophage_monocyte,71,-7.5631824,-0.7512476
+Donor38,AdultLung,T cell,t_cell,43,-9.950913,3.3694193
+Donor39,AdultLiver,B cell,b_cell,26,-7.2101564,0.75275296
+Donor39,AdultLiver,B cell (Plasmocyte),b_cell,134,-7.60879,1.1936356
+Donor39,AdultLiver,Endothelial cell (APC),endothelial,67,-8.985868,2.3531103
+Donor39,AdultLiver,Macrophage,macrophage_monocyte,852,-7.34406,2.6597006
+Donor39,AdultLiver,Monocyte,macrophage_monocyte,132,-9.238144,2.0777726
+Donor39,AdultLiver,Sinusoidal endothelial cell,endothelial,2214,-10.721317,1.9953518
+Donor39,AdultLiver,T cell,t_cell,244,-9.962916,2.5791771
+Donor40,AdultLiver,B cell,b_cell,45,-7.280708,0.8616215
+Donor40,AdultLiver,B cell (Plasmocyte),b_cell,385,-8.899244,-0.5745786
+Donor40,AdultLiver,Endothelial cell (APC),endothelial,34,-8.336075,1.5951182
+Donor40,AdultLiver,Macrophage,macrophage_monocyte,1068,-7.35477,1.4425944
+Donor40,AdultLiver,Monocyte,macrophage_monocyte,308,-8.0956545,-0.45539737
+Donor40,AdultLiver,Sinusoidal endothelial cell,endothelial,952,-10.373496,1.891585
+Donor40,AdultLiver,T cell,t_cell,376,-10.65668,2.3306196
+Donor41,AdultLung,B cell (Plasmocyte),b_cell,110,-8.211434,2.1159773
+Donor41,AdultLung,Endothelial cell (APC),endothelial,176,-7.8563566,3.695235
+Donor41,AdultLung,Endothelial cell (endothelial to mesenchymal transition),endothelial,2778,-7.269344,3.904615
+Donor41,AdultLung,M2 Macrophage,macrophage_monocyte,562,-7.5891876,3.5082264
+Donor41,AdultLung,Macrophage,macrophage_monocyte,670,-6.006955,2.5297644
+Donor41,AdultLung,Monocyte,macrophage_monocyte,43,-4.42782,2.7519548
+Donor41,AdultLung,T cell,t_cell,37,-6.8606424,5.2766337
+Donor41,AdultOmentum,Endothelial cell (APC),endothelial,22,-4.922301,2.9436715
+Donor41,AdultOmentum,Macrophage,macrophage_monocyte,82,-4.8378515,2.6151288
+Donor42,AdultLung,B cell (Plasmocyte),b_cell,173,-9.051031,0.45924556
+Donor42,AdultLung,Endothelial cell (APC),endothelial,274,-6.083976,4.018029
+Donor42,AdultLung,Endothelial cell (endothelial to mesenchymal transition),endothelial,83,-6.630153,4.436362
+Donor42,AdultLung,M2 Macrophage,macrophage_monocyte,4361,-6.9487767,3.5100558
+Donor42,AdultLung,Macrophage,macrophage_monocyte,550,-7.891502,0.055909567
+Donor42,AdultLung,Monocyte,macrophage_monocyte,37,-9.212867,2.6141222
+Donor42,AdultLung,T cell,t_cell,938,-10.668707,3.3034146
+Donor43,AdultMuscle,Macrophage,macrophage_monocyte,46,-7.7007957,1.6795361
+Donor43,AdultMuscle,T cell,t_cell,35,-5.2500916,4.6647124
+Donor44,AdultPancreas,Endothelial cell,endothelial,20,-7.7140265,1.5450792
+Donor44,AdultPancreas,Macrophage,macrophage_monocyte,147,-7.359421,0.72356534
+Donor45,AdultPeripheralBlood,B cell,b_cell,187,-8.200663,0.5294653
+Donor45,AdultPeripheralBlood,Monocyte,macrophage_monocyte,736,-7.8848896,1.297589
+Donor45,AdultPeripheralBlood,T cell,t_cell,1727,-9.140944,1.575179
+Donor46,AdultPeripheralBlood,B cell,b_cell,210,-7.826154,0.7723691
+Donor46,AdultPeripheralBlood,T cell,t_cell,1118,-9.8394,0.6583138
+Donor47,AdultPeripheralBlood,B cell,b_cell,46,-8.765712,-1.2757527
+Donor47,AdultPeripheralBlood,B cell (Plasmocyte),b_cell,42,-7.02793,2.7194138
+Donor47,AdultPeripheralBlood,Monocyte,macrophage_monocyte,1378,-8.488109,0.35363904
+Donor47,AdultPeripheralBlood,T cell,t_cell,377,-9.024944,0.5801059
+Donor48,AdultPeripheralBlood,B cell,b_cell,308,-8.914403,0.07740044
+Donor48,AdultPeripheralBlood,B cell (Plasmocyte),b_cell,119,-9.084198,-0.6644435
+Donor48,AdultPeripheralBlood,Monocyte,macrophage_monocyte,4311,-8.9735985,0.43599683
+Donor48,AdultPeripheralBlood,T cell,t_cell,1626,-9.839242,1.1628819
+Donor49,AdultSpleen,B cell,b_cell,606,-8.326843,0.4043931
+Donor49,AdultSpleen,B cell (Plasmocyte),b_cell,11669,-8.438204,-0.18600814
+Donor49,AdultSpleen,Endothelial cell (APC),endothelial,611,-6.970294,4.598113
+Donor49,AdultSpleen,Macrophage,macrophage_monocyte,546,-7.2969174,2.3323321
+Donor49,AdultSpleen,Monocyte,macrophage_monocyte,22,-8.722165,-1.3690147
+Donor49,AdultSpleen,T cell,t_cell,475,-9.841193,1.4078144
+Donor49,AdultTransverseColon,B cell (Plasmocyte),b_cell,671,-8.24698,0.87006605
+Donor49,AdultTransverseColon,Macrophage,macrophage_monocyte,104,-5.1290493,2.9691901
+Donor49,AdultTransverseColon,T cell,t_cell,150,-10.729123,2.490376
+Donor50,AdultStomach,Endothelial cell,endothelial,104,-9.161952,3.9767525
+Donor50,AdultStomach,Endothelial cell (APC),endothelial,33,-4.500233,1.2339338
+Donor50,AdultStomach,Fibroblast,fibroblast,145,-4.5398684,1.8506746
+Donor50,AdultStomach,Macrophage,macrophage_monocyte,464,-4.7070484,2.5290337
+Donor51,AdultStomach,B cell (Plasmocyte),b_cell,205,-8.3961525,1.8370727
+Donor51,AdultStomach,Macrophage,macrophage_monocyte,24,-6.007154,0.7625577
+Donor51,AdultStomach,T cell,t_cell,151,-10.648126,3.5927465
+Donor52,AdultTemporalLobe,Endothelial cell (APC),endothelial,29,-6.371828,4.513465
+Donor52,AdultTemporalLobe,Macrophage,macrophage_monocyte,3328,-6.464984,2.6364295
+Donor52,AdultTemporalLobe,Monocyte,macrophage_monocyte,28,-9.108926,1.7768495
+Donor52,AdultTemporalLobe,T cell,t_cell,20,-6.7694035,0.9501533
+Donor53,AdultThyroid,Endothelial cell,endothelial,31,-7.402158,2.1629229
+Donor53,AdultThyroid,Endothelial cell (APC),endothelial,117,-5.3547726,3.8137567
+Donor53,AdultThyroid,Fibroblast,fibroblast,32,-7.139479,4.7399836
+Donor53,AdultThyroid,Macrophage,macrophage_monocyte,54,-6.8576117,1.0391709
+Donor53,AdultThyroid,T cell,t_cell,151,-9.392975,2.3607275
+Donor54,AdultThyroid,B cell,b_cell,894,-7.7041864,2.3467507
+Donor54,AdultThyroid,B cell (Plasmocyte),b_cell,433,-9.815621,3.799187
+Donor54,AdultThyroid,Endothelial cell,endothelial,202,-7.2517023,6.103985
+Donor54,AdultThyroid,Endothelial cell (APC),endothelial,110,-8.40347,4.4683747
+Donor54,AdultThyroid,Fibroblast,fibroblast,155,-6.467364,3.860436
+Donor54,AdultThyroid,Macrophage,macrophage_monocyte,116,-6.826843,3.4750123
+Donor54,AdultThyroid,Monocyte,macrophage_monocyte,20,-4.22611,2.343204
+Donor54,AdultThyroid,T cell,t_cell,2357,-10.130119,3.4134705
+Donor55,AdultTransverseColon,B cell,b_cell,53,-8.516757,-1.4794492
+Donor55,AdultTransverseColon,B cell (Plasmocyte),b_cell,5055,-8.571912,-0.13344043
+Donor55,AdultTransverseColon,Endothelial cell (APC),endothelial,71,-8.694538,3.0768738
+Donor55,AdultTransverseColon,Macrophage,macrophage_monocyte,206,-5.9601717,1.6046512
+Donor55,AdultTransverseColon,T cell,t_cell,157,-9.4032955,0.95631355
+Donor56,AdultUreter,B cell (Plasmocyte),b_cell,34,-9.093287,-1.3773588

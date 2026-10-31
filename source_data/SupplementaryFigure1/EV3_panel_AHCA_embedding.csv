@@ -1,0 +1,142 @@
+﻿donor_id,tissue,cell_type,major_lineage,n_cells,dim1,dim2
+AHCA_DONOR1,Bladder,B Cell CD79A,b_cell,68,5.657028,11.415353
+AHCA_DONOR1,Bladder,Endothelial Cell ACKR1,endothelial,289,2.740669,10.264717
+AHCA_DONOR1,Bladder,FibSmo Cell,fibroblast,1979,0.8577902,10.644951
+AHCA_DONOR1,Bladder,Fibroblast C7,fibroblast,742,0.13306011,9.913388
+AHCA_DONOR1,Bladder,Fibroblast PLA2G2A,fibroblast,1131,0.79959613,10.156218
+AHCA_DONOR1,Bladder,Fibroblast PTGDS,fibroblast,274,1.7020427,10.776422
+AHCA_DONOR1,Bladder,Macrophage C1QB,macrophage_monocyte,493,3.5889478,12.0881605
+AHCA_DONOR1,Bladder,Monocyte,macrophage_monocyte,308,3.458944,13.672091
+AHCA_DONOR1,Bladder,NK/T Cell GNLY,t_cell,85,7.163511,6.5300465
+AHCA_DONOR1,Bladder,T Cell GZMK,t_cell,111,6.8231363,6.7511578
+AHCA_DONOR1,Bladder,T Cell IL7R,t_cell,428,6.763221,7.7479763
+AHCA_DONOR1,Bladder,T Cell XCL1,t_cell,1090,7.2616386,7.3213882
+AHCA_DONOR1,Blood,B Cell CD79A,b_cell,193,6.218887,10.816557
+AHCA_DONOR1,Blood,Monocyte,macrophage_monocyte,97,6.422838,11.333874
+AHCA_DONOR1,Blood,NK/T Cell GNLY,t_cell,20,7.1645193,5.6489244
+AHCA_DONOR1,Blood,Plasma Cell IGKV1-12,b_cell,34,6.976714,11.44196
+AHCA_DONOR1,Blood,Plasma Cell JCHAIN,b_cell,43,6.5446057,11.628043
+AHCA_DONOR1,Blood,T Cell GZMK,t_cell,74,5.835527,6.643917
+AHCA_DONOR1,Blood,T Cell IL7R,t_cell,932,5.724431,6.4211473
+AHCA_DONOR1,Common.bile.duct,Endothelial Cell ACKR1,endothelial,101,3.1224246,9.715703
+AHCA_DONOR1,Common.bile.duct,Fibroblast PLA2G2A,fibroblast,36,1.6976739,9.960518
+AHCA_DONOR1,Common.bile.duct,Fibroblast PTGDS,fibroblast,40,1.5883698,9.845593
+AHCA_DONOR1,Common.bile.duct,Macrophage C1QB,macrophage_monocyte,91,3.4573846,11.051289
+AHCA_DONOR1,Common.bile.duct,Monocyte,macrophage_monocyte,417,3.6394296,13.766685
+AHCA_DONOR1,Common.bile.duct,NK/T Cell GNLY,t_cell,65,7.5702486,6.9306483
+AHCA_DONOR1,Common.bile.duct,T Cell GZMK,t_cell,183,7.8431787,6.6148763
+AHCA_DONOR1,Common.bile.duct,T Cell IL7R,t_cell,249,6.4167976,7.962226
+AHCA_DONOR1,Common.bile.duct,T Cell XCL1,t_cell,1107,8.242695,7.1230316
+AHCA_DONOR1,Esophagus,Endothelial Cell ACKR1,endothelial,824,3.0656912,9.916922
+AHCA_DONOR1,Esophagus,Fibroblast C7,fibroblast,1008,-0.057433393,10.35254
+AHCA_DONOR1,Esophagus,Fibroblast PLA2G2A,fibroblast,1065,0.5691216,10.611269
+AHCA_DONOR1,Esophagus,Fibroblast PTGDS,fibroblast,965,1.0347003,10.747657
+AHCA_DONOR1,Esophagus,Fibroblast PTN,fibroblast,33,1.6248252,10.965694
+AHCA_DONOR1,Esophagus,Lymphatic Endothelial Cell,endothelial,48,3.4262435,11.053771
+AHCA_DONOR1,Esophagus,Macrophage C1QB,macrophage_monocyte,275,3.6377869,11.744671
+AHCA_DONOR1,Esophagus,Plasma Cell JCHAIN,b_cell,96,6.727933,11.195989
+AHCA_DONOR1,Esophagus,T Cell XCL1,t_cell,42,6.5242243,6.8219185
+AHCA_DONOR1,Heart,Endothelial Cell ACKR1,endothelial,889,3.5035906,9.71145
+AHCA_DONOR1,Heart,Endothelial Cell FABP4,endothelial,912,3.3631916,10.524694
+AHCA_DONOR1,Heart,Fibroblast GSN,fibroblast,109,1.2983949,9.62634
+AHCA_DONOR1,Heart,Fibroblast PLA2G2A,fibroblast,21,1.0948337,9.748944
+AHCA_DONOR1,Heart,Fibroblast PTGDS,fibroblast,76,0.4869301,9.907129
+AHCA_DONOR1,Heart,Fibroblast PTN,fibroblast,4007,0.1909329,10.274122
+AHCA_DONOR1,Heart,Macrophage C1QB,macrophage_monocyte,526,3.3389487,11.847107
+AHCA_DONOR1,Heart,Macrophage FCN3,macrophage_monocyte,129,3.1017873,11.469064
+AHCA_DONOR1,Heart,Macrophage RNASE1,macrophage_monocyte,55,2.2325113,10.824754
+AHCA_DONOR1,Heart,Monocyte,macrophage_monocyte,59,3.9088178,12.609637
+AHCA_DONOR1,Heart,T Cell IL7R,t_cell,32,5.8260984,5.608115
+AHCA_DONOR1,Heart,T Cell PRF1,t_cell,62,3.6474876,10.189887
+AHCA_DONOR1,Heart,T Cell XCL1,t_cell,37,6.8237805,10.639552
+AHCA_DONOR1,Liver,B Cell CD79A,b_cell,53,5.150209,10.803325
+AHCA_DONOR1,Liver,Endothelial Cell ACKR1,endothelial,72,3.3807158,9.039561
+AHCA_DONOR1,Liver,Macrophage C1QB,macrophage_monocyte,385,3.7329507,12.036623
+AHCA_DONOR1,Liver,Macrophage FCN3,macrophage_monocyte,257,3.0897257,9.098878
+AHCA_DONOR1,Liver,Monocyte,macrophage_monocyte,712,3.4184306,13.360469
+AHCA_DONOR1,Liver,NK/T Cell GNLY,t_cell,223,7.4411235,6.1115923
+AHCA_DONOR1,Liver,T Cell GZMK,t_cell,707,6.232548,6.079641
+AHCA_DONOR1,Liver,T Cell IL7R,t_cell,154,6.361547,7.8273907
+AHCA_DONOR1,Liver,T Cell XCL1,t_cell,159,6.03493,7.234799
+AHCA_DONOR1,Lymph.node,B Cell CD79A,b_cell,4714,5.0859375,11.118516
+AHCA_DONOR1,Lymph.node,T Cell GZMK,t_cell,186,6.270912,7.3420343
+AHCA_DONOR1,Lymph.node,T Cell IL7R,t_cell,2447,6.8553066,7.441588
+AHCA_DONOR1,Lymph.node,T Cell XCL1,t_cell,381,6.692757,6.8873343
+AHCA_DONOR1,Marrow,B Cell CD79A,b_cell,468,5.9961267,11.140103
+AHCA_DONOR1,Marrow,Macrophage C1QB,macrophage_monocyte,32,5.8871727,11.66902
+AHCA_DONOR1,Marrow,Monocyte,macrophage_monocyte,114,4.7407346,12.079908
+AHCA_DONOR1,Marrow,NK/T Cell GNLY,t_cell,481,6.758985,5.6164217
+AHCA_DONOR1,Marrow,Plasma Cell JCHAIN,b_cell,44,6.658845,11.828499
+AHCA_DONOR1,Marrow,T Cell GZMK,t_cell,1187,6.0086737,6.1095886
+AHCA_DONOR1,Marrow,T Cell IL7R,t_cell,732,5.6374736,6.5594144
+AHCA_DONOR1,Marrow,T Cell XCL1,t_cell,92,5.469043,7.0879865
+AHCA_DONOR1,Muscle,Endothelial Cell ACKR1,endothelial,308,2.3786652,10.994374
+AHCA_DONOR1,Muscle,Endothelial Cell FABP4,endothelial,832,2.650559,11.232581
+AHCA_DONOR1,Muscle,Fibroblast APOD,fibroblast,848,0.03455941,10.093557
+AHCA_DONOR1,Muscle,Macrophage C1QB,macrophage_monocyte,45,4.876495,10.9606285
+AHCA_DONOR1,Muscle,Monocyte,macrophage_monocyte,123,3.8526855,12.705914
+AHCA_DONOR1,Muscle,NK/T Cell GNLY,t_cell,297,6.211397,6.2490344
+AHCA_DONOR1,Muscle,T Cell GZMK,t_cell,131,6.6988072,5.966572
+AHCA_DONOR1,Muscle,T Cell IL7R,t_cell,51,6.263344,7.6147914
+AHCA_DONOR1,Muscle,T Cell PRF1,t_cell,76,2.4347744,10.815995
+AHCA_DONOR1,Muscle,T Cell XCL1,t_cell,38,5.5167427,7.4106383
+AHCA_DONOR1,Rectum,B Cell CD79A,b_cell,567,5.9333234,10.636406
+AHCA_DONOR1,Rectum,Endothelial Cell ACKR1,endothelial,75,3.580686,10.279803
+AHCA_DONOR1,Rectum,FibSmo Cell,fibroblast,71,2.0521705,10.137833
+AHCA_DONOR1,Rectum,Fibroblast C7,fibroblast,721,0.3628253,10.294646
+AHCA_DONOR1,Rectum,Fibroblast PLA2G2A,fibroblast,391,1.2953657,10.570742
+AHCA_DONOR1,Rectum,Fibroblast PTGDS,fibroblast,71,2.617188,10.726515
+AHCA_DONOR1,Rectum,Macrophage C1QB,macrophage_monocyte,868,3.4965923,12.713527
+AHCA_DONOR1,Rectum,Monocyte,macrophage_monocyte,110,4.3707776,12.574112
+AHCA_DONOR1,Rectum,Plasma Cell JCHAIN,b_cell,582,6.7224793,10.941513
+AHCA_DONOR1,Rectum,T Cell GZMA,t_cell,280,7.396603,8.479985
+AHCA_DONOR1,Rectum,T Cell GZMK,t_cell,93,5.5401435,5.979638
+AHCA_DONOR1,Rectum,T Cell IL7R,t_cell,629,7.444125,7.7443414
+AHCA_DONOR1,Rectum,T Cell XCL1,t_cell,672,7.5374064,7.554526
+AHCA_DONOR1,Skin,Endothelial Cell ACKR1,endothelial,1464,3.0512989,10.367735
+AHCA_DONOR1,Skin,Fibroblast PLA2G2A,fibroblast,32,2.2811358,10.057743
+AHCA_DONOR1,Skin,Fibroblast PTGDS,fibroblast,675,1.0631878,10.172629
+AHCA_DONOR1,Skin,Lymphatic Endothelial Cell,endothelial,24,4.0308475,11.124132
+AHCA_DONOR1,Skin,Macrophage C1QB,macrophage_monocyte,108,3.196933,11.21837
+AHCA_DONOR1,Skin,Monocyte,macrophage_monocyte,32,3.1775756,13.899018
+AHCA_DONOR1,Skin,T Cell IL7R,t_cell,26,6.9367642,7.9458094
+AHCA_DONOR1,Skin,T Cell XCL1,t_cell,20,4.9926715,7.2898073
+AHCA_DONOR1,Small.intestine,B Cell CD79A,b_cell,31,4.981223,10.3120775
+AHCA_DONOR1,Small.intestine,B Cell VPREB3,b_cell,63,4.5178022,11.334513
+AHCA_DONOR1,Small.intestine,Macrophage C1QB,macrophage_monocyte,27,3.101652,12.853794
+AHCA_DONOR1,Small.intestine,Plasma Cell JCHAIN,b_cell,27,6.2481947,10.944806
+AHCA_DONOR1,Small.intestine,T Cell GZMA,t_cell,35,7.646993,8.084842
+AHCA_DONOR1,Small.intestine,T Cell RGS1,t_cell,666,8.352373,7.515746
+AHCA_DONOR1,Small.intestine,T Cell XCL1,t_cell,55,8.946359,7.629878
+AHCA_DONOR1,Spleen,B Cell CD79A,b_cell,1192,5.667354,10.779587
+AHCA_DONOR1,Spleen,Macrophage C1QB,macrophage_monocyte,123,4.2128425,12.926842
+AHCA_DONOR1,Spleen,Monocyte,macrophage_monocyte,201,3.2327316,13.605757
+AHCA_DONOR1,Spleen,NK/T Cell GNLY,t_cell,274,7.2747397,6.0825133
+AHCA_DONOR1,Spleen,Plasma Cell JCHAIN,b_cell,343,6.499266,11.608397
+AHCA_DONOR1,Spleen,T Cell GZMK,t_cell,928,6.7361383,6.3749228
+AHCA_DONOR1,Spleen,T Cell IL7R,t_cell,1195,6.567346,7.074367
+AHCA_DONOR1,Spleen,T Cell XCL1,t_cell,240,7.1007805,7.141668
+AHCA_DONOR1,Stomach,B Cell CD79A,b_cell,1043,5.623573,10.204554
+AHCA_DONOR1,Stomach,Endothelial Cell ACKR1,endothelial,22,4.015367,8.872657
+AHCA_DONOR1,Stomach,FibSmo Cell,fibroblast,29,1.5735933,9.427339
+AHCA_DONOR1,Stomach,Fibroblast PLA2G2A,fibroblast,62,2.3027315,9.233652
+AHCA_DONOR1,Stomach,Monocyte,macrophage_monocyte,76,3.5741167,13.60503
+AHCA_DONOR1,Stomach,NK/T Cell GNLY,t_cell,31,8.364185,7.133651
+AHCA_DONOR1,Stomach,Plasma Cell JCHAIN,b_cell,496,6.5717773,10.625435
+AHCA_DONOR1,Stomach,T Cell GZMA,t_cell,922,8.334578,8.02767
+AHCA_DONOR1,Stomach,T Cell GZMK,t_cell,139,6.7284884,6.1630654
+AHCA_DONOR1,Stomach,T Cell IL7R,t_cell,368,8.6272,7.6425724
+AHCA_DONOR1,Stomach,T Cell XCL1,t_cell,1492,8.723286,7.934718
+AHCA_DONOR1,Trachea,B Cell CD79A,b_cell,63,4.5972476,10.554634
+AHCA_DONOR1,Trachea,B Cell MS4A1,b_cell,145,4.9175305,10.740464
+AHCA_DONOR1,Trachea,Endothelial Cell ACKR1,endothelial,882,2.6192293,9.561849
+AHCA_DONOR1,Trachea,Fibroblast PLA2G2A,fibroblast,210,2.5614014,9.571417
+AHCA_DONOR1,Trachea,Fibroblast PTGDS,fibroblast,432,2.127701,9.721874
+AHCA_DONOR1,Trachea,Macrophage C1QB,macrophage_monocyte,132,3.7520866,13.099259
+AHCA_DONOR1,Trachea,Monocyte,macrophage_monocyte,187,3.864213,13.298754
+AHCA_DONOR1,Trachea,NK/T Cell GNLY,t_cell,89,6.0644674,5.678409
+AHCA_DONOR1,Trachea,Plasma Cell JCHAIN,b_cell,28,5.8537617,10.216628
+AHCA_DONOR1,Trachea,T Cell CCL5,t_cell,1299,8.501834,7.63028
+AHCA_DONOR1,Trachea,T Cell GZMK,t_cell,61,8.104225,6.5496726
+AHCA_DONOR1,Trachea,T Cell IL7R,t_cell,75,8.251189,7.507196
+AHCA_DONOR1,Trachea,T Cell XCL1,t_cell,233,8.693739,7.3018494

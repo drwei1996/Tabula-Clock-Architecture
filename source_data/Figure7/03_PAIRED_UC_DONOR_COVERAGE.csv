@@ -1,0 +1,6 @@
+lineage,n_healthy,n_UC_noninflamed,n_UC_inflamed,n_UC_paired,n_UC_only_non,n_UC_only_infl
+B cell,12,18,18,18,0,0
+T cell,12,18,18,18,0,0
+Macrophage/Monocyte,12,17,17,17,0,0
+Fibroblast,12,18,17,17,1,0
+Endothelial,10,18,18,18,0,0

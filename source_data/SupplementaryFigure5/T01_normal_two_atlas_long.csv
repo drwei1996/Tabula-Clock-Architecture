@@ -1,0 +1,61 @@
+lineage,atlas,arm,score
+B cell,Tabula all tissues,EBOX_POS,-1.4142535410738803
+T cell,Tabula all tissues,EBOX_POS,-0.1177256571354174
+Macrophage/Monocyte,Tabula all tissues,EBOX_POS,-0.6721619234598037
+Fibroblast,Tabula all tissues,EBOX_POS,1.331315950915223
+Endothelial,Tabula all tissues,EBOX_POS,0.8728251707538784
+B cell,SCP259 Healthy colon,EBOX_POS,-0.5573275602073896
+T cell,SCP259 Healthy colon,EBOX_POS,0.370381048899211
+Macrophage/Monocyte,SCP259 Healthy colon,EBOX_POS,-0.3530879799250117
+Fibroblast,SCP259 Healthy colon,EBOX_POS,0.3209200535057314
+Endothelial,SCP259 Healthy colon,EBOX_POS,0.26293732527295
+B cell,Tabula all tissues,EBOX_NEG,-1.615418452364166
+T cell,Tabula all tissues,EBOX_NEG,-0.1328772231853857
+Macrophage/Monocyte,Tabula all tissues,EBOX_NEG,-0.0006913130861138
+Fibroblast,Tabula all tissues,EBOX_NEG,1.5238349477141544
+Endothelial,Tabula all tissues,EBOX_NEG,0.225152040921511
+B cell,SCP259 Healthy colon,EBOX_NEG,-0.682170654923436
+T cell,SCP259 Healthy colon,EBOX_NEG,-0.0737680194273103
+Macrophage/Monocyte,SCP259 Healthy colon,EBOX_NEG,0.0721956704786804
+Fibroblast,SCP259 Healthy colon,EBOX_NEG,0.4422270106526957
+Endothelial,SCP259 Healthy colon,EBOX_NEG,0.2898191918632427
+B cell,Tabula all tissues,RORE_ACT,-0.9471002492812244
+T cell,Tabula all tissues,RORE_ACT,0.7635759088713926
+Macrophage/Monocyte,Tabula all tissues,RORE_ACT,-1.1347579937688186
+Fibroblast,Tabula all tissues,RORE_ACT,1.4847751926953077
+Endothelial,Tabula all tissues,RORE_ACT,-0.1664928585166574
+B cell,SCP259 Healthy colon,RORE_ACT,-0.2756012464524914
+T cell,SCP259 Healthy colon,RORE_ACT,0.8847415767357877
+Macrophage/Monocyte,SCP259 Healthy colon,RORE_ACT,-0.581918575013335
+Fibroblast,SCP259 Healthy colon,RORE_ACT,0.2679113039447856
+Endothelial,SCP259 Healthy colon,RORE_ACT,-0.3541596710576964
+B cell,Tabula all tissues,RORE_REP,-0.3907664171440178
+T cell,Tabula all tissues,RORE_REP,0.301865395603331
+Macrophage/Monocyte,Tabula all tissues,RORE_REP,-1.744902726170872
+Fibroblast,Tabula all tissues,RORE_REP,1.0395299167551322
+Endothelial,Tabula all tissues,RORE_REP,0.7942738309564263
+B cell,SCP259 Healthy colon,RORE_REP,-0.5678487788144672
+T cell,SCP259 Healthy colon,RORE_REP,0.2097673853002159
+Macrophage/Monocyte,SCP259 Healthy colon,RORE_REP,-0.4850735289414428
+Fibroblast,SCP259 Healthy colon,RORE_REP,0.2103382214244667
+Endothelial,SCP259 Healthy colon,RORE_REP,0.7593800412374738
+B cell,Tabula all tissues,DBOX_ACT,-0.8378363393322172
+T cell,Tabula all tissues,DBOX_ACT,-0.5910669459007495
+Macrophage/Monocyte,Tabula all tissues,DBOX_ACT,-0.7894303095820759
+Fibroblast,Tabula all tissues,DBOX_ACT,1.7668019361161302
+Endothelial,Tabula all tissues,DBOX_ACT,0.4515316586989122
+B cell,SCP259 Healthy colon,DBOX_ACT,-0.7125183780672373
+T cell,SCP259 Healthy colon,DBOX_ACT,-0.2620531838352071
+Macrophage/Monocyte,SCP259 Healthy colon,DBOX_ACT,-0.1988012584938951
+Fibroblast,SCP259 Healthy colon,DBOX_ACT,0.949532718210235
+Endothelial,SCP259 Healthy colon,DBOX_ACT,0.2686081226233258
+B cell,Tabula all tissues,DBOX_REP,-1.1612912226068135
+T cell,Tabula all tissues,DBOX_REP,-0.8154257341312136
+Macrophage/Monocyte,Tabula all tissues,DBOX_REP,0.6824135115722484
+Fibroblast,Tabula all tissues,DBOX_REP,1.564535138487214
+Endothelial,Tabula all tissues,DBOX_REP,-0.2702316933214351
+B cell,SCP259 Healthy colon,DBOX_REP,-0.4510623250968829
+T cell,SCP259 Healthy colon,DBOX_REP,-0.0566333842282361
+Macrophage/Monocyte,SCP259 Healthy colon,DBOX_REP,1.2866129427173048
+Fibroblast,SCP259 Healthy colon,DBOX_REP,-0.1625448906630312
+Endothelial,SCP259 Healthy colon,DBOX_REP,-0.7396468112749862
